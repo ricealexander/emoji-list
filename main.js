@@ -4,6 +4,8 @@
 const _arrayFlatPolyfill = require('array-flat-polyfill')
 const by = require('./src/by')
 
+const categoryOrder = ['People', 'Nature', 'Objects', 'Places', 'Symbols']
+
 const unicodeSort = ({ unicode: emojiA }, { unicode: emojiB }) => {
   // force false values to be at the bottom of the array
   if (emojiB === false) return -1
@@ -39,9 +41,14 @@ module.exports = function (emojis) {
     .reduce(emojisByCategory, {}) // separate emojis into categories
 
   const formattedMarkdown = Object.entries(emojiCategories)
+    .sort((categoryA, categoryB) => {
+      const indexA = categoryOrder.indexOf(categoryA[0])
+      const indexB = categoryOrder.indexOf(categoryB[0])
+      return indexA - indexB
+    })
     .map(([category, emojis]) => {
       const emojiMarkdown = emojis
-        .sort(by('category', unicodeSort, 'alias'))
+        .sort(by(unicodeSort, 'alias'))
         .map(({alias}) => `:${alias}:`)
         .join(' ')
 
