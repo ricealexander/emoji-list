@@ -1,7 +1,4 @@
 const emojiJSON = [
-  { alias: 'coupleskiss'},
-  { alias: 'black_square'},
-  { alias: 'whit_square'},
   {
     alias: 'bowtie',
     unicode: false,
