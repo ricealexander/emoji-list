@@ -1,11 +1,11 @@
 [
   {
-    "alias": "+1",
+    "alias": ["+1", "thumbsup"],
     "unicode": "👍",
     "category": "People"
   },
   {
-    "alias": "-1",
+    "alias": ["-1", "thumbsdown"],
     "unicode": "👎",
     "category": "People"
   },
@@ -340,7 +340,7 @@
     "category": "Nature"
   },
   {
-    "alias": "bee",
+    "alias": ["bee", "honeybee"],
     "unicode": "🐝",
     "category": "Nature"
   },
@@ -380,7 +380,7 @@
     "category": "Places"
   },
   {
-    "alias": "biking_man",
+    "alias": ["biking_man", "bicyclist"],
     "unicode": "🚴",
     "category": "Objects"
   },
@@ -420,7 +420,7 @@
     "category": "Symbols"
   },
   {
-    "alias": "blonde_man",
+    "alias": ["blonde_man", "person_with_blond_hair"],
     "unicode": "👱",
     "category": "People"
   },
@@ -460,7 +460,7 @@
     "category": "Nature"
   },
   {
-    "alias": "boat",
+    "alias": ["boat", "sailboat"],
     "unicode": "⛵️",
     "category": "Places"
   },
@@ -490,7 +490,7 @@
     "category": "Objects"
   },
   {
-    "alias": "boom",
+    "alias": ["boom", "collision"],
     "unicode": "💥",
     "category": "People"
   },
@@ -505,7 +505,7 @@
     "category": "Nature"
   },
   {
-    "alias": "bowing_man",
+    "alias": ["bowing_man", "bow"],
     "unicode": "🙇",
     "category": "People"
   },
@@ -640,7 +640,7 @@
     "category": "Symbols"
   },
   {
-    "alias": "car",
+    "alias": ["car", "red_car"],
     "unicode": "🚗",
     "category": "Places"
   },
@@ -965,7 +965,7 @@
     "category": "Places"
   },
   {
-    "alias": "construction_worker_man",
+    "alias": ["construction_worker_man", "construction_worker"],
     "unicode": "👷",
     "category": "People"
   },
@@ -1000,7 +1000,7 @@
     "category": "People"
   },
   {
-    "alias": "couple_with_heart_woman_man",
+    "alias": ["couple_with_heart_woman_man", "couple_with_heart"],
     "unicode": "💑",
     "category": "People"
   },
@@ -1090,7 +1090,7 @@
     "category": "People"
   },
   {
-    "alias": "dancing_women",
+    "alias": ["dancing_women", "dancers"],
     "unicode": "👯",
     "category": "People"
   },
@@ -1295,7 +1295,7 @@
     "category": "Nature"
   },
   {
-    "alias": "email",
+    "alias": ["email", "envelope"],
     "unicode": "✉️",
     "category": "Objects"
   },
@@ -1330,7 +1330,7 @@
     "category": "Nature"
   },
   {
-    "alias": "exclamation",
+    "alias": ["exclamation", "heavy_exclamation_mark"],
     "unicode": "❗️",
     "category": "Symbols"
   },
@@ -1360,7 +1360,7 @@
     "category": "Nature"
   },
   {
-    "alias": "family_man_woman_boy",
+    "alias": ["family_man_woman_boy", "family"],
     "unicode": "👪",
     "category": "People"
   },
@@ -1385,7 +1385,7 @@
     "category": "People"
   },
   {
-    "alias": "feet",
+    "alias": ["feet", "paw_prints"],
     "unicode": "🐾",
     "category": "Nature"
   },
@@ -1445,12 +1445,12 @@
     "category": "Objects"
   },
   {
-    "alias": "fist_oncoming",
+    "alias": ["fist_oncoming", "facepunch", "punch"],
     "unicode": "👊",
     "category": "People"
   },
   {
-    "alias": "fist_raised",
+    "alias": ["fist_raised", "fist"],
     "unicode": "✊",
     "category": "People"
   },
@@ -1545,7 +1545,7 @@
     "category": "People"
   },
   {
-    "alias": "frowning_woman",
+    "alias": ["frowning_woman", "person_frowning"],
     "unicode": "🙍",
     "category": "People"
   },
@@ -1570,7 +1570,7 @@
     "category": "Objects"
   },
   {
-    "alias": "gb",
+    "alias": ["gb", "uk"],
     "unicode": "🇬🇧",
     "category": "Places"
   },
@@ -1690,7 +1690,7 @@
     "category": "Objects"
   },
   {
-    "alias": "haircut_woman",
+    "alias": ["haircut_woman", "haircut"],
     "unicode": "💇",
     "category": "People"
   },
@@ -1710,7 +1710,7 @@
     "category": "Nature"
   },
   {
-    "alias": "hand",
+    "alias": ["hand", "raised_hand"],
     "unicode": "✋",
     "category": "People"
   },
@@ -1720,7 +1720,7 @@
     "category": "Objects"
   },
   {
-    "alias": "hankey",
+    "alias": ["hankey", "poop", "shit"],
     "unicode": "💩",
     "category": "People"
   },
@@ -2100,7 +2100,7 @@
     "category": "Nature"
   },
   {
-    "alias": "laughing",
+    "alias": ["laughing", "satisfied"],
     "unicode": "😆",
     "category": "People"
   },
@@ -2280,7 +2280,7 @@
     "category": "People"
   },
   {
-    "alias": "massage_woman",
+    "alias": ["massage_woman", "massage"],
     "unicode": "💆",
     "category": "People"
   },
@@ -2300,7 +2300,7 @@
     "category": "Objects"
   },
   {
-    "alias": "memo",
+    "alias": ["memo", "pencil"],
     "unicode": "📝",
     "category": "Objects"
   },
@@ -2330,7 +2330,7 @@
     "category": "Objects"
   },
   {
-    "alias": "middle_finger",
+    "alias": ["middle_finger", "fu"],
     "unicode": "🖕",
     "category": "People"
   },
@@ -2380,7 +2380,7 @@
     "category": "Places"
   },
   {
-    "alias": "moon",
+    "alias": ["moon", "waxing_gibbous_moon"],
     "unicode": "🌔",
     "category": "Nature"
   },
@@ -2395,7 +2395,7 @@
     "category": "Places"
   },
   {
-    "alias": "mountain_biking_man",
+    "alias": ["mountain_biking_man", "mountain_bicyclist"],
     "unicode": "🚵",
     "category": "Objects"
   },
@@ -2805,7 +2805,7 @@
     "category": "People"
   },
   {
-    "alias": "phone",
+    "alias": ["phone", "telephone"],
     "unicode": "☎️",
     "category": "Objects"
   },
@@ -2875,7 +2875,7 @@
     "category": "Places"
   },
   {
-    "alias": "policeman",
+    "alias": ["policeman", "cop"],
     "unicode": "👮",
     "category": "People"
   },
@@ -2925,7 +2925,7 @@
     "category": "People"
   },
   {
-    "alias": "pouting_woman",
+    "alias": ["pouting_woman", "person_with_pouting_face"],
     "unicode": "🙎",
     "category": "People"
   },
@@ -3030,7 +3030,7 @@
     "category": "People"
   },
   {
-    "alias": "raising_hand_woman",
+    "alias": ["raising_hand_woman", "raising_hand"],
     "unicode": "🙋",
     "category": "People"
   },
@@ -3160,7 +3160,7 @@
     "category": "Places"
   },
   {
-    "alias": "rowing_man",
+    "alias": ["rowing_man", "rowboat"],
     "unicode": "🚣",
     "category": "Places"
   },
@@ -3175,7 +3175,7 @@
     "category": "Objects"
   },
   {
-    "alias": "running_man",
+    "alias": ["running_man", "runner", "running"],
     "unicode": "🏃",
     "category": "People"
   },
@@ -3310,7 +3310,7 @@
     "category": "Nature"
   },
   {
-    "alias": "shirt",
+    "alias": ["shirt", "tshirt"]
     "unicode": "👕",
     "category": "Objects"
   },
@@ -3610,7 +3610,7 @@
     "category": "Places"
   },
   {
-    "alias": "surfing_man",
+    "alias": ["surfing_man", "surfer"],
     "unicode": "🏄",
     "category": "Objects"
   },
@@ -3650,7 +3650,7 @@
     "category": "Objects"
   },
   {
-    "alias": "swimming_man",
+    "alias": ["swimming_man", "swimmer"],
     "unicode": "🏊",
     "category": "Objects"
   },
@@ -3740,7 +3740,7 @@
     "category": "Nature"
   },
   {
-    "alias": "tipping_hand_woman",
+    "alias": ["tipping_hand_woman", "information_desk_person"],
     "unicode": "💁",
     "category": "People"
   },
@@ -4040,7 +4040,7 @@
     "category": "Symbols"
   },
   {
-    "alias": "walking_man",
+    "alias": ["walking_man", "walking"],
     "unicode": "🚶",
     "category": "People"
   },
