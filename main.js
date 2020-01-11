@@ -1,8 +1,7 @@
+/* eslint-disable no-param-reassign */
 /* eslint-disable unicorn/no-fn-reference-in-iterator */
 /* eslint-disable unicorn/prefer-flat-map */
-// eslint-disable-next-line import/no-unassigned-import
-require('array-flat-polyfill')
-
+const _arrayFlatPolyfill = require('array-flat-polyfill')
 const by = require('./src/by')
 
 const unicodeSort = ({ unicode: emojiA }, { unicode: emojiB }) => {
@@ -16,6 +15,13 @@ const unicodeSort = ({ unicode: emojiA }, { unicode: emojiB }) => {
   return 0
 }
 
+const emojisByCategory = (categories, emoji) => {
+  const { category } = emoji
+  if (categories[category] === undefined) categories[category] = []
+  categories[category].push(emoji)
+  return categories
+}
+
 // emojis can have multiple aliases,
 // but each alias should be treated as their own emoji
 const splitAliases = (emojis, {alias: tags, category, unicode}) => {
@@ -27,11 +33,21 @@ const splitAliases = (emojis, {alias: tags, category, unicode}) => {
   return emojis
 }
 
-module.exports = function (emojiJSON) {
-  const emojis = emojiJSON.reduce(splitAliases, [])
+module.exports = function (emojis) {
+  const emojiCategories = emojis
+    .reduce(splitAliases, [])     // split emoji with aliases into separate emojis
+    .reduce(emojisByCategory, {}) // separate emojis into categories
 
-  return emojis
-    .sort(by('category', unicodeSort, 'alias'))
-    .map(({alias}) => `:${alias}:`)
-    .join('\n')
+  const formattedMarkdown = Object.entries(emojiCategories)
+    .map(([category, emojis]) => {
+      const emojiMarkdown = emojis
+        .sort(by('category', unicodeSort, 'alias'))
+        .map(({alias}) => `:${alias}:`)
+        .join(' ')
+
+      return `### ${category}\n\n${emojiMarkdown}\n\n`
+    })
+    .join('')
+
+  return formattedMarkdown
 }
