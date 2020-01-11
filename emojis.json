@@ -5,16 +5,6 @@
     "category": "People"
   },
   {
-    "alias": "+1",
-    "unicode": "👍",
-    "category": "People"
-  },
-  {
-    "alias": "-1",
-    "unicode": "👎",
-    "category": "People"
-  },
-  {
     "alias": "-1",
     "unicode": "👎",
     "category": "People"
@@ -475,11 +465,6 @@
     "category": "Places"
   },
   {
-    "alias": "boat",
-    "unicode": "⛵️",
-    "category": "Places"
-  },
-  {
     "alias": "bomb",
     "unicode": "💣",
     "category": "Objects"
@@ -503,11 +488,6 @@
     "alias": "books",
     "unicode": "📚",
     "category": "Objects"
-  },
-  {
-    "alias": "boom",
-    "unicode": "💥",
-    "category": "People"
   },
   {
     "alias": "boom",
@@ -658,11 +638,6 @@
     "alias": "capricorn",
     "unicode": "♑️",
     "category": "Symbols"
-  },
-  {
-    "alias": "car",
-    "unicode": "🚗",
-    "category": "Places"
   },
   {
     "alias": "car",
@@ -1325,11 +1300,6 @@
     "category": "Objects"
   },
   {
-    "alias": "email",
-    "unicode": "✉️",
-    "category": "Objects"
-  },
-  {
     "alias": "end",
     "unicode": "🔚",
     "category": "Symbols"
@@ -1358,11 +1328,6 @@
     "alias": "evergreen_tree",
     "unicode": "🌲",
     "category": "Nature"
-  },
-  {
-    "alias": "exclamation",
-    "unicode": "❗️",
-    "category": "People"
   },
   {
     "alias": "exclamation",
@@ -1417,11 +1382,6 @@
   {
     "alias": "feelsgood",
     "unicode": false,
-    "category": "People"
-  },
-  {
-    "alias": "feet",
-    "unicode": "🐾",
     "category": "People"
   },
   {
@@ -1483,11 +1443,6 @@
     "alias": "fishing_pole_and_fish",
     "unicode": "🎣",
     "category": "Objects"
-  },
-  {
-    "alias": "fist_oncoming",
-    "unicode": "👊",
-    "category": "People"
   },
   {
     "alias": "fist_oncoming",
@@ -1613,11 +1568,6 @@
     "alias": "game_die",
     "unicode": "🎲",
     "category": "Objects"
-  },
-  {
-    "alias": "gb",
-    "unicode": "🇬🇧",
-    "category": "Places"
   },
   {
     "alias": "gb",
@@ -1765,24 +1715,9 @@
     "category": "People"
   },
   {
-    "alias": "hand",
-    "unicode": "✋",
-    "category": "People"
-  },
-  {
     "alias": "handbag",
     "unicode": "👜",
     "category": "Objects"
-  },
-  {
-    "alias": "hankey",
-    "unicode": "💩",
-    "category": "People"
-  },
-  {
-    "alias": "hankey",
-    "unicode": "💩",
-    "category": "People"
   },
   {
     "alias": "hankey",
@@ -2170,11 +2105,6 @@
     "category": "People"
   },
   {
-    "alias": "laughing",
-    "unicode": "😆",
-    "category": "People"
-  },
-  {
     "alias": "leaves",
     "unicode": "🍃",
     "category": "Nature"
@@ -2340,11 +2270,6 @@
     "category": "Objects"
   },
   {
-    "alias": "mans_shoe",
-    "unicode": "👞",
-    "category": "Objects"
-  },
-  {
     "alias": "maple_leaf",
     "unicode": "🍁",
     "category": "Nature"
@@ -2372,11 +2297,6 @@
   {
     "alias": "melon",
     "unicode": "🍈",
-    "category": "Objects"
-  },
-  {
-    "alias": "memo",
-    "unicode": "📝",
     "category": "Objects"
   },
   {
@@ -2458,11 +2378,6 @@
     "alias": "monorail",
     "unicode": "🚝",
     "category": "Places"
-  },
-  {
-    "alias": "moon",
-    "unicode": "🌔",
-    "category": "Nature"
   },
   {
     "alias": "moon",
@@ -2895,11 +2810,6 @@
     "category": "Objects"
   },
   {
-    "alias": "phone",
-    "unicode": "☎️",
-    "category": "Objects"
-  },
-  {
     "alias": "pig",
     "unicode": "🐷",
     "category": "Nature"
@@ -3270,11 +3180,6 @@
     "category": "People"
   },
   {
-    "alias": "running_man",
-    "unicode": "🏃",
-    "category": "People"
-  },
-  {
     "alias": "running_shirt_with_sash",
     "unicode": "🎽",
     "category": "Objects"
@@ -3403,11 +3308,6 @@
     "alias": "shipit",
     "unicode": false,
     "category": "Nature"
-  },
-  {
-    "alias": "shirt",
-    "unicode": "👕",
-    "category": "Objects"
   },
   {
     "alias": "shirt",
