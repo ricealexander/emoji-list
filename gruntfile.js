@@ -1,4 +1,4 @@
-const formatEmojisAsMarkdown = require('./main.js')
+const formatEmojisAsMarkdown = require('./main')
 const emojisJSON = require('./emojis.json')
 
 const DIST = './dist'
