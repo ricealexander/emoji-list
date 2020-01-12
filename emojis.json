@@ -1,11 +1,17 @@
 [
   {
-    "alias": ["+1", "thumbsup"],
+    "alias": [
+      "+1",
+      "thumbsup"
+    ],
     "unicode": "👍",
     "category": "People"
   },
   {
-    "alias": ["-1", "thumbsdown"],
+    "alias": [
+      "-1",
+      "thumbsdown"
+    ],
     "unicode": "👎",
     "category": "People"
   },
@@ -55,14 +61,34 @@
     "category": "Places"
   },
   {
+    "alias": "afghanistan",
+    "unicode": "🇦🇫",
+    "category": "Symbols"
+  },
+  {
     "alias": "airplane",
     "unicode": "✈️",
     "category": "Places"
   },
   {
+    "alias": "aland_islands",
+    "unicode": "🇦🇽",
+    "category": "Symbols"
+  },
+  {
     "alias": "alarm_clock",
     "unicode": "⏰",
     "category": "Objects"
+  },
+  {
+    "alias": "albania",
+    "unicode": "🇦🇱",
+    "category": "Symbols"
+  },
+  {
+    "alias": "algeria",
+    "unicode": "🇩🇿",
+    "category": "Symbols"
   },
   {
     "alias": "alien",
@@ -75,9 +101,19 @@
     "category": "Places"
   },
   {
+    "alias": "american_samoa",
+    "unicode": "🇦🇸",
+    "category": "Symbols"
+  },
+  {
     "alias": "anchor",
     "unicode": "⚓️",
     "category": "Places"
+  },
+  {
+    "alias": "andorra",
+    "unicode": "🇦🇩",
+    "category": "Symbols"
   },
   {
     "alias": "angel",
@@ -90,9 +126,19 @@
     "category": "People"
   },
   {
+    "alias": "angola",
+    "unicode": "🇦🇴",
+    "category": "Symbols"
+  },
+  {
     "alias": "angry",
     "unicode": "😠",
     "category": "People"
+  },
+  {
+    "alias": "anguilla",
+    "unicode": "🇦🇮",
+    "category": "Symbols"
   },
   {
     "alias": "anguished",
@@ -105,6 +151,16 @@
     "category": "Nature"
   },
   {
+    "alias": "antarctica",
+    "unicode": "🇦🇶",
+    "category": "Symbols"
+  },
+  {
+    "alias": "antigua_barbuda",
+    "unicode": "🇦🇬",
+    "category": "Symbols"
+  },
+  {
     "alias": "apple",
     "unicode": "🍎",
     "category": "Objects"
@@ -115,8 +171,18 @@
     "category": "Symbols"
   },
   {
+    "alias": "argentina",
+    "unicode": "🇦🇷",
+    "category": "Symbols"
+  },
+  {
     "alias": "aries",
     "unicode": "♈️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "armenia",
+    "unicode": "🇦🇲",
     "category": "Symbols"
   },
   {
@@ -230,6 +296,11 @@
     "category": "Places"
   },
   {
+    "alias": "aruba",
+    "unicode": "🇦🇼",
+    "category": "Symbols"
+  },
+  {
     "alias": "astonished",
     "unicode": "😲",
     "category": "People"
@@ -247,6 +318,21 @@
   {
     "alias": "atom_symbol",
     "unicode": "⚛️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "australia",
+    "unicode": "🇦🇺",
+    "category": "Symbols"
+  },
+  {
+    "alias": "austria",
+    "unicode": "🇦🇹",
+    "category": "Symbols"
+  },
+  {
+    "alias": "azerbaijan",
+    "unicode": "🇦🇿",
     "category": "Symbols"
   },
   {
@@ -280,6 +366,16 @@
     "category": "Symbols"
   },
   {
+    "alias": "bahamas",
+    "unicode": "🇧🇸",
+    "category": "Symbols"
+  },
+  {
+    "alias": "bahrain",
+    "unicode": "🇧🇭",
+    "category": "Symbols"
+  },
+  {
     "alias": "balance_scale",
     "unicode": "⚖️",
     "category": "Objects"
@@ -310,6 +406,11 @@
     "category": "Symbols"
   },
   {
+    "alias": "bangladesh",
+    "unicode": "🇧🇩",
+    "category": "Symbols"
+  },
+  {
     "alias": "bank",
     "unicode": "🏦",
     "category": "Places"
@@ -320,6 +421,11 @@
     "category": "Objects"
   },
   {
+    "alias": "barbados",
+    "unicode": "🇧🇧",
+    "category": "Symbols"
+  },
+  {
     "alias": "barber",
     "unicode": "💈",
     "category": "Places"
@@ -328,6 +434,14 @@
     "alias": "baseball",
     "unicode": "⚾️",
     "category": "Objects"
+  },
+  {
+    "alias": [
+      "basecamp",
+      "basecampy"
+    ],
+    "unicode": false,
+    "category": "Places"
   },
   {
     "alias": "basketball",
@@ -355,7 +469,10 @@
     "category": "Nature"
   },
   {
-    "alias": ["bee", "honeybee"],
+    "alias": [
+      "bee",
+      "honeybee"
+    ],
     "unicode": "🐝",
     "category": "Nature"
   },
@@ -380,6 +497,21 @@
     "category": "Places"
   },
   {
+    "alias": "belarus",
+    "unicode": "🇧🇾",
+    "category": "Symbols"
+  },
+  {
+    "alias": "belgium",
+    "unicode": "🇧🇪",
+    "category": "Symbols"
+  },
+  {
+    "alias": "belize",
+    "unicode": "🇧🇿",
+    "category": "Symbols"
+  },
+  {
     "alias": "bell",
     "unicode": "🔔",
     "category": "Objects"
@@ -390,9 +522,24 @@
     "category": "Objects"
   },
   {
+    "alias": "benin",
+    "unicode": "🇧🇯",
+    "category": "Symbols"
+  },
+  {
     "alias": "bento",
     "unicode": "🍱",
     "category": "Objects"
+  },
+  {
+    "alias": "bermuda",
+    "unicode": "🇧🇲",
+    "category": "Symbols"
+  },
+  {
+    "alias": "bhutan",
+    "unicode": "🇧🇹",
+    "category": "Symbols"
   },
   {
     "alias": "bike",
@@ -400,7 +547,10 @@
     "category": "Places"
   },
   {
-    "alias": ["biking_man", "bicyclist"],
+    "alias": [
+      "biking_man",
+      "bicyclist"
+    ],
     "unicode": "🚴",
     "category": "Objects"
   },
@@ -445,7 +595,10 @@
     "category": "Symbols"
   },
   {
-    "alias": ["blonde_man", "person_with_blond_hair"],
+    "alias": [
+      "blonde_man",
+      "person_with_blond_hair"
+    ],
     "unicode": "👱",
     "category": "People"
   },
@@ -485,9 +638,17 @@
     "category": "Nature"
   },
   {
-    "alias": ["boat", "sailboat"],
+    "alias": [
+      "boat",
+      "sailboat"
+    ],
     "unicode": "⛵️",
     "category": "Places"
+  },
+  {
+    "alias": "bolivia",
+    "unicode": "🇧🇴",
+    "category": "Symbols"
   },
   {
     "alias": "bomb",
@@ -515,7 +676,10 @@
     "category": "Objects"
   },
   {
-    "alias": ["boom", "collision"],
+    "alias": [
+      "boom",
+      "collision"
+    ],
     "unicode": "💥",
     "category": "People"
   },
@@ -525,12 +689,25 @@
     "category": "Objects"
   },
   {
+    "alias": "bosnia_herzegovina",
+    "unicode": "🇧🇦",
+    "category": "Symbols"
+  },
+  {
+    "alias": "botswana",
+    "unicode": "🇧🇼",
+    "category": "Symbols"
+  },
+  {
     "alias": "bouquet",
     "unicode": "💐",
     "category": "Nature"
   },
   {
-    "alias": ["bowing_man", "bow"],
+    "alias": [
+      "bowing_man",
+      "bow"
+    ],
     "unicode": "🙇",
     "category": "People"
   },
@@ -548,6 +725,11 @@
     "alias": "boy",
     "unicode": "👦",
     "category": "People"
+  },
+  {
+    "alias": "brazil",
+    "unicode": "🇧🇷",
+    "category": "Symbols"
   },
   {
     "alias": "bread",
@@ -570,9 +752,24 @@
     "category": "Objects"
   },
   {
+    "alias": "british_indian_ocean_territory",
+    "unicode": "🇮🇴",
+    "category": "Symbols"
+  },
+  {
+    "alias": "british_virgin_islands",
+    "unicode": "🇻🇬",
+    "category": "Symbols"
+  },
+  {
     "alias": "broken_heart",
     "unicode": "💔",
     "category": "People"
+  },
+  {
+    "alias": "brunei",
+    "unicode": "🇧🇳",
+    "category": "Symbols"
   },
   {
     "alias": "bug",
@@ -585,6 +782,11 @@
     "category": "Objects"
   },
   {
+    "alias": "bulgaria",
+    "unicode": "🇧🇬",
+    "category": "Symbols"
+  },
+  {
     "alias": "bullettrain_front",
     "unicode": "🚅",
     "category": "Places"
@@ -593,6 +795,16 @@
     "alias": "bullettrain_side",
     "unicode": "🚄",
     "category": "Places"
+  },
+  {
+    "alias": "burkina_faso",
+    "unicode": "🇧🇫",
+    "category": "Symbols"
+  },
+  {
+    "alias": "burundi",
+    "unicode": "🇧🇮",
+    "category": "Symbols"
   },
   {
     "alias": "bus",
@@ -635,6 +847,11 @@
     "category": "Objects"
   },
   {
+    "alias": "cambodia",
+    "unicode": "🇰🇭",
+    "category": "Symbols"
+  },
+  {
     "alias": "camel",
     "unicode": "🐫",
     "category": "Nature"
@@ -643,6 +860,21 @@
     "alias": "camera",
     "unicode": "📷",
     "category": "Objects"
+  },
+  {
+    "alias": "cameroon",
+    "unicode": "🇨🇲",
+    "category": "Symbols"
+  },
+  {
+    "alias": "canada",
+    "unicode": "🇨🇦",
+    "category": "Symbols"
+  },
+  {
+    "alias": "canary_islands",
+    "unicode": "🇮🇨",
+    "category": "Symbols"
   },
   {
     "alias": "cancer",
@@ -655,6 +887,11 @@
     "category": "Objects"
   },
   {
+    "alias": "cape_verde",
+    "unicode": "🇨🇻",
+    "category": "Symbols"
+  },
+  {
     "alias": "capital_abcd",
     "unicode": "🔠",
     "category": "Symbols"
@@ -665,7 +902,10 @@
     "category": "Symbols"
   },
   {
-    "alias": ["car", "red_car"],
+    "alias": [
+      "car",
+      "red_car"
+    ],
     "unicode": "🚗",
     "category": "Places"
   },
@@ -673,6 +913,11 @@
     "alias": "card_index",
     "unicode": "📇",
     "category": "Objects"
+  },
+  {
+    "alias": "caribbean_netherlands",
+    "unicode": "🇧🇶",
+    "category": "Symbols"
   },
   {
     "alias": "carousel_horse",
@@ -690,9 +935,24 @@
     "category": "Nature"
   },
   {
+    "alias": "cayman_islands",
+    "unicode": "🇰🇾",
+    "category": "Symbols"
+  },
+  {
     "alias": "cd",
     "unicode": "💿",
     "category": "Objects"
+  },
+  {
+    "alias": "central_african_republic",
+    "unicode": "🇨🇫",
+    "category": "Symbols"
+  },
+  {
+    "alias": "chad",
+    "unicode": "🇹🇩",
+    "category": "Symbols"
   },
   {
     "alias": "chart",
@@ -740,9 +1000,19 @@
     "category": "Symbols"
   },
   {
+    "alias": "chile",
+    "unicode": "🇨🇱",
+    "category": "Symbols"
+  },
+  {
     "alias": "chocolate_bar",
     "unicode": "🍫",
     "category": "Objects"
+  },
+  {
+    "alias": "christmas_island",
+    "unicode": "🇨🇽",
+    "category": "Symbols"
   },
   {
     "alias": "christmas_tree",
@@ -947,12 +1217,17 @@
   {
     "alias": "cn",
     "unicode": "🇨🇳",
-    "category": "Places"
+    "category": "Symbols"
   },
   {
     "alias": "cocktail",
     "unicode": "🍸",
     "category": "Objects"
+  },
+  {
+    "alias": "cocos_islands",
+    "unicode": "🇨🇨",
+    "category": "Symbols"
   },
   {
     "alias": "coffee",
@@ -968,6 +1243,16 @@
     "alias": "cold_sweat",
     "unicode": "😰",
     "category": "People"
+  },
+  {
+    "alias": "colombia",
+    "unicode": "🇨🇴",
+    "category": "Symbols"
+  },
+  {
+    "alias": "comoros",
+    "unicode": "🇰🇲",
+    "category": "Symbols"
   },
   {
     "alias": "computer",
@@ -990,6 +1275,16 @@
     "category": "People"
   },
   {
+    "alias": "congo_brazzaville",
+    "unicode": "🇨🇬",
+    "category": "Symbols"
+  },
+  {
+    "alias": "congo_kinshasa",
+    "unicode": "🇨🇩",
+    "category": "Symbols"
+  },
+  {
     "alias": "congratulations",
     "unicode": "㊗️",
     "category": "Symbols"
@@ -1000,7 +1295,10 @@
     "category": "Places"
   },
   {
-    "alias": ["construction_worker_man", "construction_worker"],
+    "alias": [
+      "construction_worker_man",
+      "construction_worker"
+    ],
     "unicode": "👷",
     "category": "People"
   },
@@ -1013,6 +1311,11 @@
     "alias": "convenience_store",
     "unicode": "🏪",
     "category": "Places"
+  },
+  {
+    "alias": "cook_islands",
+    "unicode": "🇨🇰",
+    "category": "Symbols"
   },
   {
     "alias": "cookie",
@@ -1035,12 +1338,25 @@
     "category": "Objects"
   },
   {
+    "alias": "costa_rica",
+    "unicode": "🇨🇷",
+    "category": "Symbols"
+  },
+  {
+    "alias": "cote_divoire",
+    "unicode": "🇨🇮",
+    "category": "Symbols"
+  },
+  {
     "alias": "couple",
     "unicode": "👫",
     "category": "People"
   },
   {
-    "alias": ["couple_with_heart_woman_man", "couple_with_heart"],
+    "alias": [
+      "couple_with_heart_woman_man",
+      "couple_with_heart"
+    ],
     "unicode": "💑",
     "category": "People"
   },
@@ -1058,6 +1374,11 @@
     "alias": "credit_card",
     "unicode": "💳",
     "category": "Objects"
+  },
+  {
+    "alias": "croatia",
+    "unicode": "🇭🇷",
+    "category": "Symbols"
   },
   {
     "alias": "crocodile",
@@ -1090,9 +1411,19 @@
     "category": "Objects"
   },
   {
+    "alias": "cuba",
+    "unicode": "🇨🇺",
+    "category": "Symbols"
+  },
+  {
     "alias": "cupid",
     "unicode": "💘",
     "category": "People"
+  },
+  {
+    "alias": "curacao",
+    "unicode": "🇨🇼",
+    "category": "Symbols"
   },
   {
     "alias": "curly_loop",
@@ -1125,6 +1456,16 @@
     "category": "Nature"
   },
   {
+    "alias": "cyprus",
+    "unicode": "🇨🇾",
+    "category": "Symbols"
+  },
+  {
+    "alias": "czech_republic",
+    "unicode": "🇨🇿",
+    "category": "Symbols"
+  },
+  {
     "alias": "dancer",
     "unicode": "💃",
     "category": "People"
@@ -1135,7 +1476,10 @@
     "category": "People"
   },
   {
-    "alias": ["dancing_women", "dancers"],
+    "alias": [
+      "dancing_women",
+      "dancers"
+    ],
     "unicode": "👯",
     "category": "People"
   },
@@ -1162,12 +1506,17 @@
   {
     "alias": "de",
     "unicode": "🇩🇪",
-    "category": "Places"
+    "category": "Symbols"
   },
   {
     "alias": "deciduous_tree",
     "unicode": "🌳",
     "category": "Nature"
+  },
+  {
+    "alias": "denmark",
+    "unicode": "🇩🇰",
+    "category": "Symbols"
   },
   {
     "alias": "department_store",
@@ -1210,6 +1559,11 @@
     "category": "People"
   },
   {
+    "alias": "djibouti",
+    "unicode": "🇩🇯",
+    "category": "Symbols"
+  },
+  {
     "alias": "do_not_litter",
     "unicode": "🚯",
     "category": "Symbols"
@@ -1238,6 +1592,16 @@
     "alias": "dolphin",
     "unicode": "🐬",
     "category": "Nature"
+  },
+  {
+    "alias": "dominica",
+    "unicode": "🇩🇲",
+    "category": "Symbols"
+  },
+  {
+    "alias": "dominican_republic",
+    "unicode": "🇩🇴",
+    "category": "Symbols"
   },
   {
     "alias": "door",
@@ -1310,6 +1674,11 @@
     "category": "Nature"
   },
   {
+    "alias": "ecuador",
+    "unicode": "🇪🇨",
+    "category": "Symbols"
+  },
+  {
     "alias": "egg",
     "unicode": "🥚",
     "category": "Objects"
@@ -1318,6 +1687,11 @@
     "alias": "eggplant",
     "unicode": "🍆",
     "category": "Objects"
+  },
+  {
+    "alias": "egypt",
+    "unicode": "🇪🇬",
+    "category": "Symbols"
   },
   {
     "alias": "eight",
@@ -1332,6 +1706,11 @@
   {
     "alias": "eight_spoked_asterisk",
     "unicode": "✳️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "el_salvador",
+    "unicode": "🇸🇻",
     "category": "Symbols"
   },
   {
@@ -1350,7 +1729,10 @@
     "category": "Nature"
   },
   {
-    "alias": ["email", "envelope"],
+    "alias": [
+      "email",
+      "envelope"
+    ],
     "unicode": "✉️",
     "category": "Objects"
   },
@@ -1365,9 +1747,34 @@
     "category": "Objects"
   },
   {
+    "alias": "equatorial_guinea",
+    "unicode": "🇬🇶",
+    "category": "Symbols"
+  },
+  {
+    "alias": "eritrea",
+    "unicode": "🇪🇷",
+    "category": "Symbols"
+  },
+  {
     "alias": "es",
     "unicode": "🇪🇸",
-    "category": "Places"
+    "category": "Symbols"
+  },
+  {
+    "alias": "estonia",
+    "unicode": "🇪🇪",
+    "category": "Symbols"
+  },
+  {
+    "alias": "ethiopia",
+    "unicode": "🇪🇹",
+    "category": "Symbols"
+  },
+  {
+    "alias": ["eu", "european_union"],
+    "unicode": "🇪🇺",
+    "category": "Symbols"
   },
   {
     "alias": "euro",
@@ -1390,7 +1797,10 @@
     "category": "Nature"
   },
   {
-    "alias": ["exclamation", "heavy_exclamation_mark"],
+    "alias": [
+      "exclamation",
+      "heavy_exclamation_mark"
+    ],
     "unicode": "❗️",
     "category": "Symbols"
   },
@@ -1415,14 +1825,27 @@
     "category": "Places"
   },
   {
+    "alias": "falkland_islands",
+    "unicode": "🇫🇰",
+    "category": "Symbols"
+  },
+  {
     "alias": "fallen_leaf",
     "unicode": "🍂",
     "category": "Nature"
   },
   {
-    "alias": ["family_man_woman_boy", "family"],
+    "alias": [
+      "family_man_woman_boy",
+      "family"
+    ],
     "unicode": "👪",
     "category": "People"
+  },
+  {
+    "alias": "faroe_islands",
+    "unicode": "🇫🇴",
+    "category": "Symbols"
   },
   {
     "alias": "fast_forward",
@@ -1445,7 +1868,10 @@
     "category": "People"
   },
   {
-    "alias": ["feet", "paw_prints"],
+    "alias": [
+      "feet",
+      "paw_prints"
+    ],
     "unicode": "🐾",
     "category": "Nature"
   },
@@ -1455,9 +1881,19 @@
     "category": "Places"
   },
   {
+    "alias": "fiji",
+    "unicode": "🇫🇯",
+    "category": "Symbols"
+  },
+  {
     "alias": "file_folder",
     "unicode": "📁",
     "category": "Objects"
+  },
+  {
+    "alias": "finland",
+    "unicode": "🇫🇮",
+    "category": "Symbols"
   },
   {
     "alias": "finnadie",
@@ -1505,12 +1941,19 @@
     "category": "Objects"
   },
   {
-    "alias": ["fist_oncoming", "facepunch", "punch"],
+    "alias": [
+      "fist_oncoming",
+      "facepunch",
+      "punch"
+    ],
     "unicode": "👊",
     "category": "People"
   },
   {
-    "alias": ["fist_raised", "fist"],
+    "alias": [
+      "fist_raised",
+      "fist"
+    ],
     "unicode": "✊",
     "category": "People"
   },
@@ -1577,11 +2020,26 @@
   {
     "alias": "fr",
     "unicode": "🇫🇷",
-    "category": "Places"
+    "category": "Symbols"
   },
   {
     "alias": "free",
     "unicode": "🆓",
+    "category": "Symbols"
+  },
+  {
+    "alias": "french_guiana",
+    "unicode": "🇬🇫",
+    "category": "Symbols"
+  },
+  {
+    "alias": "french_polynesia",
+    "unicode": "🇵🇫",
+    "category": "Symbols"
+  },
+  {
+    "alias": "french_southern_territories",
+    "unicode": "🇹🇫",
     "category": "Symbols"
   },
   {
@@ -1605,7 +2063,10 @@
     "category": "People"
   },
   {
-    "alias": ["frowning_woman", "person_frowning"],
+    "alias": [
+      "frowning_woman",
+      "person_frowning"
+    ],
     "unicode": "🙍",
     "category": "People"
   },
@@ -1625,14 +2086,27 @@
     "category": "Nature"
   },
   {
+    "alias": "gabon",
+    "unicode": "🇬🇦",
+    "category": "Symbols"
+  },
+  {
+    "alias": "gambia",
+    "unicode": "🇬🇲",
+    "category": "Symbols"
+  },
+  {
     "alias": "game_die",
     "unicode": "🎲",
     "category": "Objects"
   },
   {
-    "alias": ["gb", "uk"],
+    "alias": [
+      "gb",
+      "uk"
+    ],
     "unicode": "🇬🇧",
-    "category": "Places"
+    "category": "Symbols"
   },
   {
     "alias": "gear",
@@ -1650,9 +2124,24 @@
     "category": "Symbols"
   },
   {
+    "alias": "georgia",
+    "unicode": "🇬🇪",
+    "category": "Symbols"
+  },
+  {
+    "alias": "ghana",
+    "unicode": "🇬🇭",
+    "category": "Symbols"
+  },
+  {
     "alias": "ghost",
     "unicode": "👻",
     "category": "Objects"
+  },
+  {
+    "alias": "gibraltar",
+    "unicode": "🇬🇮",
+    "category": "Symbols"
   },
   {
     "alias": "gift",
@@ -1700,6 +2189,11 @@
     "category": "Objects"
   },
   {
+    "alias": "greece",
+    "unicode": "🇬🇷",
+    "category": "Symbols"
+  },
+  {
     "alias": "green_apple",
     "unicode": "🍏",
     "category": "Objects"
@@ -1713,6 +2207,16 @@
     "alias": "green_heart",
     "unicode": "💚",
     "category": "People"
+  },
+  {
+    "alias": "greenland",
+    "unicode": "🇬🇱",
+    "category": "Symbols"
+  },
+  {
+    "alias": "grenada",
+    "unicode": "🇬🇩",
+    "category": "Symbols"
   },
   {
     "alias": "grey_exclamation",
@@ -1740,9 +2244,39 @@
     "category": "People"
   },
   {
+    "alias": "guadeloupe",
+    "unicode": "🇬🇵",
+    "category": "Symbols"
+  },
+  {
+    "alias": "guam",
+    "unicode": "🇬🇺",
+    "category": "Symbols"
+  },
+  {
     "alias": "guardsman",
     "unicode": "💂",
     "category": "People"
+  },
+  {
+    "alias": "guatemala",
+    "unicode": "🇬🇹",
+    "category": "Symbols"
+  },
+  {
+    "alias": "guernsey",
+    "unicode": "🇬🇬",
+    "category": "Symbols"
+  },
+  {
+    "alias": "guinea",
+    "unicode": "🇬🇳",
+    "category": "Symbols"
+  },
+  {
+    "alias": "guinea_bissau",
+    "unicode": "🇬🇼",
+    "category": "Symbols"
   },
   {
     "alias": "guitar",
@@ -1755,9 +2289,22 @@
     "category": "Objects"
   },
   {
-    "alias": ["haircut_woman", "haircut"],
+    "alias": "guyana",
+    "unicode": "🇬🇾",
+    "category": "Symbols"
+  },
+  {
+    "alias": [
+      "haircut_woman",
+      "haircut"
+    ],
     "unicode": "💇",
     "category": "People"
+  },
+  {
+    "alias": "haiti",
+    "unicode": "🇭🇹",
+    "category": "Symbols"
   },
   {
     "alias": "hamburger",
@@ -1785,7 +2332,10 @@
     "category": "Nature"
   },
   {
-    "alias": ["hand", "raised_hand"],
+    "alias": [
+      "hand",
+      "raised_hand"
+    ],
     "unicode": "✋",
     "category": "People"
   },
@@ -1800,7 +2350,11 @@
     "category": "People"
   },
   {
-    "alias": ["hankey", "poop", "shit"],
+    "alias": [
+      "hankey",
+      "poop",
+      "shit"
+    ],
     "unicode": "💩",
     "category": "People"
   },
@@ -1935,9 +2489,19 @@
     "category": "Objects"
   },
   {
+    "alias": "honduras",
+    "unicode": "🇭🇳",
+    "category": "Symbols"
+  },
+  {
     "alias": "honey_pot",
     "unicode": "🍯",
     "category": "Objects"
+  },
+  {
+    "alias": "hong_kong",
+    "unicode": "🇭🇰",
+    "category": "Symbols"
   },
   {
     "alias": "horse",
@@ -1985,6 +2549,11 @@
     "category": "Places"
   },
   {
+    "alias": "hungary",
+    "unicode": "🇭🇺",
+    "category": "Symbols"
+  },
+  {
     "alias": "hurtrealbad",
     "unicode": false,
     "category": "People"
@@ -2003,6 +2572,11 @@
     "alias": "icecream",
     "unicode": "🍦",
     "category": "Objects"
+  },
+  {
+    "alias": "iceland",
+    "unicode": "🇮🇸",
+    "category": "Symbols"
   },
   {
     "alias": "id",
@@ -2030,6 +2604,16 @@
     "category": "Objects"
   },
   {
+    "alias": "india",
+    "unicode": "🇮🇳",
+    "category": "Symbols"
+  },
+  {
+    "alias": "indonesia",
+    "unicode": "🇮🇩",
+    "category": "Symbols"
+  },
+  {
     "alias": "information_source",
     "unicode": "ℹ️",
     "category": "Symbols"
@@ -2050,9 +2634,34 @@
     "category": "Objects"
   },
   {
+    "alias": "iran",
+    "unicode": "🇮🇷",
+    "category": "Symbols"
+  },
+  {
+    "alias": "iraq",
+    "unicode": "🇮🇶",
+    "category": "Symbols"
+  },
+  {
+    "alias": "ireland",
+    "unicode": "🇮🇪",
+    "category": "Symbols"
+  },
+  {
+    "alias": "isle_of_man",
+    "unicode": "🇮🇲",
+    "category": "Symbols"
+  },
+  {
+    "alias": "israel",
+    "unicode": "🇮🇱",
+    "category": "Symbols"
+  },
+  {
     "alias": "it",
     "unicode": "🇮🇹",
-    "category": "Places"
+    "category": "Symbols"
   },
   {
     "alias": "izakaya_lantern",
@@ -2063,6 +2672,11 @@
     "alias": "jack_o_lantern",
     "unicode": "🎃",
     "category": "Objects"
+  },
+  {
+    "alias": "jamaica",
+    "unicode": "🇯🇲",
+    "category": "Symbols"
   },
   {
     "alias": "japan",
@@ -2090,6 +2704,16 @@
     "category": "Objects"
   },
   {
+    "alias": "jersey",
+    "unicode": "🇯🇪",
+    "category": "Symbols"
+  },
+  {
+    "alias": "jordan",
+    "unicode": "🇯🇴",
+    "category": "Symbols"
+  },
+  {
     "alias": "joy",
     "unicode": "😂",
     "category": "People"
@@ -2102,7 +2726,17 @@
   {
     "alias": "jp",
     "unicode": "🇯🇵",
-    "category": "Places"
+    "category": "Symbols"
+  },
+  {
+    "alias": "kazakhstan",
+    "unicode": "🇰🇿",
+    "category": "Symbols"
+  },
+  {
+    "alias": "kenya",
+    "unicode": "🇰🇪",
+    "category": "Symbols"
   },
   {
     "alias": "key",
@@ -2118,6 +2752,11 @@
     "alias": "kimono",
     "unicode": "👘",
     "category": "Objects"
+  },
+  {
+    "alias": "kiribati",
+    "unicode": "🇰🇮",
+    "category": "Symbols"
   },
   {
     "alias": "kiss",
@@ -2160,14 +2799,34 @@
     "category": "Symbols"
   },
   {
+    "alias": "kosovo",
+    "unicode": "🇽🇰",
+    "category": "Symbols"
+  },
+  {
     "alias": "kr",
     "unicode": "🇰🇷",
-    "category": "Places"
+    "category": "Symbols"
+  },
+  {
+    "alias": "kuwait",
+    "unicode": "🇰🇼",
+    "category": "Symbols"
+  },
+  {
+    "alias": "kyrgyzstan",
+    "unicode": "🇰🇬",
+    "category": "Symbols"
   },
   {
     "alias": "label",
     "unicode": "🏷",
     "category": "Objects"
+  },
+  {
+    "alias": "laos",
+    "unicode": "🇱🇦",
+    "category": "Symbols"
   },
   {
     "alias": "large_blue_circle",
@@ -2195,7 +2854,15 @@
     "category": "Nature"
   },
   {
-    "alias": ["laughing", "satisfied"],
+    "alias": "latvia",
+    "unicode": "🇱🇻",
+    "category": "Symbols"
+  },
+  {
+    "alias": [
+      "laughing",
+      "satisfied"
+    ],
     "unicode": "😆",
     "category": "People"
   },
@@ -2203,6 +2870,11 @@
     "alias": "leaves",
     "unicode": "🍃",
     "category": "Nature"
+  },
+  {
+    "alias": "lebanon",
+    "unicode": "🇱🇧",
+    "category": "Symbols"
   },
   {
     "alias": "ledger",
@@ -2240,8 +2912,28 @@
     "category": "Nature"
   },
   {
+    "alias": "lesotho",
+    "unicode": "🇱🇸",
+    "category": "Symbols"
+  },
+  {
+    "alias": "liberia",
+    "unicode": "🇱🇷",
+    "category": "Symbols"
+  },
+  {
     "alias": "libra",
     "unicode": "♎️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "libya",
+    "unicode": "🇱🇾",
+    "category": "Symbols"
+  },
+  {
+    "alias": "liechtenstein",
+    "unicode": "🇱🇮",
     "category": "Symbols"
   },
   {
@@ -2268,6 +2960,11 @@
     "alias": "lipstick",
     "unicode": "💄",
     "category": "Objects"
+  },
+  {
+    "alias": "lithuania",
+    "unicode": "🇱🇹",
+    "category": "Symbols"
   },
   {
     "alias": "lizard",
@@ -2315,8 +3012,28 @@
     "category": "Objects"
   },
   {
+    "alias": "luxembourg",
+    "unicode": "🇱🇺",
+    "category": "Symbols"
+  },
+  {
     "alias": "m",
     "unicode": "Ⓜ️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "macau",
+    "unicode": "🇲🇴",
+    "category": "Symbols"
+  },
+  {
+    "alias": "macedonia",
+    "unicode": "🇲🇰",
+    "category": "Symbols"
+  },
+  {
+    "alias": "madagascar",
+    "unicode": "🇲🇬",
     "category": "Symbols"
   },
   {
@@ -2355,6 +3072,31 @@
     "category": "Objects"
   },
   {
+    "alias": "malawi",
+    "unicode": "🇲🇼",
+    "category": "Symbols"
+  },
+  {
+    "alias": "malaysia",
+    "unicode": "🇲🇾",
+    "category": "Symbols"
+  },
+  {
+    "alias": "maldives",
+    "unicode": "🇲🇻",
+    "category": "Symbols"
+  },
+  {
+    "alias": "mali",
+    "unicode": "🇲🇱",
+    "category": "Symbols"
+  },
+  {
+    "alias": "malta",
+    "unicode": "🇲🇹",
+    "category": "Symbols"
+  },
+  {
     "alias": "man",
     "unicode": "👨",
     "category": "People"
@@ -2390,14 +3132,42 @@
     "category": "Nature"
   },
   {
+    "alias": "marshall_islands",
+    "unicode": "🇲🇭",
+    "category": "Symbols"
+  },
+  {
+    "alias": "martinique",
+    "unicode": "🇲🇶",
+    "category": "Symbols"
+  },
+  {
     "alias": "mask",
     "unicode": "😷",
     "category": "People"
   },
   {
-    "alias": ["massage_woman", "massage"],
+    "alias": [
+      "massage_woman",
+      "massage"
+    ],
     "unicode": "💆",
     "category": "People"
+  },
+  {
+    "alias": "mauritania",
+    "unicode": "🇲🇷",
+    "category": "Symbols"
+  },
+  {
+    "alias": "mauritius",
+    "unicode": "🇲🇺",
+    "category": "Symbols"
+  },
+  {
+    "alias": "mayotte",
+    "unicode": "🇾🇹",
+    "category": "Symbols"
   },
   {
     "alias": "meat_on_bone",
@@ -2415,7 +3185,10 @@
     "category": "Objects"
   },
   {
-    "alias": ["memo", "pencil"],
+    "alias": [
+      "memo",
+      "pencil"
+    ],
     "unicode": "📝",
     "category": "Objects"
   },
@@ -2435,6 +3208,16 @@
     "category": "Symbols"
   },
   {
+    "alias": "mexico",
+    "unicode": "🇲🇽",
+    "category": "Symbols"
+  },
+  {
+    "alias": "micronesia",
+    "unicode": "🇫🇲",
+    "category": "Symbols"
+  },
+  {
     "alias": "microphone",
     "unicode": "🎤",
     "category": "Objects"
@@ -2445,7 +3228,10 @@
     "category": "Objects"
   },
   {
-    "alias": ["middle_finger", "fu"],
+    "alias": [
+      "middle_finger",
+      "fu"
+    ],
     "unicode": "🖕",
     "category": "People"
   },
@@ -2470,6 +3256,16 @@
     "category": "Symbols"
   },
   {
+    "alias": "moldova",
+    "unicode": "🇲🇩",
+    "category": "Symbols"
+  },
+  {
+    "alias": "monaco",
+    "unicode": "🇲🇨",
+    "category": "Symbols"
+  },
+  {
     "alias": "money_with_wings",
     "unicode": "💸",
     "category": "Objects"
@@ -2478,6 +3274,11 @@
     "alias": "moneybag",
     "unicode": "💰",
     "category": "Objects"
+  },
+  {
+    "alias": "mongolia",
+    "unicode": "🇲🇳",
+    "category": "Symbols"
   },
   {
     "alias": "monkey",
@@ -2495,9 +3296,27 @@
     "category": "Places"
   },
   {
-    "alias": ["moon", "waxing_gibbous_moon"],
+    "alias": "montenegro",
+    "unicode": "🇲🇪",
+    "category": "Symbols"
+  },
+  {
+    "alias": "montserrat",
+    "unicode": "🇲🇸",
+    "category": "Symbols"
+  },
+  {
+    "alias": [
+      "moon",
+      "waxing_gibbous_moon"
+    ],
     "unicode": "🌔",
     "category": "Nature"
+  },
+  {
+    "alias": "morocco",
+    "unicode": "🇲🇦",
+    "category": "Symbols"
   },
   {
     "alias": "mortar_board",
@@ -2530,7 +3349,10 @@
     "category": "Places"
   },
   {
-    "alias": ["mountain_biking_man", "mountain_bicyclist"],
+    "alias": [
+      "mountain_biking_man",
+      "mountain_bicyclist"
+    ],
     "unicode": "🚵",
     "category": "Objects"
   },
@@ -2565,6 +3387,11 @@
     "category": "Places"
   },
   {
+    "alias": "mozambique",
+    "unicode": "🇲🇿",
+    "category": "Symbols"
+  },
+  {
     "alias": "muscle",
     "unicode": "💪",
     "category": "People"
@@ -2595,6 +3422,11 @@
     "category": "Objects"
   },
   {
+    "alias": "myanmar",
+    "unicode": "🇲🇲",
+    "category": "Symbols"
+  },
+  {
     "alias": "nail_care",
     "unicode": "💅",
     "category": "People"
@@ -2603,6 +3435,16 @@
     "alias": "name_badge",
     "unicode": "📛",
     "category": "Objects"
+  },
+  {
+    "alias": "namibia",
+    "unicode": "🇳🇦",
+    "category": "Symbols"
+  },
+  {
+    "alias": "nauru",
+    "unicode": "🇳🇷",
+    "category": "Symbols"
   },
   {
     "alias": "neckbeard",
@@ -2620,9 +3462,19 @@
     "category": "Symbols"
   },
   {
+    "alias": "nepal",
+    "unicode": "🇳🇵",
+    "category": "Symbols"
+  },
+  {
     "alias": "nerd_face",
     "unicode": "🤓",
     "category": "People"
+  },
+  {
+    "alias": "netherlands",
+    "unicode": "🇳🇱",
+    "category": "Symbols"
   },
   {
     "alias": "neutral_face",
@@ -2632,6 +3484,11 @@
   {
     "alias": "new",
     "unicode": "🆕",
+    "category": "Symbols"
+  },
+  {
+    "alias": "new_caledonia",
+    "unicode": "🇳🇨",
     "category": "Symbols"
   },
   {
@@ -2645,6 +3502,11 @@
     "category": "Nature"
   },
   {
+    "alias": "new_zealand",
+    "unicode": "🇳🇿",
+    "category": "Symbols"
+  },
+  {
     "alias": "newspaper",
     "unicode": "📰",
     "category": "Objects"
@@ -2655,8 +3517,28 @@
     "category": "Symbols"
   },
   {
+    "alias": "nicaragua",
+    "unicode": "🇳🇮",
+    "category": "Symbols"
+  },
+  {
+    "alias": "niger",
+    "unicode": "🇳🇪",
+    "category": "Symbols"
+  },
+  {
+    "alias": "nigeria",
+    "unicode": "🇳🇬",
+    "category": "Symbols"
+  },
+  {
     "alias": "nine",
     "unicode": "9️⃣",
+    "category": "Symbols"
+  },
+  {
+    "alias": "niue",
+    "unicode": "🇳🇺",
     "category": "Symbols"
   },
   {
@@ -2707,6 +3589,26 @@
   {
     "alias": "non-potable_water",
     "unicode": "🚱",
+    "category": "Symbols"
+  },
+  {
+    "alias": "norfolk_island",
+    "unicode": "🇳🇫",
+    "category": "Symbols"
+  },
+  {
+    "alias": "north_korea",
+    "unicode": "🇰🇵",
+    "category": "Symbols"
+  },
+  {
+    "alias": "northern_mariana_islands",
+    "unicode": "🇲🇵",
+    "category": "Symbols"
+  },
+  {
+    "alias": "norway",
+    "unicode": "🇳🇴",
     "category": "Symbols"
   },
   {
@@ -2800,6 +3702,11 @@
     "category": "People"
   },
   {
+    "alias": "oman",
+    "unicode": "🇴🇲",
+    "category": "Symbols"
+  },
+  {
     "alias": "on",
     "unicode": "🔛",
     "category": "Symbols"
@@ -2885,9 +3792,29 @@
     "category": "Objects"
   },
   {
+    "alias": "pakistan",
+    "unicode": "🇵🇰",
+    "category": "Symbols"
+  },
+  {
+    "alias": "palau",
+    "unicode": "🇵🇼",
+    "category": "Symbols"
+  },
+  {
+    "alias": "palestinian_territories",
+    "unicode": "🇵🇸",
+    "category": "Symbols"
+  },
+  {
     "alias": "palm_tree",
     "unicode": "🌴",
     "category": "Nature"
+  },
+  {
+    "alias": "panama",
+    "unicode": "🇵🇦",
+    "category": "Symbols"
   },
   {
     "alias": "panda_face",
@@ -2898,6 +3825,16 @@
     "alias": "paperclip",
     "unicode": "📎",
     "category": "Objects"
+  },
+  {
+    "alias": "papua_new_guinea",
+    "unicode": "🇵🇬",
+    "category": "Symbols"
+  },
+  {
+    "alias": "paraguay",
+    "unicode": "🇵🇾",
+    "category": "Symbols"
   },
   {
     "alias": "parking",
@@ -2965,7 +3902,20 @@
     "category": "People"
   },
   {
-    "alias": ["phone", "telephone"],
+    "alias": "peru",
+    "unicode": "🇵🇪",
+    "category": "Symbols"
+  },
+  {
+    "alias": "philippines",
+    "unicode": "🇵🇭",
+    "category": "Symbols"
+  },
+  {
+    "alias": [
+      "phone",
+      "telephone"
+    ],
     "unicode": "☎️",
     "category": "Objects"
   },
@@ -3005,6 +3955,11 @@
     "category": "Symbols"
   },
   {
+    "alias": "pitcairn_islands",
+    "unicode": "🇵🇳",
+    "category": "Symbols"
+  },
+  {
     "alias": "pizza",
     "unicode": "🍕",
     "category": "Objects"
@@ -3035,12 +3990,20 @@
     "category": "People"
   },
   {
+    "alias": "poland",
+    "unicode": "🇵🇱",
+    "category": "Symbols"
+  },
+  {
     "alias": "police_car",
     "unicode": "🚓",
     "category": "Places"
   },
   {
-    "alias": ["policeman", "cop"],
+    "alias": [
+      "policeman",
+      "cop"
+    ],
     "unicode": "👮",
     "category": "People"
   },
@@ -3048,6 +4011,11 @@
     "alias": "poodle",
     "unicode": "🐩",
     "category": "Nature"
+  },
+  {
+    "alias": "portugal",
+    "unicode": "🇵🇹",
+    "category": "Symbols"
   },
   {
     "alias": "post_office",
@@ -3090,7 +4058,10 @@
     "category": "People"
   },
   {
-    "alias": ["pouting_woman", "person_with_pouting_face"],
+    "alias": [
+      "pouting_woman",
+      "person_with_pouting_face"
+    ],
     "unicode": "🙎",
     "category": "People"
   },
@@ -3103,6 +4074,11 @@
     "alias": "princess",
     "unicode": "👸",
     "category": "People"
+  },
+  {
+    "alias": "puerto_rico",
+    "unicode": "🇵🇷",
+    "category": "Symbols"
   },
   {
     "alias": "purple_heart",
@@ -3122,6 +4098,11 @@
   {
     "alias": "put_litter_in_its_place",
     "unicode": "🚮",
+    "category": "Symbols"
+  },
+  {
+    "alias": "qatar",
+    "unicode": "🇶🇦",
     "category": "Symbols"
   },
   {
@@ -3200,7 +4181,10 @@
     "category": "People"
   },
   {
-    "alias": ["raising_hand_woman", "raising_hand"],
+    "alias": [
+      "raising_hand_woman",
+      "raising_hand"
+    ],
     "unicode": "🙋",
     "category": "People"
   },
@@ -3260,6 +4244,11 @@
     "category": "Symbols"
   },
   {
+    "alias": "reunion",
+    "unicode": "🇷🇪",
+    "category": "Symbols"
+  },
+  {
     "alias": "revolving_hearts",
     "unicode": "💞",
     "category": "People"
@@ -3310,14 +4299,19 @@
     "category": "Places"
   },
   {
+    "alias": "roll_eyes",
+    "unicode": "🙄",
+    "category": "People"
+  },
+  {
     "alias": "roller_coaster",
     "unicode": "🎢",
     "category": "Places"
   },
   {
-    "alias": "roll_eyes",
-    "unicode": "🙄",
-    "category": "People"
+    "alias": "romania",
+    "unicode": "🇷🇴",
+    "category": "Symbols"
   },
   {
     "alias": "rooster",
@@ -3340,14 +4334,17 @@
     "category": "Places"
   },
   {
-    "alias": ["rowing_man", "rowboat"],
+    "alias": [
+      "rowing_man",
+      "rowboat"
+    ],
     "unicode": "🚣",
     "category": "Places"
   },
   {
     "alias": "ru",
     "unicode": "🇷🇺",
-    "category": "Places"
+    "category": "Symbols"
   },
   {
     "alias": "rugby_football",
@@ -3355,7 +4352,11 @@
     "category": "Objects"
   },
   {
-    "alias": ["running_man", "runner", "running"],
+    "alias": [
+      "running_man",
+      "runner",
+      "running"
+    ],
     "unicode": "🏃",
     "category": "People"
   },
@@ -3363,6 +4364,11 @@
     "alias": "running_shirt_with_sash",
     "unicode": "🎽",
     "category": "Objects"
+  },
+  {
+    "alias": "rwanda",
+    "unicode": "🇷🇼",
+    "category": "Symbols"
   },
   {
     "alias": "sa",
@@ -3380,6 +4386,16 @@
     "category": "Objects"
   },
   {
+    "alias": "samoa",
+    "unicode": "🇼🇸",
+    "category": "Symbols"
+  },
+  {
+    "alias": "san_marino",
+    "unicode": "🇸🇲",
+    "category": "Symbols"
+  },
+  {
     "alias": "sandal",
     "unicode": "👡",
     "category": "Objects"
@@ -3390,9 +4406,19 @@
     "category": "Objects"
   },
   {
+    "alias": "sao_tome_principe",
+    "unicode": "🇸🇹",
+    "category": "Symbols"
+  },
+  {
     "alias": "satellite",
     "unicode": "📡",
     "category": "Objects"
+  },
+  {
+    "alias": "saudi_arabia",
+    "unicode": "🇸🇦",
+    "category": "Symbols"
   },
   {
     "alias": "saxophone",
@@ -3455,8 +4481,23 @@
     "category": "Nature"
   },
   {
+    "alias": "senegal",
+    "unicode": "🇸🇳",
+    "category": "Symbols"
+  },
+  {
+    "alias": "serbia",
+    "unicode": "🇷🇸",
+    "category": "Symbols"
+  },
+  {
     "alias": "seven",
     "unicode": "7️⃣",
+    "category": "Symbols"
+  },
+  {
+    "alias": "seychelles",
+    "unicode": "🇸🇨",
     "category": "Symbols"
   },
   {
@@ -3480,12 +4521,18 @@
     "category": "Places"
   },
   {
-    "alias": "shipit",
+    "alias": [
+      "shipit",
+      "squirrel"
+    ],
     "unicode": false,
     "category": "Nature"
   },
   {
-    "alias": ["shirt", "tshirt"],
+    "alias": [
+      "shirt",
+      "tshirt"
+    ],
     "unicode": "👕",
     "category": "Objects"
   },
@@ -3495,8 +4542,23 @@
     "category": "Objects"
   },
   {
+    "alias": "sierra_leone",
+    "unicode": "🇸🇱",
+    "category": "Symbols"
+  },
+  {
     "alias": "signal_strength",
     "unicode": "📶",
+    "category": "Symbols"
+  },
+  {
+    "alias": "singapore",
+    "unicode": "🇸🇬",
+    "category": "Symbols"
+  },
+  {
+    "alias": "sint_maarten",
+    "unicode": "🇸🇽",
     "category": "Symbols"
   },
   {
@@ -3538,6 +4600,16 @@
     "alias": "slot_machine",
     "unicode": "🎰",
     "category": "Places"
+  },
+  {
+    "alias": "slovakia",
+    "unicode": "🇸🇰",
+    "category": "Symbols"
+  },
+  {
+    "alias": "slovenia",
+    "unicode": "🇸🇮",
+    "category": "Symbols"
   },
   {
     "alias": "small_blue_diamond",
@@ -3635,6 +4707,16 @@
     "category": "Objects"
   },
   {
+    "alias": "solomon_islands",
+    "unicode": "🇸🇧",
+    "category": "Symbols"
+  },
+  {
+    "alias": "somalia",
+    "unicode": "🇸🇴",
+    "category": "Symbols"
+  },
+  {
     "alias": "soon",
     "unicode": "🔜",
     "category": "Symbols"
@@ -3648,6 +4730,21 @@
     "alias": "sound",
     "unicode": "🔉",
     "category": "Objects"
+  },
+  {
+    "alias": "south_africa",
+    "unicode": "🇿🇦",
+    "category": "Symbols"
+  },
+  {
+    "alias": "south_georgia_south_sandwich_islands",
+    "unicode": "🇬🇸",
+    "category": "Symbols"
+  },
+  {
+    "alias": "south_sudan",
+    "unicode": "🇸🇸",
+    "category": "Symbols"
   },
   {
     "alias": "space_invader",
@@ -3680,11 +4777,6 @@
     "category": "People"
   },
   {
-    "alias": "spider_web",
-    "unicode": "🕸",
-    "category": "Objects"
-  },
-  {
     "alias": "speak_no_evil",
     "unicode": "🙊",
     "category": "People"
@@ -3703,6 +4795,46 @@
     "alias": "speedboat",
     "unicode": "🚤",
     "category": "Places"
+  },
+  {
+    "alias": "spider_web",
+    "unicode": "🕸",
+    "category": "Objects"
+  },
+  {
+    "alias": "sri_lanka",
+    "unicode": "🇱🇰",
+    "category": "Symbols"
+  },
+  {
+    "alias": "st_barthelemy",
+    "unicode": "🇧🇱",
+    "category": "Symbols"
+  },
+  {
+    "alias": "st_helena",
+    "unicode": "🇸🇭",
+    "category": "Symbols"
+  },
+  {
+    "alias": "st_kitts_nevis",
+    "unicode": "🇰🇳",
+    "category": "Symbols"
+  },
+  {
+    "alias": "st_lucia",
+    "unicode": "🇱🇨",
+    "category": "Symbols"
+  },
+  {
+    "alias": "st_pierre_miquelon",
+    "unicode": "🇵🇲",
+    "category": "Symbols"
+  },
+  {
+    "alias": "st_vincent_grenadines",
+    "unicode": "🇻🇨",
+    "category": "Symbols"
   },
   {
     "alias": "star",
@@ -3765,6 +4897,11 @@
     "category": "People"
   },
   {
+    "alias": "sudan",
+    "unicode": "🇸🇩",
+    "category": "Symbols"
+  },
+  {
     "alias": "sun_with_face",
     "unicode": "🌞",
     "category": "Nature"
@@ -3795,9 +4932,17 @@
     "category": "Places"
   },
   {
-    "alias": ["surfing_man", "surfer"],
+    "alias": [
+      "surfing_man",
+      "surfer"
+    ],
     "unicode": "🏄",
     "category": "Objects"
+  },
+  {
+    "alias": "suriname",
+    "unicode": "🇸🇷",
+    "category": "Symbols"
   },
   {
     "alias": "sushi",
@@ -3815,6 +4960,11 @@
     "category": "Places"
   },
   {
+    "alias": "swaziland",
+    "unicode": "🇸🇿",
+    "category": "Symbols"
+  },
+  {
     "alias": "sweat",
     "unicode": "😓",
     "category": "People"
@@ -3830,18 +4980,36 @@
     "category": "People"
   },
   {
+    "alias": "sweden",
+    "unicode": "🇸🇪",
+    "category": "Symbols"
+  },
+  {
     "alias": "sweet_potato",
     "unicode": "🍠",
     "category": "Objects"
   },
   {
-    "alias": ["swimming_man", "swimmer"],
+    "alias": [
+      "swimming_man",
+      "swimmer"
+    ],
     "unicode": "🏊",
     "category": "Objects"
   },
   {
+    "alias": "switzerland",
+    "unicode": "🇨🇭",
+    "category": "Symbols"
+  },
+  {
     "alias": "symbols",
     "unicode": "🔣",
+    "category": "Symbols"
+  },
+  {
+    "alias": "syria",
+    "unicode": "🇸🇾",
     "category": "Symbols"
   },
   {
@@ -3860,6 +5028,16 @@
     "category": "Objects"
   },
   {
+    "alias": "taiwan",
+    "unicode": "🇹🇼",
+    "category": "Symbols"
+  },
+  {
+    "alias": "tajikistan",
+    "unicode": "🇹🇯",
+    "category": "Symbols"
+  },
+  {
     "alias": "tanabata_tree",
     "unicode": "🎋",
     "category": "Objects"
@@ -3868,6 +5046,11 @@
     "alias": "tangerine",
     "unicode": "🍊",
     "category": "Objects"
+  },
+  {
+    "alias": "tanzania",
+    "unicode": "🇹🇿",
+    "category": "Symbols"
   },
   {
     "alias": "taurus",
@@ -3905,6 +5088,11 @@
     "category": "Places"
   },
   {
+    "alias": "thailand",
+    "unicode": "🇹🇭",
+    "category": "Symbols"
+  },
+  {
     "alias": "thermometer",
     "unicode": "🌡",
     "category": "Objects"
@@ -3940,7 +5128,15 @@
     "category": "Nature"
   },
   {
-    "alias": ["tipping_hand_woman", "information_desk_person"],
+    "alias": "timor_leste",
+    "unicode": "🇹🇱",
+    "category": "Symbols"
+  },
+  {
+    "alias": [
+      "tipping_hand_woman",
+      "information_desk_person"
+    ],
     "unicode": "💁",
     "category": "People"
   },
@@ -3955,9 +5151,19 @@
     "category": "Symbols"
   },
   {
+    "alias": "togo",
+    "unicode": "🇹🇬",
+    "category": "Symbols"
+  },
+  {
     "alias": "toilet",
     "unicode": "🚽",
     "category": "Objects"
+  },
+  {
+    "alias": "tokelau",
+    "unicode": "🇹🇰",
+    "category": "Symbols"
   },
   {
     "alias": "tokyo_tower",
@@ -3968,6 +5174,11 @@
     "alias": "tomato",
     "unicode": "🍅",
     "category": "Objects"
+  },
+  {
+    "alias": "tonga",
+    "unicode": "🇹🇴",
+    "category": "Symbols"
   },
   {
     "alias": "tongue",
@@ -3988,6 +5199,11 @@
     "alias": "tornado",
     "unicode": "🌪",
     "category": "Places"
+  },
+  {
+    "alias": "tr",
+    "unicode": "🇹🇷",
+    "category": "Symbols"
   },
   {
     "alias": "tractor",
@@ -4027,6 +5243,11 @@
   {
     "alias": "trident",
     "unicode": "🔱",
+    "category": "Symbols"
+  },
+  {
+    "alias": "trinidad_tobago",
+    "unicode": "🇹🇹",
     "category": "Symbols"
   },
   {
@@ -4075,9 +5296,29 @@
     "category": "Nature"
   },
   {
+    "alias": "tunisia",
+    "unicode": "🇹🇳",
+    "category": "Symbols"
+  },
+  {
+    "alias": "turkmenistan",
+    "unicode": "🇹🇲",
+    "category": "Symbols"
+  },
+  {
+    "alias": "turks_caicos_islands",
+    "unicode": "🇹🇨",
+    "category": "Symbols"
+  },
+  {
     "alias": "turtle",
     "unicode": "🐢",
     "category": "Nature"
+  },
+  {
+    "alias": "tuvalu",
+    "unicode": "🇹🇻",
+    "category": "Symbols"
   },
   {
     "alias": "tv",
@@ -4165,6 +5406,16 @@
     "category": "Symbols"
   },
   {
+    "alias": "uganda",
+    "unicode": "🇺🇬",
+    "category": "Symbols"
+  },
+  {
+    "alias": "ukraine",
+    "unicode": "🇺🇦",
+    "category": "Symbols"
+  },
+  {
     "alias": "umbrella",
     "unicode": "☔️",
     "category": "Nature"
@@ -4185,6 +5436,11 @@
     "category": "Nature"
   },
   {
+    "alias": "united_arab_emirates",
+    "unicode": "🇦🇪",
+    "category": "Symbols"
+  },
+  {
     "alias": "unlock",
     "unicode": "🔓",
     "category": "Objects"
@@ -4195,14 +5451,44 @@
     "category": "Symbols"
   },
   {
+    "alias": "uruguay",
+    "unicode": "🇺🇾",
+    "category": "Symbols"
+  },
+  {
     "alias": "us",
     "unicode": "🇺🇸",
-    "category": "Places"
+    "category": "Symbols"
+  },
+  {
+    "alias": "us_virgin_islands",
+    "unicode": "🇻🇮",
+    "category": "Symbols"
+  },
+  {
+    "alias": "uzbekistan",
+    "unicode": "🇺🇿",
+    "category": "Symbols"
   },
   {
     "alias": "v",
     "unicode": "✌️",
     "category": "People"
+  },
+  {
+    "alias": "vanuatu",
+    "unicode": "🇻🇺",
+    "category": "Symbols"
+  },
+  {
+    "alias": "vatican_city",
+    "unicode": "🇻🇦",
+    "category": "Symbols"
+  },
+  {
+    "alias": "venezuela",
+    "unicode": "🇻🇪",
+    "category": "Symbols"
   },
   {
     "alias": "vertical_traffic_light",
@@ -4232,7 +5518,7 @@
   {
     "alias": "vietnam",
     "unicode": "🇻🇳",
-    "category": "Places"
+    "category": "Symbols"
   },
   {
     "alias": "violin",
@@ -4255,9 +5541,17 @@
     "category": "Symbols"
   },
   {
-    "alias": ["walking_man", "walking"],
+    "alias": [
+      "walking_man",
+      "walking"
+    ],
     "unicode": "🚶",
     "category": "People"
+  },
+  {
+    "alias": "wallis_futuna",
+    "unicode": "🇼🇫",
+    "category": "Symbols"
   },
   {
     "alias": "waning_crescent_moon",
@@ -4318,6 +5612,11 @@
     "alias": "wedding",
     "unicode": "💒",
     "category": "Places"
+  },
+  {
+    "alias": "western_sahara",
+    "unicode": "🇪🇭",
+    "category": "Symbols"
   },
   {
     "alias": "whale",
@@ -4425,6 +5724,11 @@
     "category": "People"
   },
   {
+    "alias": "yemen",
+    "unicode": "🇾🇪",
+    "category": "Symbols"
+  },
+  {
     "alias": "yen",
     "unicode": "💴",
     "category": "Objects"
@@ -4435,6 +5739,11 @@
     "category": "People"
   },
   {
+    "alias": "zambia",
+    "unicode": "🇿🇲",
+    "category": "Symbols"
+  },
+  {
     "alias": "zap",
     "unicode": "⚡️",
     "category": "Nature"
@@ -4442,6 +5751,11 @@
   {
     "alias": "zero",
     "unicode": "0️⃣",
+    "category": "Symbols"
+  },
+  {
+    "alias": "zimbabwe",
+    "unicode": "🇿🇼",
     "category": "Symbols"
   },
   {
