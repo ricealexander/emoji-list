@@ -39,7 +39,7 @@ function simpleSort (objectA, objectB, key) {
 // for example <array>.sort(sort('contribution', 'name', 'age'))
 // would sort array first by contribution, then by name, then by age
 
-function by (...args) {
+function sortBy (...args) {
   const keys = parseMultipleArguments(args)
 
   return (objectA, objectB) => {
@@ -68,4 +68,4 @@ function by (...args) {
   }
 }
 
-module.exports = by
+module.exports = sortBy
