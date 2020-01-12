@@ -240,6 +240,16 @@
     "category": "Places"
   },
   {
+    "alias": "atom",
+    "unicode": false,
+    "category": "Symbols"
+  },
+  {
+    "alias": "atom_symbol",
+    "unicode": "⚛️",
+    "category": "Symbols"
+  },
+  {
     "alias": "b",
     "unicode": "🅱️",
     "category": "Symbols"
@@ -268,6 +278,11 @@
     "alias": "baggage_claim",
     "unicode": "🛄",
     "category": "Symbols"
+  },
+  {
+    "alias": "balance_scale",
+    "unicode": "⚖️",
+    "category": "Objects"
   },
   {
     "alias": "balloon",
@@ -370,6 +385,11 @@
     "category": "Objects"
   },
   {
+    "alias": "bellhop_bell",
+    "unicode": "🛎",
+    "category": "Objects"
+  },
+  {
     "alias": "bento",
     "unicode": "🍱",
     "category": "Objects"
@@ -388,6 +408,11 @@
     "alias": "bikini",
     "unicode": "👙",
     "category": "Objects"
+  },
+  {
+    "alias": "biohazard",
+    "unicode": "☣️",
+    "category": "Symbols"
   },
   {
     "alias": "bird",
@@ -755,6 +780,11 @@
     "category": "Symbols"
   },
   {
+    "alias": "clamp",
+    "unicode": "🗜",
+    "category": "Objects"
+  },
+  {
     "alias": "clap",
     "unicode": "👏",
     "category": "People"
@@ -930,6 +960,11 @@
     "category": "Objects"
   },
   {
+    "alias": "coffin",
+    "unicode": "⚰️",
+    "category": "Objects"
+  },
+  {
     "alias": "cold_sweat",
     "unicode": "😰",
     "category": "People"
@@ -968,6 +1003,11 @@
     "alias": ["construction_worker_man", "construction_worker"],
     "unicode": "👷",
     "category": "People"
+  },
+  {
+    "alias": "control_knobs",
+    "unicode": "🎛",
+    "category": "Objects"
   },
   {
     "alias": "convenience_store",
@@ -1090,6 +1130,11 @@
     "category": "People"
   },
   {
+    "alias": "dancing_men",
+    "unicode": "👯‍♂",
+    "category": "People"
+  },
+  {
     "alias": ["dancing_women", "dancers"],
     "unicode": "👯",
     "category": "People"
@@ -1127,6 +1172,11 @@
   {
     "alias": "department_store",
     "unicode": "🏬",
+    "category": "Places"
+  },
+  {
+    "alias": "desert_island",
+    "unicode": "🏝",
     "category": "Places"
   },
   {
@@ -1290,6 +1340,11 @@
     "category": "Objects"
   },
   {
+    "alias": "electron",
+    "unicode": false,
+    "category": "Symbols"
+  },
+  {
     "alias": "elephant",
     "unicode": "🐘",
     "category": "Nature"
@@ -1303,6 +1358,11 @@
     "alias": "end",
     "unicode": "🔚",
     "category": "Symbols"
+  },
+  {
+    "alias": "envelope_with_arrow",
+    "unicode": "📩",
+    "category": "Objects"
   },
   {
     "alias": "es",
@@ -1575,6 +1635,11 @@
     "category": "Places"
   },
   {
+    "alias": "gear",
+    "unicode": "⚙️",
+    "category": "Objects"
+  },
+  {
     "alias": "gem",
     "unicode": "💎",
     "category": "Objects"
@@ -1705,6 +1770,16 @@
     "category": "Objects"
   },
   {
+    "alias": "hammer_and_pick",
+    "unicode": "⚒",
+    "category": "Objects"
+  },
+  {
+    "alias": "hammer_and_wrench",
+    "unicode": "🛠",
+    "category": "Objects"
+  },
+  {
     "alias": "hamster",
     "unicode": "🐹",
     "category": "Nature"
@@ -1718,6 +1793,11 @@
     "alias": "handbag",
     "unicode": "👜",
     "category": "Objects"
+  },
+  {
+    "alias": "handshake",
+    "unicode": "🤝",
+    "category": "People"
   },
   {
     "alias": ["hankey", "poop", "shit"],
@@ -1800,6 +1880,11 @@
     "category": "Symbols"
   },
   {
+    "alias": "heavy_heart_exclamation",
+    "unicode": "❣️",
+    "category": "Symbols"
+  },
+  {
     "alias": "heavy_minus_sign",
     "unicode": "➖",
     "category": "Symbols"
@@ -1842,6 +1927,11 @@
   {
     "alias": "hocho",
     "unicode": "🔪",
+    "category": "Objects"
+  },
+  {
+    "alias": "hole",
+    "unicode": "🕳",
     "category": "Objects"
   },
   {
@@ -2075,6 +2165,11 @@
     "category": "Places"
   },
   {
+    "alias": "label",
+    "unicode": "🏷",
+    "category": "Objects"
+  },
+  {
     "alias": "large_blue_circle",
     "unicode": "🔵",
     "category": "Symbols"
@@ -2160,6 +2255,11 @@
     "category": "Symbols"
   },
   {
+    "alias": "lion",
+    "unicode": "🦁",
+    "category": "Nature"
+  },
+  {
     "alias": "lips",
     "unicode": "👄",
     "category": "People"
@@ -2168,6 +2268,11 @@
     "alias": "lipstick",
     "unicode": "💄",
     "category": "Objects"
+  },
+  {
+    "alias": "lizard",
+    "unicode": "🦎",
+    "category": "Nature"
   },
   {
     "alias": "lock",
@@ -2252,6 +2357,16 @@
   {
     "alias": "man",
     "unicode": "👨",
+    "category": "People"
+  },
+  {
+    "alias": "man_facepalming",
+    "unicode": "🤦‍♂",
+    "category": "People"
+  },
+  {
+    "alias": "man_shrugging",
+    "unicode": "🤷‍♂",
     "category": "People"
   },
   {
@@ -2390,6 +2505,26 @@
     "category": "Objects"
   },
   {
+    "alias": "motor_boat",
+    "unicode": "🛥",
+    "category": "Places"
+  },
+  {
+    "alias": "motor_scooter",
+    "unicode": "🛵",
+    "category": "Places"
+  },
+  {
+    "alias": "motorcycle",
+    "unicode": "🏍",
+    "category": "Places"
+  },
+  {
+    "alias": "motorway",
+    "unicode": "🛣",
+    "category": "Places"
+  },
+  {
     "alias": "mount_fuji",
     "unicode": "🗻",
     "category": "Places"
@@ -2483,6 +2618,11 @@
     "alias": "negative_squared_cross_mark",
     "unicode": "❎",
     "category": "Symbols"
+  },
+  {
+    "alias": "nerd_face",
+    "unicode": "🤓",
+    "category": "People"
   },
   {
     "alias": "neutral_face",
@@ -2645,6 +2785,11 @@
     "category": "People"
   },
   {
+    "alias": "old_key",
+    "unicode": "🗝",
+    "category": "Objects"
+  },
+  {
     "alias": "older_man",
     "unicode": "👴",
     "category": "People"
@@ -2720,6 +2865,11 @@
     "category": "Nature"
   },
   {
+    "alias": "package",
+    "unicode": "📦",
+    "category": "Objects"
+  },
+  {
     "alias": "page_facing_up",
     "unicode": "📄",
     "category": "Objects"
@@ -2770,6 +2920,11 @@
     "category": "Symbols"
   },
   {
+    "alias": "peace_symbol",
+    "unicode": "☮️",
+    "category": "Symbols"
+  },
+  {
     "alias": "peach",
     "unicode": "🍑",
     "category": "Objects"
@@ -2777,6 +2932,11 @@
   {
     "alias": "pear",
     "unicode": "🍐",
+    "category": "Objects"
+  },
+  {
+    "alias": "pen",
+    "unicode": "🖊",
     "category": "Objects"
   },
   {
@@ -2807,6 +2967,11 @@
   {
     "alias": ["phone", "telephone"],
     "unicode": "☎️",
+    "category": "Objects"
+  },
+  {
+    "alias": "pick",
+    "unicode": "⛏",
     "category": "Objects"
   },
   {
@@ -2980,6 +3145,11 @@
     "category": "Nature"
   },
   {
+    "alias": "racing_car",
+    "unicode": "🏎",
+    "category": "Places"
+  },
+  {
     "alias": "radio",
     "unicode": "📻",
     "category": "Objects"
@@ -3130,6 +3300,11 @@
     "category": "Objects"
   },
   {
+    "alias": "robot",
+    "unicode": "🤖",
+    "category": "People"
+  },
+  {
     "alias": "rocket",
     "unicode": "🚀",
     "category": "Places"
@@ -3138,6 +3313,11 @@
     "alias": "roller_coaster",
     "unicode": "🎢",
     "category": "Places"
+  },
+  {
+    "alias": "roll_eyes",
+    "unicode": "🙄",
+    "category": "People"
   },
   {
     "alias": "rooster",
@@ -3302,11 +3482,6 @@
   {
     "alias": "shipit",
     "unicode": false,
-    "category": "Symbols"
-  },
-  {
-    "alias": "shipit",
-    "unicode": false,
     "category": "Nature"
   },
   {
@@ -3352,6 +3527,11 @@
   {
     "alias": "sleepy",
     "unicode": "😪",
+    "category": "People"
+  },
+  {
+    "alias": "slightly_smiling_face",
+    "unicode": "🙂",
     "category": "People"
   },
   {
@@ -3498,6 +3678,11 @@
     "alias": "sparkling_heart",
     "unicode": "💖",
     "category": "People"
+  },
+  {
+    "alias": "spider_web",
+    "unicode": "🕸",
+    "category": "Objects"
   },
   {
     "alias": "speak_no_evil",
@@ -3665,6 +3850,11 @@
     "category": "Objects"
   },
   {
+    "alias": "taco",
+    "unicode": "🌮",
+    "category": "Objects"
+  },
+  {
     "alias": "tada",
     "unicode": "🎉",
     "category": "Objects"
@@ -3713,6 +3903,16 @@
     "alias": "tent",
     "unicode": "⛺️",
     "category": "Places"
+  },
+  {
+    "alias": "thermometer",
+    "unicode": "🌡",
+    "category": "Objects"
+  },
+  {
+    "alias": "thinking",
+    "unicode": "🤔",
+    "category": "People"
   },
   {
     "alias": "thought_balloon",
@@ -3783,6 +3983,11 @@
     "alias": "tophat",
     "unicode": "🎩",
     "category": "Objects"
+  },
+  {
+    "alias": "tornado",
+    "unicode": "🌪",
+    "category": "Places"
   },
   {
     "alias": "tractor",
@@ -3975,6 +4180,11 @@
     "category": "Symbols"
   },
   {
+    "alias": "unicorn",
+    "unicode": "🦄",
+    "category": "Nature"
+  },
+  {
     "alias": "unlock",
     "unicode": "🔓",
     "category": "Objects"
@@ -4018,6 +4228,11 @@
     "alias": "video_game",
     "unicode": "🎮",
     "category": "Objects"
+  },
+  {
+    "alias": "vietnam",
+    "unicode": "🇻🇳",
+    "category": "Places"
   },
   {
     "alias": "violin",
@@ -4162,6 +4377,16 @@
   {
     "alias": "woman",
     "unicode": "👩",
+    "category": "People"
+  },
+  {
+    "alias": "woman_facepalming",
+    "unicode": "🤦‍♀",
+    "category": "People"
+  },
+  {
+    "alias": "woman_shrugging",
+    "unicode": "🤷‍♀",
     "category": "People"
   },
   {
