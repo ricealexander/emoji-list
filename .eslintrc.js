@@ -41,10 +41,7 @@ module.exports = {
       "ignoreEOLComments": true
     }],
     "no-multi-str": "off",
-    "no-param-reassign": ["error", {
-      "props": true,
-      "ignorePropertyModificationsFor": ["accumulator", "object", "result"]
-    }],
+    "no-param-reassign": "off",
     "no-plusplus": "error",
     "no-unused-vars": ["error", {
       "argsIgnorePattern": "^_",
@@ -137,7 +134,7 @@ module.exports = {
     "unicorn/new-for-builtins": "error",
     "unicorn/no-abusive-eslint-disable": "error",
     "unicorn/no-array-instanceof": "error",
-    "unicorn/no-fn-reference-in-iterator": "error",
+    "unicorn/no-fn-reference-in-iterator": "off",
     "unicorn/no-for-loop": "error",
     "no-nested-ternary": "off",
     "unicorn/no-hex-escape": "error",
@@ -149,7 +146,7 @@ module.exports = {
     "unicorn/prefer-dataset": "error",
     "unicorn/prefer-event-key": "error",
     "unicorn/prefer-exponentiation-operator": "error",
-    "unicorn/prefer-flat-map": "error",
+    "unicorn/prefer-flat-map": "off",
     "unicorn/prefer-includes": "error",
     "unicorn/prefer-negative-index": "error",
     "unicorn/prefer-node-append": "error",

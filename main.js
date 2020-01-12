@@ -1,6 +1,3 @@
-/* eslint-disable no-param-reassign */
-/* eslint-disable unicorn/no-fn-reference-in-iterator */
-/* eslint-disable unicorn/prefer-flat-map */
 const _arrayFlatPolyfill = require('array-flat-polyfill')
 const by = require('./src/by')
 
