@@ -50,6 +50,5 @@ module.exports = grunt => {
     done()
   })
 
-  grunt.registerTask('build', ['clean', 'write', 'check-api'])
-  grunt.registerTask('default', ['build'])
+  grunt.registerTask('default', ['clean', 'write', 'check-api'])
 }
