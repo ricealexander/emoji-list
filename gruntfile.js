@@ -4,20 +4,10 @@ const difference = require('lodash/difference')
 const formatEmojisAsMarkdown = require('./main')
 const listEmojiAliases = require('./src/listEmojiAliases')
 const sortEmojisByAlias = require('./src/sortEmojisByAlias')
+
 const emojisJSON = require('./emojis.json')
 
-const DIST = './dist'
-const FILE = 'dist/emoji-list.md'
-const JSON_FILE = 'emojis.json'
-const GITHUB_API = 'https://api.github.com/emojis'
-
-const CONTENT = formatEmojisAsMarkdown(emojisJSON)
-
 module.exports = grunt => {
-  grunt.registerTask('clean', `Remove the ${DIST} directory`, () => {
-    grunt.file.delete(DIST)
-  })
-
   function writeFile (file, content) {
     const success = grunt.file.write(file, content)
     console.log(success
@@ -25,30 +15,41 @@ module.exports = grunt => {
       : `could not write ${file}`)
   }
 
-  grunt.registerTask('write', `Write file ${FILE}`, () => {
-    writeFile(FILE, CONTENT)
+  // Remove the dist directory
+  grunt.registerTask('clean', 'Remove the dist directory', () => {
+    grunt.file.delete('./dist')
   })
 
-  grunt.registerTask('build', ['clean', 'write'])
-  grunt.registerTask('default', ['build'])
+  // Generate emoji-list.md
+  grunt.registerTask('write', 'Write Emoji List Markdown file', () => {
+    const markdown = formatEmojisAsMarkdown(emojisJSON)
+    writeFile('dist/emoji-list.md', markdown)
+  })
 
-  grunt.registerTask('alphabetize', `Re-alphabetize ${JSON_FILE}`, () => {
+  // Alphabetize emojis.json
+  grunt.registerTask('alphabetize', 'Re-alphabetize emojis.json', () => {
     const sortedList = emojisJSON.sort(sortEmojisByAlias)
-    writeFile(JSON_FILE,
-      JSON.stringify(sortedList, null, 2),
-    )
+    const JSONContent = JSON.stringify(sortedList, null, 2)
+    writeFile('emojis.json', JSONContent)
   })
 
+  // Check GitHub Emojis API
   grunt.registerTask('check-api', 'Compare emojis with Github emoji API', async function () {
     const done = this.async()
-    const response = await axios.get(GITHUB_API)
 
+    const response = await axios.get('https://api.github.com/emojis')
     const apiEmojis = Object.keys(response.data)
     const emojis = listEmojiAliases(emojisJSON)
 
     const missingEmojis = difference(apiEmojis, emojis)
-    console.log(missingEmojis)
 
+    writeFile(
+      'dist/missing-emojis.json',
+      JSON.stringify(missingEmojis, null, 2),
+    )
     done()
   })
+
+  grunt.registerTask('build', ['clean', 'write', 'check-api'])
+  grunt.registerTask('default', ['build'])
 }
