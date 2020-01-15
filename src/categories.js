@@ -11,8 +11,8 @@ const categories = [
   { name: 'Countries', displayName: 'Flags and Countries' },
 ]
 
-// [ 'People', 'Nature', 'Food', ... ]
-const categoryOrder = categories.map(({name}) => name)
+const categoryNames = categories.map(({name}) => name)
+const categoryDisplayNames = categories.map(({displayName}) => displayName)
 
 // { People: 'Smileys and People', Nature: 'Animals and Nature', ... }
 const categoriesObject = Object.fromEntries(categories.map(Object.values))
@@ -20,5 +20,6 @@ const categoriesObject = Object.fromEntries(categories.map(Object.values))
 module.exports = {
   categories,
   categoriesObject,
-  categoryOrder,
+  categoryDisplayNames,
+  categoryNames,
 }
