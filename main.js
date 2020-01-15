@@ -4,7 +4,7 @@ const emojisByCategory    = require('./src/reduceEmojisByCategory')
 const expandAliases       = require('./src/expandAliases')
 const formatMarkdownTable = require('./src/formatAsMarkdownTable')
 
-const categoryOrder = ['People', 'Nature', 'Objects', 'Places', 'Symbols']
+const { categoryOrder }      = require('./src/categories')
 
 function buildEmojisMarkdown (emojis) {
   const emojiCategories = emojis

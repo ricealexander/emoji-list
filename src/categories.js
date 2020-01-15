@@ -11,6 +11,7 @@ const categories = [
   { name: 'Countries', displayName: 'Flags and Countries' },
 ]
 
+// [ 'People', 'Nature', 'Food', ... ]
 const categoryOrder = categories.map(({name}) => name)
 
 // { People: 'Smileys and People', Nature: 'Animals and Nature', ... }

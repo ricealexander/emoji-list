@@ -1,9 +1,8 @@
-const chunk = require('lodash/chunk')
+const chunk          = require('lodash/chunk')
 
-const by = require('./helpers/sortBy')
-const unicodeSort = require('./sortEmojisByUnicode')
-
-console.log(chunk)
+const by             = require('./helpers/sortBy')
+const unicodeSort    = require('./sortEmojisByUnicode')
+const categories     = require('./categories').categoriesObject
 
 const formatAsMarkdownTable = ([category, emojis]) => {
   const emojiCodes = emojis
@@ -17,7 +16,7 @@ const formatAsMarkdownTable = ([category, emojis]) => {
     .join('\n')
 
   return `
-### ${category}
+### ${categories[category]}
 
 | | | |
 |---|---|---|
