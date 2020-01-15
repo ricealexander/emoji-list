@@ -63,7 +63,7 @@
   {
     "alias": "afghanistan",
     "unicode": "🇦🇫",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "airplane",
@@ -73,7 +73,7 @@
   {
     "alias": "aland_islands",
     "unicode": "🇦🇽",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "alarm_clock",
@@ -83,12 +83,12 @@
   {
     "alias": "albania",
     "unicode": "🇦🇱",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "algeria",
     "unicode": "🇩🇿",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "alien",
@@ -103,7 +103,7 @@
   {
     "alias": "american_samoa",
     "unicode": "🇦🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "anchor",
@@ -113,7 +113,7 @@
   {
     "alias": "andorra",
     "unicode": "🇦🇩",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "angel",
@@ -128,7 +128,7 @@
   {
     "alias": "angola",
     "unicode": "🇦🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "angry",
@@ -138,7 +138,7 @@
   {
     "alias": "anguilla",
     "unicode": "🇦🇮",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "anguished",
@@ -153,12 +153,12 @@
   {
     "alias": "antarctica",
     "unicode": "🇦🇶",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "antigua_barbuda",
     "unicode": "🇦🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "apple",
@@ -173,7 +173,7 @@
   {
     "alias": "argentina",
     "unicode": "🇦🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "aries",
@@ -183,7 +183,7 @@
   {
     "alias": "armenia",
     "unicode": "🇦🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "arrow_backward",
@@ -298,7 +298,7 @@
   {
     "alias": "aruba",
     "unicode": "🇦🇼",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "astonished",
@@ -323,17 +323,17 @@
   {
     "alias": "australia",
     "unicode": "🇦🇺",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "austria",
     "unicode": "🇦🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "azerbaijan",
     "unicode": "🇦🇿",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "b",
@@ -368,12 +368,12 @@
   {
     "alias": "bahamas",
     "unicode": "🇧🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bahrain",
     "unicode": "🇧🇭",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "balance_scale",
@@ -408,7 +408,7 @@
   {
     "alias": "bangladesh",
     "unicode": "🇧🇩",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bank",
@@ -423,7 +423,7 @@
   {
     "alias": "barbados",
     "unicode": "🇧🇧",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "barber",
@@ -499,17 +499,17 @@
   {
     "alias": "belarus",
     "unicode": "🇧🇾",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "belgium",
     "unicode": "🇧🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "belize",
     "unicode": "🇧🇿",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bell",
@@ -524,7 +524,7 @@
   {
     "alias": "benin",
     "unicode": "🇧🇯",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bento",
@@ -534,12 +534,12 @@
   {
     "alias": "bermuda",
     "unicode": "🇧🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bhutan",
     "unicode": "🇧🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bike",
@@ -648,7 +648,7 @@
   {
     "alias": "bolivia",
     "unicode": "🇧🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bomb",
@@ -691,12 +691,12 @@
   {
     "alias": "bosnia_herzegovina",
     "unicode": "🇧🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "botswana",
     "unicode": "🇧🇼",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bouquet",
@@ -729,7 +729,7 @@
   {
     "alias": "brazil",
     "unicode": "🇧🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bread",
@@ -754,12 +754,12 @@
   {
     "alias": "british_indian_ocean_territory",
     "unicode": "🇮🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "british_virgin_islands",
     "unicode": "🇻🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "broken_heart",
@@ -769,7 +769,7 @@
   {
     "alias": "brunei",
     "unicode": "🇧🇳",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bug",
@@ -784,7 +784,7 @@
   {
     "alias": "bulgaria",
     "unicode": "🇧🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bullettrain_front",
@@ -799,12 +799,12 @@
   {
     "alias": "burkina_faso",
     "unicode": "🇧🇫",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "burundi",
     "unicode": "🇧🇮",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "bus",
@@ -849,7 +849,7 @@
   {
     "alias": "cambodia",
     "unicode": "🇰🇭",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "camel",
@@ -864,17 +864,17 @@
   {
     "alias": "cameroon",
     "unicode": "🇨🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "canada",
     "unicode": "🇨🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "canary_islands",
     "unicode": "🇮🇨",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "cancer",
@@ -889,7 +889,7 @@
   {
     "alias": "cape_verde",
     "unicode": "🇨🇻",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "capital_abcd",
@@ -917,7 +917,7 @@
   {
     "alias": "caribbean_netherlands",
     "unicode": "🇧🇶",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "carousel_horse",
@@ -937,7 +937,7 @@
   {
     "alias": "cayman_islands",
     "unicode": "🇰🇾",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "cd",
@@ -947,12 +947,12 @@
   {
     "alias": "central_african_republic",
     "unicode": "🇨🇫",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "chad",
     "unicode": "🇹🇩",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "chart",
@@ -1002,7 +1002,7 @@
   {
     "alias": "chile",
     "unicode": "🇨🇱",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "chocolate_bar",
@@ -1012,7 +1012,7 @@
   {
     "alias": "christmas_island",
     "unicode": "🇨🇽",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "christmas_tree",
@@ -1217,7 +1217,7 @@
   {
     "alias": "cn",
     "unicode": "🇨🇳",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "cocktail",
@@ -1227,7 +1227,7 @@
   {
     "alias": "cocos_islands",
     "unicode": "🇨🇨",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "coffee",
@@ -1247,12 +1247,12 @@
   {
     "alias": "colombia",
     "unicode": "🇨🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "comoros",
     "unicode": "🇰🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "computer",
@@ -1277,12 +1277,12 @@
   {
     "alias": "congo_brazzaville",
     "unicode": "🇨🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "congo_kinshasa",
     "unicode": "🇨🇩",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "congratulations",
@@ -1315,7 +1315,7 @@
   {
     "alias": "cook_islands",
     "unicode": "🇨🇰",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "cookie",
@@ -1340,12 +1340,12 @@
   {
     "alias": "costa_rica",
     "unicode": "🇨🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "cote_divoire",
     "unicode": "🇨🇮",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "couple",
@@ -1378,7 +1378,7 @@
   {
     "alias": "croatia",
     "unicode": "🇭🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "crocodile",
@@ -1413,7 +1413,7 @@
   {
     "alias": "cuba",
     "unicode": "🇨🇺",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "cupid",
@@ -1423,7 +1423,7 @@
   {
     "alias": "curacao",
     "unicode": "🇨🇼",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "curly_loop",
@@ -1458,12 +1458,12 @@
   {
     "alias": "cyprus",
     "unicode": "🇨🇾",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "czech_republic",
     "unicode": "🇨🇿",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "dancer",
@@ -1506,7 +1506,7 @@
   {
     "alias": "de",
     "unicode": "🇩🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "deciduous_tree",
@@ -1516,7 +1516,7 @@
   {
     "alias": "denmark",
     "unicode": "🇩🇰",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "department_store",
@@ -1561,7 +1561,7 @@
   {
     "alias": "djibouti",
     "unicode": "🇩🇯",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "do_not_litter",
@@ -1596,12 +1596,12 @@
   {
     "alias": "dominica",
     "unicode": "🇩🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "dominican_republic",
     "unicode": "🇩🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "door",
@@ -1676,7 +1676,7 @@
   {
     "alias": "ecuador",
     "unicode": "🇪🇨",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "egg",
@@ -1691,7 +1691,7 @@
   {
     "alias": "egypt",
     "unicode": "🇪🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "eight",
@@ -1711,7 +1711,7 @@
   {
     "alias": "el_salvador",
     "unicode": "🇸🇻",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "electric_plug",
@@ -1749,32 +1749,32 @@
   {
     "alias": "equatorial_guinea",
     "unicode": "🇬🇶",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "eritrea",
     "unicode": "🇪🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "es",
     "unicode": "🇪🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "estonia",
     "unicode": "🇪🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "ethiopia",
     "unicode": "🇪🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": ["eu", "european_union"],
     "unicode": "🇪🇺",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "euro",
@@ -1827,7 +1827,7 @@
   {
     "alias": "falkland_islands",
     "unicode": "🇫🇰",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "fallen_leaf",
@@ -1845,7 +1845,7 @@
   {
     "alias": "faroe_islands",
     "unicode": "🇫🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "fast_forward",
@@ -1883,7 +1883,7 @@
   {
     "alias": "fiji",
     "unicode": "🇫🇯",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "file_folder",
@@ -1893,7 +1893,7 @@
   {
     "alias": "finland",
     "unicode": "🇫🇮",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "finnadie",
@@ -2020,7 +2020,7 @@
   {
     "alias": "fr",
     "unicode": "🇫🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "free",
@@ -2030,17 +2030,17 @@
   {
     "alias": "french_guiana",
     "unicode": "🇬🇫",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "french_polynesia",
     "unicode": "🇵🇫",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "french_southern_territories",
     "unicode": "🇹🇫",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "fried_shrimp",
@@ -2088,12 +2088,12 @@
   {
     "alias": "gabon",
     "unicode": "🇬🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "gambia",
     "unicode": "🇬🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "game_die",
@@ -2106,7 +2106,7 @@
       "uk"
     ],
     "unicode": "🇬🇧",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "gear",
@@ -2126,12 +2126,12 @@
   {
     "alias": "georgia",
     "unicode": "🇬🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "ghana",
     "unicode": "🇬🇭",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "ghost",
@@ -2141,7 +2141,7 @@
   {
     "alias": "gibraltar",
     "unicode": "🇬🇮",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "gift",
@@ -2191,7 +2191,7 @@
   {
     "alias": "greece",
     "unicode": "🇬🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "green_apple",
@@ -2211,12 +2211,12 @@
   {
     "alias": "greenland",
     "unicode": "🇬🇱",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "grenada",
     "unicode": "🇬🇩",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "grey_exclamation",
@@ -2246,12 +2246,12 @@
   {
     "alias": "guadeloupe",
     "unicode": "🇬🇵",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "guam",
     "unicode": "🇬🇺",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "guardsman",
@@ -2261,22 +2261,22 @@
   {
     "alias": "guatemala",
     "unicode": "🇬🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "guernsey",
     "unicode": "🇬🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "guinea",
     "unicode": "🇬🇳",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "guinea_bissau",
     "unicode": "🇬🇼",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "guitar",
@@ -2291,7 +2291,7 @@
   {
     "alias": "guyana",
     "unicode": "🇬🇾",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": [
@@ -2304,7 +2304,7 @@
   {
     "alias": "haiti",
     "unicode": "🇭🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "hamburger",
@@ -2491,7 +2491,7 @@
   {
     "alias": "honduras",
     "unicode": "🇭🇳",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "honey_pot",
@@ -2501,7 +2501,7 @@
   {
     "alias": "hong_kong",
     "unicode": "🇭🇰",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "horse",
@@ -2551,7 +2551,7 @@
   {
     "alias": "hungary",
     "unicode": "🇭🇺",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "hurtrealbad",
@@ -2576,7 +2576,7 @@
   {
     "alias": "iceland",
     "unicode": "🇮🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "id",
@@ -2606,12 +2606,12 @@
   {
     "alias": "india",
     "unicode": "🇮🇳",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "indonesia",
     "unicode": "🇮🇩",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "information_source",
@@ -2636,32 +2636,32 @@
   {
     "alias": "iran",
     "unicode": "🇮🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "iraq",
     "unicode": "🇮🇶",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "ireland",
     "unicode": "🇮🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "isle_of_man",
     "unicode": "🇮🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "israel",
     "unicode": "🇮🇱",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "it",
     "unicode": "🇮🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "izakaya_lantern",
@@ -2676,7 +2676,7 @@
   {
     "alias": "jamaica",
     "unicode": "🇯🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "japan",
@@ -2706,12 +2706,12 @@
   {
     "alias": "jersey",
     "unicode": "🇯🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "jordan",
     "unicode": "🇯🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "joy",
@@ -2726,17 +2726,17 @@
   {
     "alias": "jp",
     "unicode": "🇯🇵",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "kazakhstan",
     "unicode": "🇰🇿",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "kenya",
     "unicode": "🇰🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "key",
@@ -2756,7 +2756,7 @@
   {
     "alias": "kiribati",
     "unicode": "🇰🇮",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "kiss",
@@ -2801,22 +2801,22 @@
   {
     "alias": "kosovo",
     "unicode": "🇽🇰",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "kr",
     "unicode": "🇰🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "kuwait",
     "unicode": "🇰🇼",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "kyrgyzstan",
     "unicode": "🇰🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "label",
@@ -2826,7 +2826,7 @@
   {
     "alias": "laos",
     "unicode": "🇱🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "large_blue_circle",
@@ -2856,7 +2856,7 @@
   {
     "alias": "latvia",
     "unicode": "🇱🇻",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": [
@@ -2874,7 +2874,7 @@
   {
     "alias": "lebanon",
     "unicode": "🇱🇧",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "ledger",
@@ -2914,12 +2914,12 @@
   {
     "alias": "lesotho",
     "unicode": "🇱🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "liberia",
     "unicode": "🇱🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "libra",
@@ -2929,12 +2929,12 @@
   {
     "alias": "libya",
     "unicode": "🇱🇾",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "liechtenstein",
     "unicode": "🇱🇮",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "light_rail",
@@ -2964,7 +2964,7 @@
   {
     "alias": "lithuania",
     "unicode": "🇱🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "lizard",
@@ -3014,7 +3014,7 @@
   {
     "alias": "luxembourg",
     "unicode": "🇱🇺",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "m",
@@ -3024,17 +3024,17 @@
   {
     "alias": "macau",
     "unicode": "🇲🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "macedonia",
     "unicode": "🇲🇰",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "madagascar",
     "unicode": "🇲🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "mag",
@@ -3074,27 +3074,27 @@
   {
     "alias": "malawi",
     "unicode": "🇲🇼",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "malaysia",
     "unicode": "🇲🇾",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "maldives",
     "unicode": "🇲🇻",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "mali",
     "unicode": "🇲🇱",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "malta",
     "unicode": "🇲🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "man",
@@ -3134,12 +3134,12 @@
   {
     "alias": "marshall_islands",
     "unicode": "🇲🇭",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "martinique",
     "unicode": "🇲🇶",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "mask",
@@ -3157,17 +3157,17 @@
   {
     "alias": "mauritania",
     "unicode": "🇲🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "mauritius",
     "unicode": "🇲🇺",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "mayotte",
     "unicode": "🇾🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "meat_on_bone",
@@ -3210,12 +3210,12 @@
   {
     "alias": "mexico",
     "unicode": "🇲🇽",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "micronesia",
     "unicode": "🇫🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "microphone",
@@ -3258,12 +3258,12 @@
   {
     "alias": "moldova",
     "unicode": "🇲🇩",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "monaco",
     "unicode": "🇲🇨",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "money_with_wings",
@@ -3278,7 +3278,7 @@
   {
     "alias": "mongolia",
     "unicode": "🇲🇳",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "monkey",
@@ -3298,12 +3298,12 @@
   {
     "alias": "montenegro",
     "unicode": "🇲🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "montserrat",
     "unicode": "🇲🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": [
@@ -3316,7 +3316,7 @@
   {
     "alias": "morocco",
     "unicode": "🇲🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "mortar_board",
@@ -3389,7 +3389,7 @@
   {
     "alias": "mozambique",
     "unicode": "🇲🇿",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "muscle",
@@ -3424,7 +3424,7 @@
   {
     "alias": "myanmar",
     "unicode": "🇲🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "nail_care",
@@ -3439,12 +3439,12 @@
   {
     "alias": "namibia",
     "unicode": "🇳🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "nauru",
     "unicode": "🇳🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "neckbeard",
@@ -3464,7 +3464,7 @@
   {
     "alias": "nepal",
     "unicode": "🇳🇵",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "nerd_face",
@@ -3474,7 +3474,7 @@
   {
     "alias": "netherlands",
     "unicode": "🇳🇱",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "neutral_face",
@@ -3489,7 +3489,7 @@
   {
     "alias": "new_caledonia",
     "unicode": "🇳🇨",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "new_moon",
@@ -3504,7 +3504,7 @@
   {
     "alias": "new_zealand",
     "unicode": "🇳🇿",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "newspaper",
@@ -3519,17 +3519,17 @@
   {
     "alias": "nicaragua",
     "unicode": "🇳🇮",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "niger",
     "unicode": "🇳🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "nigeria",
     "unicode": "🇳🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "nine",
@@ -3539,7 +3539,7 @@
   {
     "alias": "niue",
     "unicode": "🇳🇺",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "no_bell",
@@ -3594,22 +3594,22 @@
   {
     "alias": "norfolk_island",
     "unicode": "🇳🇫",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "north_korea",
     "unicode": "🇰🇵",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "northern_mariana_islands",
     "unicode": "🇲🇵",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "norway",
     "unicode": "🇳🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "nose",
@@ -3704,7 +3704,7 @@
   {
     "alias": "oman",
     "unicode": "🇴🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "on",
@@ -3794,17 +3794,17 @@
   {
     "alias": "pakistan",
     "unicode": "🇵🇰",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "palau",
     "unicode": "🇵🇼",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "palestinian_territories",
     "unicode": "🇵🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "palm_tree",
@@ -3814,7 +3814,7 @@
   {
     "alias": "panama",
     "unicode": "🇵🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "panda_face",
@@ -3829,12 +3829,12 @@
   {
     "alias": "papua_new_guinea",
     "unicode": "🇵🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "paraguay",
     "unicode": "🇵🇾",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "parking",
@@ -3904,12 +3904,12 @@
   {
     "alias": "peru",
     "unicode": "🇵🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "philippines",
     "unicode": "🇵🇭",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": [
@@ -3957,7 +3957,7 @@
   {
     "alias": "pitcairn_islands",
     "unicode": "🇵🇳",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "pizza",
@@ -3992,7 +3992,7 @@
   {
     "alias": "poland",
     "unicode": "🇵🇱",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "police_car",
@@ -4015,7 +4015,7 @@
   {
     "alias": "portugal",
     "unicode": "🇵🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "post_office",
@@ -4078,7 +4078,7 @@
   {
     "alias": "puerto_rico",
     "unicode": "🇵🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "purple_heart",
@@ -4103,7 +4103,7 @@
   {
     "alias": "qatar",
     "unicode": "🇶🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "question",
@@ -4246,7 +4246,7 @@
   {
     "alias": "reunion",
     "unicode": "🇷🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "revolving_hearts",
@@ -4311,7 +4311,7 @@
   {
     "alias": "romania",
     "unicode": "🇷🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "rooster",
@@ -4344,7 +4344,7 @@
   {
     "alias": "ru",
     "unicode": "🇷🇺",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "rugby_football",
@@ -4368,7 +4368,7 @@
   {
     "alias": "rwanda",
     "unicode": "🇷🇼",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "sa",
@@ -4388,12 +4388,12 @@
   {
     "alias": "samoa",
     "unicode": "🇼🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "san_marino",
     "unicode": "🇸🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "sandal",
@@ -4408,7 +4408,7 @@
   {
     "alias": "sao_tome_principe",
     "unicode": "🇸🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "satellite",
@@ -4418,7 +4418,7 @@
   {
     "alias": "saudi_arabia",
     "unicode": "🇸🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "saxophone",
@@ -4483,12 +4483,12 @@
   {
     "alias": "senegal",
     "unicode": "🇸🇳",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "serbia",
     "unicode": "🇷🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "seven",
@@ -4498,7 +4498,7 @@
   {
     "alias": "seychelles",
     "unicode": "🇸🇨",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "shaved_ice",
@@ -4544,7 +4544,7 @@
   {
     "alias": "sierra_leone",
     "unicode": "🇸🇱",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "signal_strength",
@@ -4554,12 +4554,12 @@
   {
     "alias": "singapore",
     "unicode": "🇸🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "sint_maarten",
     "unicode": "🇸🇽",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "six",
@@ -4604,12 +4604,12 @@
   {
     "alias": "slovakia",
     "unicode": "🇸🇰",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "slovenia",
     "unicode": "🇸🇮",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "small_blue_diamond",
@@ -4709,12 +4709,12 @@
   {
     "alias": "solomon_islands",
     "unicode": "🇸🇧",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "somalia",
     "unicode": "🇸🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "soon",
@@ -4734,17 +4734,17 @@
   {
     "alias": "south_africa",
     "unicode": "🇿🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "south_georgia_south_sandwich_islands",
     "unicode": "🇬🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "south_sudan",
     "unicode": "🇸🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "space_invader",
@@ -4804,37 +4804,37 @@
   {
     "alias": "sri_lanka",
     "unicode": "🇱🇰",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "st_barthelemy",
     "unicode": "🇧🇱",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "st_helena",
     "unicode": "🇸🇭",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "st_kitts_nevis",
     "unicode": "🇰🇳",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "st_lucia",
     "unicode": "🇱🇨",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "st_pierre_miquelon",
     "unicode": "🇵🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "st_vincent_grenadines",
     "unicode": "🇻🇨",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "star",
@@ -4899,7 +4899,7 @@
   {
     "alias": "sudan",
     "unicode": "🇸🇩",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "sun_with_face",
@@ -4942,7 +4942,7 @@
   {
     "alias": "suriname",
     "unicode": "🇸🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "sushi",
@@ -4962,7 +4962,7 @@
   {
     "alias": "swaziland",
     "unicode": "🇸🇿",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "sweat",
@@ -4982,7 +4982,7 @@
   {
     "alias": "sweden",
     "unicode": "🇸🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "sweet_potato",
@@ -5000,7 +5000,7 @@
   {
     "alias": "switzerland",
     "unicode": "🇨🇭",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "symbols",
@@ -5010,7 +5010,7 @@
   {
     "alias": "syria",
     "unicode": "🇸🇾",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "syringe",
@@ -5030,12 +5030,12 @@
   {
     "alias": "taiwan",
     "unicode": "🇹🇼",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "tajikistan",
     "unicode": "🇹🇯",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "tanabata_tree",
@@ -5050,7 +5050,7 @@
   {
     "alias": "tanzania",
     "unicode": "🇹🇿",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "taurus",
@@ -5090,7 +5090,7 @@
   {
     "alias": "thailand",
     "unicode": "🇹🇭",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "thermometer",
@@ -5130,7 +5130,7 @@
   {
     "alias": "timor_leste",
     "unicode": "🇹🇱",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": [
@@ -5153,7 +5153,7 @@
   {
     "alias": "togo",
     "unicode": "🇹🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "toilet",
@@ -5163,7 +5163,7 @@
   {
     "alias": "tokelau",
     "unicode": "🇹🇰",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "tokyo_tower",
@@ -5178,7 +5178,7 @@
   {
     "alias": "tonga",
     "unicode": "🇹🇴",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "tongue",
@@ -5203,7 +5203,7 @@
   {
     "alias": "tr",
     "unicode": "🇹🇷",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "tractor",
@@ -5248,7 +5248,7 @@
   {
     "alias": "trinidad_tobago",
     "unicode": "🇹🇹",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "triumph",
@@ -5298,17 +5298,17 @@
   {
     "alias": "tunisia",
     "unicode": "🇹🇳",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "turkmenistan",
     "unicode": "🇹🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "turks_caicos_islands",
     "unicode": "🇹🇨",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "turtle",
@@ -5318,7 +5318,7 @@
   {
     "alias": "tuvalu",
     "unicode": "🇹🇻",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "tv",
@@ -5408,12 +5408,12 @@
   {
     "alias": "uganda",
     "unicode": "🇺🇬",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "ukraine",
     "unicode": "🇺🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "umbrella",
@@ -5438,7 +5438,7 @@
   {
     "alias": "united_arab_emirates",
     "unicode": "🇦🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "unlock",
@@ -5453,22 +5453,22 @@
   {
     "alias": "uruguay",
     "unicode": "🇺🇾",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "us",
     "unicode": "🇺🇸",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "us_virgin_islands",
     "unicode": "🇻🇮",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "uzbekistan",
     "unicode": "🇺🇿",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "v",
@@ -5478,17 +5478,17 @@
   {
     "alias": "vanuatu",
     "unicode": "🇻🇺",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "vatican_city",
     "unicode": "🇻🇦",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "venezuela",
     "unicode": "🇻🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "vertical_traffic_light",
@@ -5518,7 +5518,7 @@
   {
     "alias": "vietnam",
     "unicode": "🇻🇳",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "violin",
@@ -5551,7 +5551,7 @@
   {
     "alias": "wallis_futuna",
     "unicode": "🇼🇫",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "waning_crescent_moon",
@@ -5616,7 +5616,7 @@
   {
     "alias": "western_sahara",
     "unicode": "🇪🇭",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "whale",
@@ -5726,7 +5726,7 @@
   {
     "alias": "yemen",
     "unicode": "🇾🇪",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "yen",
@@ -5741,7 +5741,7 @@
   {
     "alias": "zambia",
     "unicode": "🇿🇲",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "zap",
@@ -5756,7 +5756,7 @@
   {
     "alias": "zimbabwe",
     "unicode": "🇿🇼",
-    "category": "Symbols"
+    "category": "Countries"
   },
   {
     "alias": "zzz",
