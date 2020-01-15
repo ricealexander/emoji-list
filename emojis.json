@@ -26,6 +26,21 @@
     "category": "Symbols"
   },
   {
+    "alias": "1st_place_medal",
+    "unicode": "🥇",
+    "category": "Activity"
+  },
+  {
+    "alias": "2nd_place_medal",
+    "unicode": "🥈",
+    "category": "Activity"
+  },
+  {
+    "alias": "3rd_place_medal",
+    "unicode": "🥉",
+    "category": "Activity"
+  },
+  {
     "alias": "8ball",
     "unicode": "🎱",
     "category": "Activity"
@@ -86,6 +101,11 @@
     "category": "Countries"
   },
   {
+    "alias": "alembic",
+    "unicode": "⚗️",
+    "category": "Objects"
+  },
+  {
     "alias": "algeria",
     "unicode": "🇩🇿",
     "category": "Countries"
@@ -104,6 +124,11 @@
     "alias": "american_samoa",
     "unicode": "🇦🇸",
     "category": "Countries"
+  },
+  {
+    "alias": "amphora",
+    "unicode": "🏺",
+    "category": "Objects"
   },
   {
     "alias": "anchor",
@@ -296,14 +321,29 @@
     "category": "Travel"
   },
   {
+    "alias": "artificial_satellite",
+    "unicode": "🛰",
+    "category": "Objects"
+  },
+  {
     "alias": "aruba",
     "unicode": "🇦🇼",
     "category": "Countries"
   },
   {
+    "alias": "asterisk",
+    "unicode": "*️⃣",
+    "category": "Symbols"
+  },
+  {
     "alias": "astonished",
     "unicode": "😲",
     "category": "People"
+  },
+  {
+    "alias": "athletic_shoe",
+    "unicode": "👟",
+    "category": "Activity"
   },
   {
     "alias": "atm",
@@ -329,6 +369,11 @@
     "alias": "austria",
     "unicode": "🇦🇹",
     "category": "Countries"
+  },
+  {
+    "alias": "avocado",
+    "unicode": "🥑",
+    "category": "Food"
   },
   {
     "alias": "azerbaijan",
@@ -361,9 +406,29 @@
     "category": "Symbols"
   },
   {
+    "alias": "back",
+    "unicode": "🔙",
+    "category": "Symbols"
+  },
+  {
+    "alias": "bacon",
+    "unicode": "🥓",
+    "category": "Food"
+  },
+  {
+    "alias": "badminton",
+    "unicode": "🏸",
+    "category": "Activity"
+  },
+  {
     "alias": "baggage_claim",
     "unicode": "🛄",
     "category": "Symbols"
+  },
+  {
+    "alias": "baguette_bread",
+    "unicode": "🥖",
+    "category": "Food"
   },
   {
     "alias": "bahamas",
@@ -383,6 +448,11 @@
   {
     "alias": "balloon",
     "unicode": "🎈",
+    "category": "Objects"
+  },
+  {
+    "alias": "ballot_box",
+    "unicode": "🗳",
     "category": "Objects"
   },
   {
@@ -449,6 +519,21 @@
     "category": "Activity"
   },
   {
+    "alias": "basketball_man",
+    "unicode": "⛹",
+    "category": "Activity"
+  },
+  {
+    "alias": "basketball_woman",
+    "unicode": "⛹️‍♀️",
+    "category": "Activity"
+  },
+  {
+    "alias": "bat",
+    "unicode": "🦇",
+    "category": "Nature"
+  },
+  {
     "alias": "bath",
     "unicode": "🛀",
     "category": "Objects"
@@ -464,9 +549,19 @@
     "category": "Objects"
   },
   {
+    "alias": "beach_umbrella",
+    "unicode": "🏖",
+    "category": "Travel"
+  },
+  {
     "alias": "bear",
     "unicode": "🐻",
     "category": "Nature"
+  },
+  {
+    "alias": "bed",
+    "unicode": "🛏",
+    "category": "Objects"
   },
   {
     "alias": [
@@ -555,6 +650,11 @@
     "category": "Objects"
   },
   {
+    "alias": "biking_woman",
+    "unicode": "🚴‍♀",
+    "category": "Activity"
+  },
+  {
     "alias": "bikini",
     "unicode": "👙",
     "category": "Objects"
@@ -580,14 +680,44 @@
     "category": "Symbols"
   },
   {
+    "alias": "black_flag",
+    "unicode": "🏴",
+    "category": "Objects"
+  },
+  {
+    "alias": "black_heart",
+    "unicode": "🖤",
+    "category": "Symbols"
+  },
+  {
     "alias": "black_joker",
     "unicode": "🃏",
     "category": "Objects"
   },
   {
+    "alias": "black_large_square",
+    "unicode": "⬛️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "black_medium_small_square",
+    "unicode": "◾️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "black_medium_square",
+    "unicode": "◼️",
+    "category": "Symbols"
+  },
+  {
     "alias": "black_nib",
     "unicode": "✒️",
     "category": "Objects"
+  },
+  {
+    "alias": "black_small_square",
+    "unicode": "▪️",
+    "category": "Symbols"
   },
   {
     "alias": "black_square_button",
@@ -600,6 +730,11 @@
       "person_with_blond_hair"
     ],
     "unicode": "👱",
+    "category": "People"
+  },
+  {
+    "alias": "blonde_woman",
+    "unicode": "👱‍♀",
     "category": "People"
   },
   {
@@ -656,7 +791,10 @@
     "category": "Objects"
   },
   {
-    "alias": "book",
+    "alias": [
+      "book",
+      "open_book"
+    ],
     "unicode": "📖",
     "category": "Objects"
   },
@@ -704,11 +842,21 @@
     "category": "Nature"
   },
   {
+    "alias": "bow_and_arrow",
+    "unicode": "🏹",
+    "category": "Activity"
+  },
+  {
     "alias": [
       "bowing_man",
       "bow"
     ],
     "unicode": "🙇",
+    "category": "People"
+  },
+  {
+    "alias": "bowing_woman",
+    "unicode": "🙇‍♀",
     "category": "People"
   },
   {
@@ -720,6 +868,11 @@
     "alias": "bowtie",
     "unicode": false,
     "category": "People"
+  },
+  {
+    "alias": "boxing_glove",
+    "unicode": "🥊",
+    "category": "Activity"
   },
   {
     "alias": "boy",
@@ -777,6 +930,11 @@
     "category": "Nature"
   },
   {
+    "alias": "building_construction",
+    "unicode": "🏗",
+    "category": "Travel"
+  },
+  {
     "alias": "bulb",
     "unicode": "💡",
     "category": "Objects"
@@ -802,6 +960,11 @@
     "category": "Countries"
   },
   {
+    "alias": "burrito",
+    "unicode": "🌯",
+    "category": "Food"
+  },
+  {
     "alias": "burundi",
     "unicode": "🇧🇮",
     "category": "Countries"
@@ -810,6 +973,11 @@
     "alias": "bus",
     "unicode": "🚌",
     "category": "Travel"
+  },
+  {
+    "alias": "business_suit_levitating",
+    "unicode": "🕴",
+    "category": "Objects"
   },
   {
     "alias": "busstop",
@@ -827,6 +995,11 @@
     "category": "People"
   },
   {
+    "alias": "butterfly",
+    "unicode": "🦋",
+    "category": "Nature"
+  },
+  {
     "alias": "cactus",
     "unicode": "🌵",
     "category": "Nature"
@@ -840,6 +1013,11 @@
     "alias": "calendar",
     "unicode": "📆",
     "category": "Objects"
+  },
+  {
+    "alias": "call_me_hand",
+    "unicode": "🤙",
+    "category": "People"
   },
   {
     "alias": "calling",
@@ -862,9 +1040,19 @@
     "category": "Objects"
   },
   {
+    "alias": "camera_flash",
+    "unicode": "📸",
+    "category": "Objects"
+  },
+  {
     "alias": "cameroon",
     "unicode": "🇨🇲",
     "category": "Countries"
+  },
+  {
+    "alias": "camping",
+    "unicode": "🏕",
+    "category": "Travel"
   },
   {
     "alias": "canada",
@@ -882,9 +1070,19 @@
     "category": "Symbols"
   },
   {
+    "alias": "candle",
+    "unicode": "🕯",
+    "category": "Objects"
+  },
+  {
     "alias": "candy",
     "unicode": "🍬",
     "category": "Food"
+  },
+  {
+    "alias": "canoe",
+    "unicode": "🛶",
+    "category": "Travel"
   },
   {
     "alias": "cape_verde",
@@ -910,8 +1108,18 @@
     "category": "Travel"
   },
   {
+    "alias": "card_file_box",
+    "unicode": "🗃",
+    "category": "Objects"
+  },
+  {
     "alias": "card_index",
     "unicode": "📇",
+    "category": "Objects"
+  },
+  {
+    "alias": "card_index_dividers",
+    "unicode": "🗂",
     "category": "Objects"
   },
   {
@@ -923,6 +1131,11 @@
     "alias": "carousel_horse",
     "unicode": "🎠",
     "category": "Travel"
+  },
+  {
+    "alias": "carrot",
+    "unicode": "🥕",
+    "category": "Food"
   },
   {
     "alias": "cat",
@@ -955,6 +1168,16 @@
     "category": "Countries"
   },
   {
+    "alias": "chains",
+    "unicode": "⛓",
+    "category": "Objects"
+  },
+  {
+    "alias": "champagne",
+    "unicode": "🍾",
+    "category": "Food"
+  },
+  {
     "alias": "chart",
     "unicode": "💹",
     "category": "Symbols"
@@ -973,6 +1196,11 @@
     "alias": "checkered_flag",
     "unicode": "🏁",
     "category": "Travel"
+  },
+  {
+    "alias": "cheese",
+    "unicode": "🧀",
+    "category": "Food"
   },
   {
     "alias": "cherries",
@@ -1003,6 +1231,11 @@
     "alias": "chile",
     "unicode": "🇨🇱",
     "category": "Countries"
+  },
+  {
+    "alias": "chipmunk",
+    "unicode": "🐿",
+    "category": "Nature"
   },
   {
     "alias": "chocolate_bar",
@@ -1045,6 +1278,11 @@
     "category": "Travel"
   },
   {
+    "alias": "cityscape",
+    "unicode": "🏙",
+    "category": "Travel"
+  },
+  {
     "alias": "cl",
     "unicode": "🆑",
     "category": "Symbols"
@@ -1063,6 +1301,16 @@
     "alias": "clapper",
     "unicode": "🎬",
     "category": "Objects"
+  },
+  {
+    "alias": "classical_building",
+    "unicode": "🏛",
+    "category": "Travel"
+  },
+  {
+    "alias": "clinking_glasses",
+    "unicode": "🥂",
+    "category": "Food"
   },
   {
     "alias": "clipboard",
@@ -1210,6 +1458,31 @@
     "category": "Nature"
   },
   {
+    "alias": "cloud_with_lightning",
+    "unicode": "🌩",
+    "category": "Nature"
+  },
+  {
+    "alias": "cloud_with_lightning_and_rain",
+    "unicode": "⛈",
+    "category": "Nature"
+  },
+  {
+    "alias": "cloud_with_rain",
+    "unicode": "🌧",
+    "category": "Nature"
+  },
+  {
+    "alias": "cloud_with_snow",
+    "unicode": "🌨",
+    "category": "Nature"
+  },
+  {
+    "alias": "clown_face",
+    "unicode": "🤡",
+    "category": "People"
+  },
+  {
     "alias": "clubs",
     "unicode": "♣️",
     "category": "Objects"
@@ -1250,6 +1523,11 @@
     "category": "Countries"
   },
   {
+    "alias": "comet",
+    "unicode": "☄",
+    "category": "Nature"
+  },
+  {
     "alias": "comoros",
     "unicode": "🇰🇲",
     "category": "Countries"
@@ -1257,6 +1535,11 @@
   {
     "alias": "computer",
     "unicode": "💻",
+    "category": "Objects"
+  },
+  {
+    "alias": "computer_mouse",
+    "unicode": "🖱",
     "category": "Objects"
   },
   {
@@ -1301,6 +1584,11 @@
     ],
     "unicode": "👷",
     "category": "People"
+  },
+  {
+    "alias": "construction_worker_woman",
+    "unicode": "👷‍♀",
+    "category": "Activity"
   },
   {
     "alias": "control_knobs",
@@ -1348,8 +1636,18 @@
     "category": "Countries"
   },
   {
+    "alias": "couch_and_lamp",
+    "unicode": "🛋",
+    "category": "Objects"
+  },
+  {
     "alias": "couple",
     "unicode": "👫",
+    "category": "People"
+  },
+  {
+    "alias": "couple_with_heart_man_man",
+    "unicode": "👨‍❤️‍👨",
     "category": "People"
   },
   {
@@ -1358,6 +1656,26 @@
       "couple_with_heart"
     ],
     "unicode": "💑",
+    "category": "People"
+  },
+  {
+    "alias": "couple_with_heart_woman_woman",
+    "unicode": "👩‍❤️‍👩",
+    "category": "People"
+  },
+  {
+    "alias": "couplekiss_man_man",
+    "unicode": "👨‍❤️‍💋‍👨",
+    "category": "People"
+  },
+  {
+    "alias": "couplekiss_man_woman",
+    "unicode": "💏",
+    "category": "People"
+  },
+  {
+    "alias": "couplekiss_woman_woman",
+    "unicode": "👩‍❤️‍💋‍👩",
     "category": "People"
   },
   {
@@ -1371,9 +1689,34 @@
     "category": "Nature"
   },
   {
+    "alias": "cowboy_hat_face",
+    "unicode": "🤠",
+    "category": "Activity"
+  },
+  {
+    "alias": "crab",
+    "unicode": "🦀",
+    "category": "Nature"
+  },
+  {
+    "alias": "crayon",
+    "unicode": "🖍",
+    "category": "Objects"
+  },
+  {
     "alias": "credit_card",
     "unicode": "💳",
     "category": "Objects"
+  },
+  {
+    "alias": "crescent_moon",
+    "unicode": "🌙",
+    "category": "Nature"
+  },
+  {
+    "alias": "cricket",
+    "unicode": "🏏",
+    "category": "Activity"
   },
   {
     "alias": "croatia",
@@ -1386,9 +1729,24 @@
     "category": "Nature"
   },
   {
+    "alias": "croissant",
+    "unicode": "🥐",
+    "category": "Food"
+  },
+  {
+    "alias": "crossed_fingers",
+    "unicode": "🤞",
+    "category": "People"
+  },
+  {
     "alias": "crossed_flags",
     "unicode": "🎌",
     "category": "Travel"
+  },
+  {
+    "alias": "crossed_swords",
+    "unicode": "⚔️",
+    "category": "Objects"
   },
   {
     "alias": "crown",
@@ -1414,6 +1772,11 @@
     "alias": "cuba",
     "unicode": "🇨🇺",
     "category": "Countries"
+  },
+  {
+    "alias": "cucumber",
+    "unicode": "🥒",
+    "category": "Food"
   },
   {
     "alias": "cupid",
@@ -1466,6 +1829,11 @@
     "category": "Countries"
   },
   {
+    "alias": "dagger",
+    "unicode": "🗡",
+    "category": "Objects"
+  },
+  {
     "alias": "dancer",
     "unicode": "💃",
     "category": "People"
@@ -1487,6 +1855,11 @@
     "alias": "dango",
     "unicode": "🍡",
     "category": "Food"
+  },
+  {
+    "alias": "dark_sunglasses",
+    "unicode": "🕶",
+    "category": "Objects"
   },
   {
     "alias": "dart",
@@ -1514,6 +1887,11 @@
     "category": "Nature"
   },
   {
+    "alias": "deer",
+    "unicode": "🦌",
+    "category": "Nature"
+  },
+  {
     "alias": "denmark",
     "unicode": "🇩🇰",
     "category": "Countries"
@@ -1524,9 +1902,24 @@
     "category": "Travel"
   },
   {
+    "alias": "derelict_house",
+    "unicode": "🏚",
+    "category": "Travel"
+  },
+  {
+    "alias": "desert",
+    "unicode": "🏜",
+    "category": "Travel"
+  },
+  {
     "alias": "desert_island",
     "unicode": "🏝",
     "category": "Travel"
+  },
+  {
+    "alias": "desktop_computer",
+    "unicode": "🖥",
+    "category": "Objects"
   },
   {
     "alias": "diamond_shape_with_a_dot_inside",
@@ -1589,7 +1982,10 @@
     "category": "Objects"
   },
   {
-    "alias": "dolphin",
+    "alias": [
+      "dolphin",
+      "flipper"
+    ],
     "unicode": "🐬",
     "category": "Nature"
   },
@@ -1614,6 +2010,11 @@
     "category": "Food"
   },
   {
+    "alias": "dove",
+    "unicode": "🕊",
+    "category": "Nature"
+  },
+  {
     "alias": "dragon",
     "unicode": "🐉",
     "category": "Nature"
@@ -1634,9 +2035,24 @@
     "category": "Nature"
   },
   {
+    "alias": "drooling_face",
+    "unicode": "🤤",
+    "category": "People"
+  },
+  {
     "alias": "droplet",
     "unicode": "💧",
     "category": "People"
+  },
+  {
+    "alias": "drum",
+    "unicode": "🥁",
+    "category": "Activity"
+  },
+  {
+    "alias": "duck",
+    "unicode": "🦆",
+    "category": "Nature"
   },
   {
     "alias": "dvd",
@@ -1647,6 +2063,11 @@
     "alias": "e-mail",
     "unicode": "📧",
     "category": "Objects"
+  },
+  {
+    "alias": "eagle",
+    "unicode": "🦅",
+    "category": "Nature"
   },
   {
     "alias": "ear",
@@ -1772,7 +2193,10 @@
     "category": "Countries"
   },
   {
-    "alias": ["eu", "european_union"],
+    "alias": [
+      "eu",
+      "european_union"
+    ],
     "unicode": "🇪🇺",
     "category": "Countries"
   },
@@ -1810,6 +2234,16 @@
     "category": "People"
   },
   {
+    "alias": "eye",
+    "unicode": "👁",
+    "category": "People"
+  },
+  {
+    "alias": "eye_speech_bubble",
+    "unicode": "👁‍🗨",
+    "category": "People"
+  },
+  {
     "alias": "eyeglasses",
     "unicode": "👓",
     "category": "Objects"
@@ -1817,6 +2251,16 @@
   {
     "alias": "eyes",
     "unicode": "👀",
+    "category": "People"
+  },
+  {
+    "alias": "face_with_head_bandage",
+    "unicode": "🤕",
+    "category": "People"
+  },
+  {
+    "alias": "face_with_thermometer",
+    "unicode": "🤒",
     "category": "People"
   },
   {
@@ -1835,11 +2279,131 @@
     "category": "Nature"
   },
   {
+    "alias": "family_man_boy",
+    "unicode": "👨‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_boy_boy",
+    "unicode": "👨‍👦‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_girl",
+    "unicode": "👨‍👧",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_girl_boy",
+    "unicode": "👨‍👧‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_girl_girl",
+    "unicode": "👨‍👧‍👧",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_man_boy",
+    "unicode": "👨‍👨‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_man_boy_boy",
+    "unicode": "👨‍👨‍👦‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_man_girl",
+    "unicode": "👨‍👨‍👧",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_man_girl_boy",
+    "unicode": "👨‍👨‍👧‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_man_girl_girl",
+    "unicode": "👨‍👨‍👧‍👧",
+    "category": "People"
+  },
+  {
     "alias": [
       "family_man_woman_boy",
       "family"
     ],
     "unicode": "👪",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_woman_boy_boy",
+    "unicode": "👨‍👩‍👦‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_woman_girl",
+    "unicode": "👨‍👩‍👧",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_woman_girl_boy",
+    "unicode": "👨‍👩‍👧‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_man_woman_girl_girl",
+    "unicode": "👨‍👩‍👧‍👧",
+    "category": "People"
+  },
+  {
+    "alias": "family_woman_boy",
+    "unicode": "👩‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_woman_boy_boy",
+    "unicode": "👩‍👦‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_woman_girl",
+    "unicode": "👩‍👧",
+    "category": "People"
+  },
+  {
+    "alias": "family_woman_girl_boy",
+    "unicode": "👩‍👧‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_woman_girl_girl",
+    "unicode": "👩‍👧‍👧",
+    "category": "People"
+  },
+  {
+    "alias": "family_woman_woman_boy",
+    "unicode": "👩‍👩‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_woman_woman_boy_boy",
+    "unicode": "👩‍👩‍👦‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_woman_woman_girl",
+    "unicode": "👩‍👩‍👧",
+    "category": "People"
+  },
+  {
+    "alias": "family_woman_woman_girl_boy",
+    "unicode": "👩‍👩‍👧‍👦",
+    "category": "People"
+  },
+  {
+    "alias": "family_woman_woman_girl_girl",
+    "unicode": "👩‍👩‍👧‍👧",
     "category": "People"
   },
   {
@@ -1876,9 +2440,24 @@
     "category": "Nature"
   },
   {
+    "alias": "female_detective",
+    "unicode": "🕵️‍♀️",
+    "category": "Activity"
+  },
+  {
     "alias": "ferris_wheel",
     "unicode": "🎡",
     "category": "Travel"
+  },
+  {
+    "alias": "ferry",
+    "unicode": "⛴",
+    "category": "Travel"
+  },
+  {
+    "alias": "field_hockey",
+    "unicode": "🏑",
+    "category": "Activity"
   },
   {
     "alias": "fiji",
@@ -1886,8 +2465,23 @@
     "category": "Countries"
   },
   {
+    "alias": "file_cabinet",
+    "unicode": "🗄",
+    "category": "Objects"
+  },
+  {
     "alias": "file_folder",
     "unicode": "📁",
+    "category": "Objects"
+  },
+  {
+    "alias": "film_projector",
+    "unicode": "📽",
+    "category": "Objects"
+  },
+  {
+    "alias": "film_strip",
+    "unicode": "🎞",
     "category": "Objects"
   },
   {
@@ -1941,6 +2535,11 @@
     "category": "Objects"
   },
   {
+    "alias": "fist_left",
+    "unicode": "🤛",
+    "category": "People"
+  },
+  {
     "alias": [
       "fist_oncoming",
       "facepunch",
@@ -1955,6 +2554,11 @@
       "fist"
     ],
     "unicode": "✊",
+    "category": "People"
+  },
+  {
+    "alias": "fist_right",
+    "unicode": "🤜",
     "category": "People"
   },
   {
@@ -1973,6 +2577,21 @@
     "category": "Objects"
   },
   {
+    "alias": "fleur_de_lis",
+    "unicode": "⚜️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "flight_arrival",
+    "unicode": "🛬",
+    "category": "Travel"
+  },
+  {
+    "alias": "flight_departure",
+    "unicode": "🛫",
+    "category": "Travel"
+  },
+  {
     "alias": "floppy_disk",
     "unicode": "💾",
     "category": "Objects"
@@ -1988,6 +2607,11 @@
     "category": "People"
   },
   {
+    "alias": "fog",
+    "unicode": "🌫",
+    "category": "Nature"
+  },
+  {
     "alias": "foggy",
     "unicode": "🌁",
     "category": "Nature"
@@ -1996,6 +2620,11 @@
     "alias": "football",
     "unicode": "🏈",
     "category": "Activity"
+  },
+  {
+    "alias": "footprints",
+    "unicode": "👣",
+    "category": "People"
   },
   {
     "alias": "fork_and_knife",
@@ -2008,6 +2637,11 @@
     "category": "Travel"
   },
   {
+    "alias": "fountain_pen",
+    "unicode": "🖋",
+    "category": "Objects"
+  },
+  {
     "alias": "four",
     "unicode": "4️⃣",
     "category": "Symbols"
@@ -2018,9 +2652,19 @@
     "category": "Nature"
   },
   {
+    "alias": "fox_face",
+    "unicode": "🦊",
+    "category": "Nature"
+  },
+  {
     "alias": "fr",
     "unicode": "🇫🇷",
     "category": "Countries"
+  },
+  {
+    "alias": "framed_picture",
+    "unicode": "🖼",
+    "category": "Objects"
   },
   {
     "alias": "free",
@@ -2043,6 +2687,11 @@
     "category": "Countries"
   },
   {
+    "alias": "fried_egg",
+    "unicode": "🍳",
+    "category": "Food"
+  },
+  {
     "alias": "fried_shrimp",
     "unicode": "🍤",
     "category": "Food"
@@ -2060,6 +2709,16 @@
   {
     "alias": "frowning",
     "unicode": "😦",
+    "category": "People"
+  },
+  {
+    "alias": "frowning_face",
+    "unicode": "☹️",
+    "category": "People"
+  },
+  {
+    "alias": "frowning_man",
+    "unicode": "🙍‍♂",
     "category": "People"
   },
   {
@@ -2084,6 +2743,11 @@
     "alias": "full_moon_with_face",
     "unicode": "🌝",
     "category": "Nature"
+  },
+  {
+    "alias": "funeral_urn",
+    "unicode": "⚱️",
+    "category": "Objects"
   },
   {
     "alias": "gabon",
@@ -2164,6 +2828,11 @@
     "category": "Nature"
   },
   {
+    "alias": "goal_net",
+    "unicode": "🥅",
+    "category": "Activity"
+  },
+  {
     "alias": "goat",
     "unicode": "🐐",
     "category": "Nature"
@@ -2182,6 +2851,21 @@
     "alias": "golf",
     "unicode": "⛳️",
     "category": "Objects"
+  },
+  {
+    "alias": "golfing_man",
+    "unicode": "🏌",
+    "category": "Activity"
+  },
+  {
+    "alias": "golfing_woman",
+    "unicode": "🏌️‍♀️",
+    "category": "Activity"
+  },
+  {
+    "alias": "gorilla",
+    "unicode": "🦍",
+    "category": "Nature"
   },
   {
     "alias": "grapes",
@@ -2207,6 +2891,11 @@
     "alias": "green_heart",
     "unicode": "💚",
     "category": "People"
+  },
+  {
+    "alias": "green_salad",
+    "unicode": "🥗",
+    "category": "Food"
   },
   {
     "alias": "greenland",
@@ -2259,6 +2948,11 @@
     "category": "People"
   },
   {
+    "alias": "guardswoman",
+    "unicode": "💂‍♀",
+    "category": "Activity"
+  },
+  {
     "alias": "guatemala",
     "unicode": "🇬🇹",
     "category": "Countries"
@@ -2292,6 +2986,11 @@
     "alias": "guyana",
     "unicode": "🇬🇾",
     "category": "Countries"
+  },
+  {
+    "alias": "haircut_man",
+    "unicode": "💇‍♂",
+    "category": "Activity"
   },
   {
     "alias": [
@@ -2479,7 +3178,10 @@
     "category": "Objects"
   },
   {
-    "alias": "hocho",
+    "alias": [
+      "hocho",
+      "knife"
+    ],
     "unicode": "🔪",
     "category": "Objects"
   },
@@ -2519,6 +3221,16 @@
     "category": "Travel"
   },
   {
+    "alias": "hot_pepper",
+    "unicode": "🌶",
+    "category": "Food"
+  },
+  {
+    "alias": "hotdog",
+    "unicode": "🌭",
+    "category": "Food"
+  },
+  {
     "alias": "hotel",
     "unicode": "🏨",
     "category": "Travel"
@@ -2549,6 +3261,16 @@
     "category": "Travel"
   },
   {
+    "alias": "houses",
+    "unicode": "🏘",
+    "category": "Travel"
+  },
+  {
+    "alias": "hugs",
+    "unicode": "🤗",
+    "category": "People"
+  },
+  {
     "alias": "hungary",
     "unicode": "🇭🇺",
     "category": "Countries"
@@ -2567,6 +3289,16 @@
     "alias": "ice_cream",
     "unicode": "🍨",
     "category": "Food"
+  },
+  {
+    "alias": "ice_hockey",
+    "unicode": "🏒",
+    "category": "Activity"
+  },
+  {
+    "alias": "ice_skate",
+    "unicode": "⛸",
+    "category": "Activity"
   },
   {
     "alias": "icecream",
@@ -2664,11 +3396,6 @@
     "category": "Countries"
   },
   {
-    "alias": "izakaya_lantern",
-    "unicode": "🏮",
-    "category": "Travel"
-  },
-  {
     "alias": "jack_o_lantern",
     "unicode": "🎃",
     "category": "Objects"
@@ -2724,9 +3451,19 @@
     "category": "People"
   },
   {
+    "alias": "joystick",
+    "unicode": "🕹",
+    "category": "Activity"
+  },
+  {
     "alias": "jp",
     "unicode": "🇯🇵",
     "category": "Countries"
+  },
+  {
+    "alias": "kaaba",
+    "unicode": "🕋",
+    "category": "Objects"
   },
   {
     "alias": "kazakhstan",
@@ -2744,9 +3481,19 @@
     "category": "Objects"
   },
   {
+    "alias": "keyboard",
+    "unicode": "⌨️",
+    "category": "Objects"
+  },
+  {
     "alias": "keycap_ten",
     "unicode": "🔟",
     "category": "Symbols"
+  },
+  {
+    "alias": "kick_scooter",
+    "unicode": "🛴",
+    "category": "Travel"
   },
   {
     "alias": "kimono",
@@ -2789,6 +3536,11 @@
     "category": "People"
   },
   {
+    "alias": "kiwi_fruit",
+    "unicode": "🥝",
+    "category": "Food"
+  },
+  {
     "alias": "koala",
     "unicode": "🐨",
     "category": "Nature"
@@ -2824,6 +3576,14 @@
     "category": "Objects"
   },
   {
+    "alias": [
+      "lantern",
+      "izakaya_lantern"
+    ],
+    "unicode": "🏮",
+    "category": "Objects"
+  },
+  {
     "alias": "laos",
     "unicode": "🇱🇦",
     "category": "Countries"
@@ -2852,6 +3612,11 @@
     "alias": "last_quarter_moon_with_face",
     "unicode": "🌜",
     "category": "Nature"
+  },
+  {
+    "alias": "latin_cross",
+    "unicode": "✝️",
+    "category": "Symbols"
   },
   {
     "alias": "latvia",
@@ -2915,6 +3680,11 @@
     "alias": "lesotho",
     "unicode": "🇱🇸",
     "category": "Countries"
+  },
+  {
+    "alias": "level_slider",
+    "unicode": "🎚",
+    "category": "Objects"
   },
   {
     "alias": "liberia",
@@ -2992,6 +3762,11 @@
     "category": "Objects"
   },
   {
+    "alias": "loud_sound",
+    "unicode": "🔊",
+    "category": "Symbols"
+  },
+  {
     "alias": "loudspeaker",
     "unicode": "📢",
     "category": "Objects"
@@ -3015,6 +3790,11 @@
     "alias": "luxembourg",
     "unicode": "🇱🇺",
     "category": "Countries"
+  },
+  {
+    "alias": "lying_face",
+    "unicode": "🤥",
+    "category": "People"
   },
   {
     "alias": "m",
@@ -3087,6 +3867,14 @@
     "category": "Countries"
   },
   {
+    "alias": [
+      "male_detective",
+      "detective"
+    ],
+    "unicode": "🕵",
+    "category": "Activity"
+  },
+  {
     "alias": "mali",
     "unicode": "🇲🇱",
     "category": "Countries"
@@ -3102,14 +3890,124 @@
     "category": "People"
   },
   {
+    "alias": "man_artist",
+    "unicode": "👨‍🎨",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_astronaut",
+    "unicode": "👨‍🚀",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_cartwheeling",
+    "unicode": "🤸‍♂",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_cook",
+    "unicode": "👨‍🍳",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_dancing",
+    "unicode": "🕺",
+    "category": "Activity"
+  },
+  {
     "alias": "man_facepalming",
     "unicode": "🤦‍♂",
     "category": "People"
   },
   {
+    "alias": "man_factory_worker",
+    "unicode": "👨‍🏭",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_farmer",
+    "unicode": "👨‍🌾",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_firefighter",
+    "unicode": "👨‍🚒",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_health_worker",
+    "unicode": "👨‍⚕",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_in_tuxedo",
+    "unicode": "🤵",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_judge",
+    "unicode": "👨‍⚖",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_juggling",
+    "unicode": "🤹‍♂",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_mechanic",
+    "unicode": "👨‍🔧",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_office_worker",
+    "unicode": "👨‍💼",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_pilot",
+    "unicode": "👨‍✈",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_playing_handball",
+    "unicode": "🤾‍♂",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_playing_water_polo",
+    "unicode": "🤽‍♂",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_scientist",
+    "unicode": "👨‍🔬",
+    "category": "Activity"
+  },
+  {
     "alias": "man_shrugging",
     "unicode": "🤷‍♂",
     "category": "People"
+  },
+  {
+    "alias": "man_singer",
+    "unicode": "👨‍🎤",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_student",
+    "unicode": "👨‍🎓",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_teacher",
+    "unicode": "👨‍🏫",
+    "category": "Activity"
+  },
+  {
+    "alias": "man_technologist",
+    "unicode": "👨‍💻",
+    "category": "Activity"
   },
   {
     "alias": "man_with_gua_pi_mao",
@@ -3122,8 +4020,8 @@
     "category": "People"
   },
   {
-    "alias": "mans_shoe",
-    "unicode": "👞",
+    "alias": "mantelpiece_clock",
+    "unicode": "🕰",
     "category": "Objects"
   },
   {
@@ -3137,6 +4035,11 @@
     "category": "Countries"
   },
   {
+    "alias": "martial_arts_uniform",
+    "unicode": "🥋",
+    "category": "Activity"
+  },
+  {
     "alias": "martinique",
     "unicode": "🇲🇶",
     "category": "Countries"
@@ -3145,6 +4048,11 @@
     "alias": "mask",
     "unicode": "😷",
     "category": "People"
+  },
+  {
+    "alias": "massage_man",
+    "unicode": "💆‍♂",
+    "category": "Activity"
   },
   {
     "alias": [
@@ -3175,6 +4083,16 @@
     "category": "Food"
   },
   {
+    "alias": "medal_military",
+    "unicode": "🎖",
+    "category": "Activity"
+  },
+  {
+    "alias": "medal_sports",
+    "unicode": "🏅",
+    "category": "Activity"
+  },
+  {
     "alias": "mega",
     "unicode": "📣",
     "category": "Objects"
@@ -3191,6 +4109,16 @@
     ],
     "unicode": "📝",
     "category": "Objects"
+  },
+  {
+    "alias": "men_wrestling",
+    "unicode": "🤼‍♂",
+    "category": "Activity"
+  },
+  {
+    "alias": "menorah",
+    "unicode": "🕎",
+    "category": "Symbols"
   },
   {
     "alias": "mens",
@@ -3236,6 +4164,11 @@
     "category": "People"
   },
   {
+    "alias": "milk_glass",
+    "unicode": "🥛",
+    "category": "Food"
+  },
+  {
     "alias": "milky_way",
     "unicode": "🌌",
     "category": "Nature"
@@ -3264,6 +4197,11 @@
     "alias": "monaco",
     "unicode": "🇲🇨",
     "category": "Countries"
+  },
+  {
+    "alias": "money_mouth_face",
+    "unicode": "🤑",
+    "category": "People"
   },
   {
     "alias": "money_with_wings",
@@ -3324,6 +4262,11 @@
     "category": "Objects"
   },
   {
+    "alias": "mosque",
+    "unicode": "🕌",
+    "category": "Travel"
+  },
+  {
     "alias": "motor_boat",
     "unicode": "🛥",
     "category": "Travel"
@@ -3349,12 +4292,22 @@
     "category": "Travel"
   },
   {
+    "alias": "mountain",
+    "unicode": "⛰",
+    "category": "Travel"
+  },
+  {
     "alias": [
       "mountain_biking_man",
       "mountain_bicyclist"
     ],
     "unicode": "🚵",
     "category": "Objects"
+  },
+  {
+    "alias": "mountain_biking_woman",
+    "unicode": "🚵‍♀",
+    "category": "Travel"
   },
   {
     "alias": "mountain_cableway",
@@ -3364,6 +4317,11 @@
   {
     "alias": "mountain_railway",
     "unicode": "🚞",
+    "category": "Travel"
+  },
+  {
+    "alias": "mountain_snow",
+    "unicode": "🏔",
     "category": "Travel"
   },
   {
@@ -3390,6 +4348,11 @@
     "alias": "mozambique",
     "unicode": "🇲🇿",
     "category": "Countries"
+  },
+  {
+    "alias": "mrs_claus",
+    "unicode": "🤶",
+    "category": "People"
   },
   {
     "alias": "muscle",
@@ -3442,9 +4405,19 @@
     "category": "Countries"
   },
   {
+    "alias": "national_park",
+    "unicode": "🏞",
+    "category": "Travel"
+  },
+  {
     "alias": "nauru",
     "unicode": "🇳🇷",
     "category": "Countries"
+  },
+  {
+    "alias": "nauseated_face",
+    "unicode": "🤢",
+    "category": "People"
   },
   {
     "alias": "neckbeard",
@@ -3512,6 +4485,16 @@
     "category": "Objects"
   },
   {
+    "alias": "newspaper_roll",
+    "unicode": "🗞",
+    "category": "Objects"
+  },
+  {
+    "alias": "next_track_button",
+    "unicode": "⏭",
+    "category": "Symbols"
+  },
+  {
     "alias": "ng",
     "unicode": "🆖",
     "category": "Symbols"
@@ -3530,6 +4513,11 @@
     "alias": "nigeria",
     "unicode": "🇳🇬",
     "category": "Countries"
+  },
+  {
+    "alias": "night_with_stars",
+    "unicode": "🌃",
+    "category": "Travel"
   },
   {
     "alias": "nine",
@@ -3562,7 +4550,19 @@
     "category": "Symbols"
   },
   {
-    "alias": "no_good_woman",
+    "alias": [
+      "no_good_man",
+      "ng_man"
+    ],
+    "unicode": "🙅‍♂",
+    "category": "People"
+  },
+  {
+    "alias": [
+      "no_good_woman",
+      "ng_woman",
+      "no_good"
+    ],
     "unicode": "🙅",
     "category": "People"
   },
@@ -3672,6 +4672,11 @@
     "category": "Travel"
   },
   {
+    "alias": "oil_drum",
+    "unicode": "🛢",
+    "category": "Objects"
+  },
+  {
     "alias": "ok",
     "unicode": "🆗",
     "category": "Symbols"
@@ -3679,6 +4684,11 @@
   {
     "alias": "ok_hand",
     "unicode": "👌",
+    "category": "People"
+  },
+  {
+    "alias": "ok_man",
+    "unicode": "🙆‍♂",
     "category": "People"
   },
   {
@@ -3700,6 +4710,11 @@
     "alias": "older_woman",
     "unicode": "👵",
     "category": "People"
+  },
+  {
+    "alias": "om",
+    "unicode": "🕉",
+    "category": "Symbols"
   },
   {
     "alias": "oman",
@@ -3752,6 +4767,11 @@
     "category": "People"
   },
   {
+    "alias": "open_umbrella",
+    "unicode": "☂️",
+    "category": "Objects"
+  },
+  {
     "alias": "ophiuchus",
     "unicode": "⛎",
     "category": "Symbols"
@@ -3762,9 +4782,19 @@
     "category": "Objects"
   },
   {
+    "alias": "orthodox_cross",
+    "unicode": "☦️",
+    "category": "Symbols"
+  },
+  {
     "alias": "outbox_tray",
     "unicode": "📤",
     "category": "Objects"
+  },
+  {
+    "alias": "owl",
+    "unicode": "🦉",
+    "category": "Nature"
   },
   {
     "alias": "ox",
@@ -3792,6 +4822,11 @@
     "category": "Objects"
   },
   {
+    "alias": "paintbrush",
+    "unicode": "🖌",
+    "category": "Activity"
+  },
+  {
     "alias": "pakistan",
     "unicode": "🇵🇰",
     "category": "Countries"
@@ -3817,6 +4852,11 @@
     "category": "Countries"
   },
   {
+    "alias": "pancakes",
+    "unicode": "🥞",
+    "category": "Food"
+  },
+  {
     "alias": "panda_face",
     "unicode": "🐼",
     "category": "Nature"
@@ -3824,6 +4864,11 @@
   {
     "alias": "paperclip",
     "unicode": "📎",
+    "category": "Objects"
+  },
+  {
+    "alias": "paperclips",
+    "unicode": "🖇",
     "category": "Objects"
   },
   {
@@ -3835,6 +4880,11 @@
     "alias": "paraguay",
     "unicode": "🇵🇾",
     "category": "Countries"
+  },
+  {
+    "alias": "parasol_on_ground",
+    "unicode": "⛱",
+    "category": "Travel"
   },
   {
     "alias": "parking",
@@ -3852,8 +4902,18 @@
     "category": "Nature"
   },
   {
+    "alias": "passenger_ship",
+    "unicode": "🛳",
+    "category": "Travel"
+  },
+  {
     "alias": "passport_control",
     "unicode": "🛂",
+    "category": "Symbols"
+  },
+  {
+    "alias": "pause_button",
+    "unicode": "⏸",
     "category": "Symbols"
   },
   {
@@ -3864,6 +4924,11 @@
   {
     "alias": "peach",
     "unicode": "🍑",
+    "category": "Food"
+  },
+  {
+    "alias": "peanuts",
+    "unicode": "🥜",
     "category": "Food"
   },
   {
@@ -3900,6 +4965,11 @@
     "alias": "persevere",
     "unicode": "😣",
     "category": "People"
+  },
+  {
+    "alias": "person_fencing",
+    "unicode": "🤺",
+    "category": "Activity"
   },
   {
     "alias": "peru",
@@ -3950,6 +5020,11 @@
     "category": "Food"
   },
   {
+    "alias": "ping_pong",
+    "unicode": "🏓",
+    "category": "Activity"
+  },
+  {
     "alias": "pisces",
     "unicode": "♓️",
     "category": "Symbols"
@@ -3963,6 +5038,21 @@
     "alias": "pizza",
     "unicode": "🍕",
     "category": "Food"
+  },
+  {
+    "alias": "place_of_worship",
+    "unicode": "🛐",
+    "category": "Symbols"
+  },
+  {
+    "alias": "plate_with_cutlery",
+    "unicode": "🍽",
+    "category": "Food"
+  },
+  {
+    "alias": "play_or_pause_button",
+    "unicode": "⏯",
+    "category": "Symbols"
   },
   {
     "alias": "point_down",
@@ -4008,9 +5098,19 @@
     "category": "People"
   },
   {
+    "alias": "policewoman",
+    "unicode": "👮‍♀",
+    "category": "Activity"
+  },
+  {
     "alias": "poodle",
     "unicode": "🐩",
     "category": "Nature"
+  },
+  {
+    "alias": "popcorn",
+    "unicode": "🍿",
+    "category": "Food"
   },
   {
     "alias": "portugal",
@@ -4038,6 +5138,11 @@
     "category": "Symbols"
   },
   {
+    "alias": "potato",
+    "unicode": "🥔",
+    "category": "Food"
+  },
+  {
     "alias": "pouch",
     "unicode": "👝",
     "category": "Objects"
@@ -4058,6 +5163,11 @@
     "category": "People"
   },
   {
+    "alias": "pouting_man",
+    "unicode": "🙎‍♂",
+    "category": "People"
+  },
+  {
     "alias": [
       "pouting_woman",
       "person_with_pouting_face"
@@ -4071,9 +5181,34 @@
     "category": "People"
   },
   {
+    "alias": "prayer_beads",
+    "unicode": "📿",
+    "category": "Objects"
+  },
+  {
+    "alias": "pregnant_woman",
+    "unicode": "🤰",
+    "category": "People"
+  },
+  {
+    "alias": "previous_track_button",
+    "unicode": "⏮",
+    "category": "Symbols"
+  },
+  {
+    "alias": "prince",
+    "unicode": "🤴",
+    "category": "People"
+  },
+  {
     "alias": "princess",
     "unicode": "👸",
     "category": "People"
+  },
+  {
+    "alias": "printer",
+    "unicode": "🖨",
+    "category": "Objects"
   },
   {
     "alias": "puerto_rico",
@@ -4141,7 +5276,15 @@
     "category": "Symbols"
   },
   {
-    "alias": "rage",
+    "alias": "radioactive",
+    "unicode": "☢️",
+    "category": "Symbols"
+  },
+  {
+    "alias": [
+      "rage",
+      "pout"
+    ],
     "unicode": "😡",
     "category": "People"
   },
@@ -4171,13 +5314,38 @@
     "category": "Travel"
   },
   {
+    "alias": "railway_track",
+    "unicode": "🛤",
+    "category": "Travel"
+  },
+  {
     "alias": "rainbow",
     "unicode": "🌈",
     "category": "Travel"
   },
   {
+    "alias": "rainbow_flag",
+    "unicode": "🏳️‍🌈",
+    "category": "Objects"
+  },
+  {
+    "alias": "raised_back_of_hand",
+    "unicode": "🤚",
+    "category": "People"
+  },
+  {
+    "alias": "raised_hand_with_fingers_splayed",
+    "unicode": "🖐",
+    "category": "People"
+  },
+  {
     "alias": "raised_hands",
     "unicode": "🙌",
+    "category": "People"
+  },
+  {
+    "alias": "raising_hand_man",
+    "unicode": "🙋‍♂",
     "category": "People"
   },
   {
@@ -4202,6 +5370,11 @@
     "alias": "rat",
     "unicode": "🐀",
     "category": "Nature"
+  },
+  {
+    "alias": "record_button",
+    "unicode": "⏺",
+    "category": "Symbols"
   },
   {
     "alias": "recycle",
@@ -4229,6 +5402,11 @@
     "category": "People"
   },
   {
+    "alias": "reminder_ribbon",
+    "unicode": "🎗",
+    "category": "Objects"
+  },
+  {
     "alias": "repeat",
     "unicode": "🔁",
     "category": "Symbols"
@@ -4237,6 +5415,11 @@
     "alias": "repeat_one",
     "unicode": "🔂",
     "category": "Symbols"
+  },
+  {
+    "alias": "rescue_worker_helmet",
+    "unicode": "⛑",
+    "category": "Activity"
   },
   {
     "alias": "restroom",
@@ -4257,6 +5440,11 @@
     "alias": "rewind",
     "unicode": "⏪",
     "category": "Symbols"
+  },
+  {
+    "alias": "rhinoceros",
+    "unicode": "🦏",
+    "category": "Food"
   },
   {
     "alias": "ribbon",
@@ -4284,6 +5472,11 @@
     "category": "Objects"
   },
   {
+    "alias": "right_anger_bubble",
+    "unicode": "🗯",
+    "category": "Symbols"
+  },
+  {
     "alias": "ring",
     "unicode": "💍",
     "category": "Objects"
@@ -4297,6 +5490,11 @@
     "alias": "rocket",
     "unicode": "🚀",
     "category": "Travel"
+  },
+  {
+    "alias": "rofl",
+    "unicode": "🤣",
+    "category": "People"
   },
   {
     "alias": "roll_eyes",
@@ -4324,6 +5522,11 @@
     "category": "Nature"
   },
   {
+    "alias": "rosette",
+    "unicode": "🏵",
+    "category": "Nature"
+  },
+  {
     "alias": "rotating_light",
     "unicode": "🚨",
     "category": "Travel"
@@ -4340,6 +5543,11 @@
     ],
     "unicode": "🚣",
     "category": "Travel"
+  },
+  {
+    "alias": "rowing_woman",
+    "unicode": "🚣‍♀",
+    "category": "Activity"
   },
   {
     "alias": "ru",
@@ -4364,6 +5572,11 @@
     "alias": "running_shirt_with_sash",
     "unicode": "🎽",
     "category": "Objects"
+  },
+  {
+    "alias": "running_woman",
+    "unicode": "🏃‍♀",
+    "category": "Activity"
   },
   {
     "alias": "rwanda",
@@ -4441,6 +5654,11 @@
     "category": "Objects"
   },
   {
+    "alias": "scorpion",
+    "unicode": "🦂",
+    "category": "Nature"
+  },
+  {
     "alias": "scorpius",
     "unicode": "♏️",
     "category": "Symbols"
@@ -4481,6 +5699,11 @@
     "category": "Nature"
   },
   {
+    "alias": "selfie",
+    "unicode": "🤳",
+    "category": "Activity"
+  },
+  {
     "alias": "senegal",
     "unicode": "🇸🇳",
     "category": "Countries"
@@ -4501,6 +5724,21 @@
     "category": "Countries"
   },
   {
+    "alias": "shallow_pan_of_food",
+    "unicode": "🥘",
+    "category": "Food"
+  },
+  {
+    "alias": "shamrock",
+    "unicode": "☘️",
+    "category": "Nature"
+  },
+  {
+    "alias": "shark",
+    "unicode": "🦈",
+    "category": "Nature"
+  },
+  {
     "alias": "shaved_ice",
     "unicode": "🍧",
     "category": "Food"
@@ -4514,6 +5752,16 @@
     "alias": "shell",
     "unicode": "🐚",
     "category": "Nature"
+  },
+  {
+    "alias": "shield",
+    "unicode": "🛡",
+    "category": "Objects"
+  },
+  {
+    "alias": "shinto_shrine",
+    "unicode": "⛩",
+    "category": "Travel"
   },
   {
     "alias": "ship",
@@ -4537,9 +5785,32 @@
     "category": "Objects"
   },
   {
+    "alias": [
+      "shoe",
+      "mans_shoe"
+    ],
+    "unicode": "👞",
+    "category": "Objects"
+  },
+  {
+    "alias": "shopping",
+    "unicode": "🛍",
+    "category": "Activity"
+  },
+  {
+    "alias": "shopping_cart",
+    "unicode": "🛒",
+    "category": "Objects"
+  },
+  {
     "alias": "shower",
     "unicode": "🚿",
     "category": "Objects"
+  },
+  {
+    "alias": "shrimp",
+    "unicode": "🦐",
+    "category": "Nature"
   },
   {
     "alias": "sierra_leone",
@@ -4577,9 +5848,19 @@
     "category": "Objects"
   },
   {
+    "alias": "skier",
+    "unicode": "⛷",
+    "category": "Activity"
+  },
+  {
     "alias": "skull",
     "unicode": "💀",
     "category": "People"
+  },
+  {
+    "alias": "skull_and_crossbones",
+    "unicode": "☠️",
+    "category": "Symbols"
   },
   {
     "alias": "sleeping",
@@ -4587,8 +5868,18 @@
     "category": "People"
   },
   {
+    "alias": "sleeping_bed",
+    "unicode": "🛌",
+    "category": "Objects"
+  },
+  {
     "alias": "sleepy",
     "unicode": "😪",
+    "category": "People"
+  },
+  {
+    "alias": "slightly_frowning_face",
+    "unicode": "🙁",
     "category": "People"
   },
   {
@@ -4610,6 +5901,11 @@
     "alias": "slovenia",
     "unicode": "🇸🇮",
     "category": "Countries"
+  },
+  {
+    "alias": "small_airplane",
+    "unicode": "🛩",
+    "category": "Travel"
   },
   {
     "alias": "small_blue_diamond",
@@ -4682,6 +5978,11 @@
     "category": "Nature"
   },
   {
+    "alias": "sneezing_face",
+    "unicode": "🤧",
+    "category": "People"
+  },
+  {
     "alias": "snowboarder",
     "unicode": "🏂",
     "category": "Objects"
@@ -4695,6 +5996,11 @@
     "alias": "snowman",
     "unicode": "⛄️",
     "category": "Nature"
+  },
+  {
+    "alias": "snowman_with_snow",
+    "unicode": "☃️",
+    "category": "People"
   },
   {
     "alias": "sob",
@@ -4762,6 +6068,11 @@
     "category": "Food"
   },
   {
+    "alias": "sparkle",
+    "unicode": "❇️",
+    "category": "Symbols"
+  },
+  {
     "alias": "sparkler",
     "unicode": "🎇",
     "category": "Objects"
@@ -4787,6 +6098,11 @@
     "category": "Objects"
   },
   {
+    "alias": "speaking_head",
+    "unicode": "🗣",
+    "category": "People"
+  },
+  {
     "alias": "speech_balloon",
     "unicode": "💬",
     "category": "People"
@@ -4797,9 +6113,34 @@
     "category": "Travel"
   },
   {
+    "alias": "spider",
+    "unicode": "🕷",
+    "category": "Nature"
+  },
+  {
     "alias": "spider_web",
     "unicode": "🕸",
     "category": "Objects"
+  },
+  {
+    "alias": "spiral_calendar",
+    "unicode": "🗓",
+    "category": "Objects"
+  },
+  {
+    "alias": "spiral_notepad",
+    "unicode": "🗒",
+    "category": "Objects"
+  },
+  {
+    "alias": "spoon",
+    "unicode": "🥄",
+    "category": "Food"
+  },
+  {
+    "alias": "squid",
+    "unicode": "🦑",
+    "category": "Nature"
   },
   {
     "alias": "sri_lanka",
@@ -4837,6 +6178,11 @@
     "category": "Countries"
   },
   {
+    "alias": "stadium",
+    "unicode": "🏟",
+    "category": "Travel"
+  },
+  {
     "alias": "star",
     "unicode": "⭐️",
     "category": "People"
@@ -4845,6 +6191,16 @@
     "alias": "star2",
     "unicode": "🌟",
     "category": "People"
+  },
+  {
+    "alias": "star_and_crescent",
+    "unicode": "☪️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "star_of_david",
+    "unicode": "✡️",
+    "category": "Symbols"
   },
   {
     "alias": "stars",
@@ -4872,6 +6228,21 @@
     "category": "Food"
   },
   {
+    "alias": "stop_button",
+    "unicode": "⏹",
+    "category": "Symbols"
+  },
+  {
+    "alias": "stop_sign",
+    "unicode": "🛑",
+    "category": "Symbols"
+  },
+  {
+    "alias": "stopwatch",
+    "unicode": "⏱",
+    "category": "Objects"
+  },
+  {
     "alias": "straight_ruler",
     "unicode": "📏",
     "category": "Objects"
@@ -4897,9 +6268,34 @@
     "category": "People"
   },
   {
+    "alias": "studio_microphone",
+    "unicode": "🎙",
+    "category": "Objects"
+  },
+  {
+    "alias": "stuffed_flatbread",
+    "unicode": "🥙",
+    "category": "Food"
+  },
+  {
     "alias": "sudan",
     "unicode": "🇸🇩",
     "category": "Countries"
+  },
+  {
+    "alias": "sun_behind_large_cloud",
+    "unicode": "🌥",
+    "category": "Nature"
+  },
+  {
+    "alias": "sun_behind_rain_cloud",
+    "unicode": "🌦",
+    "category": "Nature"
+  },
+  {
+    "alias": "sun_behind_small_cloud",
+    "unicode": "🌤",
+    "category": "Nature"
   },
   {
     "alias": "sun_with_face",
@@ -4938,6 +6334,11 @@
     ],
     "unicode": "🏄",
     "category": "Objects"
+  },
+  {
+    "alias": "surfing_woman",
+    "unicode": "🏄‍♀",
+    "category": "Activity"
   },
   {
     "alias": "suriname",
@@ -4998,6 +6399,11 @@
     "category": "Objects"
   },
   {
+    "alias": "swimming_woman",
+    "unicode": "🏊‍♀",
+    "category": "Activity"
+  },
+  {
     "alias": "switzerland",
     "unicode": "🇨🇭",
     "category": "Countries"
@@ -5006,6 +6412,11 @@
     "alias": "symbols",
     "unicode": "🔣",
     "category": "Symbols"
+  },
+  {
+    "alias": "synagogue",
+    "unicode": "🕍",
+    "category": "Travel"
   },
   {
     "alias": "syria",
@@ -5043,7 +6454,11 @@
     "category": "Objects"
   },
   {
-    "alias": "tangerine",
+    "alias": [
+      "tangerine",
+      "mandarin",
+      "orange"
+    ],
     "unicode": "🍊",
     "category": "Food"
   },
@@ -5118,6 +6533,11 @@
     "category": "Travel"
   },
   {
+    "alias": "tickets",
+    "unicode": "🎟",
+    "category": "Objects"
+  },
+  {
     "alias": "tiger",
     "unicode": "🐯",
     "category": "Nature"
@@ -5128,14 +6548,28 @@
     "category": "Nature"
   },
   {
+    "alias": "timer_clock",
+    "unicode": "⏲",
+    "category": "Objects"
+  },
+  {
     "alias": "timor_leste",
     "unicode": "🇹🇱",
     "category": "Countries"
   },
   {
     "alias": [
+      "tipping_hand_man",
+      "sassy_man"
+    ],
+    "unicode": "💁‍♂",
+    "category": "People"
+  },
+  {
+    "alias": [
       "tipping_hand_woman",
-      "information_desk_person"
+      "information_desk_person",
+      "sassy_woman"
     ],
     "unicode": "💁",
     "category": "People"
@@ -5204,6 +6638,11 @@
     "alias": "tr",
     "unicode": "🇹🇷",
     "category": "Countries"
+  },
+  {
+    "alias": "trackball",
+    "unicode": "🖲",
+    "category": "Activity"
   },
   {
     "alias": "tractor",
@@ -5296,9 +6735,19 @@
     "category": "Nature"
   },
   {
+    "alias": "tumbler_glass",
+    "unicode": "🥃",
+    "category": "Food"
+  },
+  {
     "alias": "tunisia",
     "unicode": "🇹🇳",
     "category": "Countries"
+  },
+  {
+    "alias": "turkey",
+    "unicode": "🦃",
+    "category": "Nature"
   },
   {
     "alias": "turkmenistan",
@@ -5451,6 +6900,11 @@
     "category": "Symbols"
   },
   {
+    "alias": "upside_down_face",
+    "unicode": "🙃",
+    "category": "People"
+  },
+  {
     "alias": "uruguay",
     "unicode": "🇺🇾",
     "category": "Countries"
@@ -5536,9 +6990,19 @@
     "category": "Nature"
   },
   {
+    "alias": "volleyball",
+    "unicode": "🏐",
+    "category": "Activity"
+  },
+  {
     "alias": "vs",
     "unicode": "🆚",
     "category": "Symbols"
+  },
+  {
+    "alias": "vulcan_salute",
+    "unicode": "🖖",
+    "category": "People"
   },
   {
     "alias": [
@@ -5547,6 +7011,11 @@
     ],
     "unicode": "🚶",
     "category": "People"
+  },
+  {
+    "alias": "walking_woman",
+    "unicode": "🚶‍♀",
+    "category": "Activity"
   },
   {
     "alias": "wallis_futuna",
@@ -5567,6 +7036,11 @@
     "alias": "warning",
     "unicode": "⚠️",
     "category": "Travel"
+  },
+  {
+    "alias": "wastebasket",
+    "unicode": "🗑",
+    "category": "Objects"
   },
   {
     "alias": "watch",
@@ -5614,6 +7088,16 @@
     "category": "Travel"
   },
   {
+    "alias": "weight_lifting_man",
+    "unicode": "🏋",
+    "category": "Activity"
+  },
+  {
+    "alias": "weight_lifting_woman",
+    "unicode": "🏋️‍♀️",
+    "category": "Activity"
+  },
+  {
     "alias": "western_sahara",
     "unicode": "🇪🇭",
     "category": "Countries"
@@ -5627,6 +7111,11 @@
     "alias": "whale2",
     "unicode": "🐋",
     "category": "Nature"
+  },
+  {
+    "alias": "wheel_of_dharma",
+    "unicode": "☸️",
+    "category": "Symbols"
   },
   {
     "alias": "wheelchair",
@@ -5644,8 +7133,33 @@
     "category": "Symbols"
   },
   {
+    "alias": "white_flag",
+    "unicode": "🏳️",
+    "category": "Objects"
+  },
+  {
     "alias": "white_flower",
     "unicode": "💮",
+    "category": "Symbols"
+  },
+  {
+    "alias": "white_large_square",
+    "unicode": "⬜️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "white_medium_small_square",
+    "unicode": "◽️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "white_medium_square",
+    "unicode": "◻️",
+    "category": "Symbols"
+  },
+  {
+    "alias": "white_small_square",
+    "unicode": "▫️",
     "category": "Symbols"
   },
   {
@@ -5654,9 +7168,19 @@
     "category": "Symbols"
   },
   {
+    "alias": "wilted_flower",
+    "unicode": "🥀",
+    "category": "Nature"
+  },
+  {
     "alias": "wind_chime",
     "unicode": "🎐",
     "category": "Objects"
+  },
+  {
+    "alias": "wind_face",
+    "unicode": "🌬",
+    "category": "Nature"
   },
   {
     "alias": "wine_glass",
@@ -5679,13 +7203,118 @@
     "category": "People"
   },
   {
+    "alias": "woman_artist",
+    "unicode": "👩‍🎨",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_astronaut",
+    "unicode": "👩‍🚀",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_cartwheeling",
+    "unicode": "🤸‍♀",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_cook",
+    "unicode": "👩‍🍳",
+    "category": "Activity"
+  },
+  {
     "alias": "woman_facepalming",
     "unicode": "🤦‍♀",
     "category": "People"
   },
   {
+    "alias": "woman_factory_worker",
+    "unicode": "👩‍🏭",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_farmer",
+    "unicode": "👩‍🌾",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_firefighter",
+    "unicode": "👩‍🚒",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_health_worker",
+    "unicode": "👩‍⚕",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_judge",
+    "unicode": "👩‍⚖",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_juggling",
+    "unicode": "🤹‍♀",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_mechanic",
+    "unicode": "👩‍🔧",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_office_worker",
+    "unicode": "👩‍💼",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_pilot",
+    "unicode": "👩‍✈",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_playing_handball",
+    "unicode": "🤾‍♀",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_playing_water_polo",
+    "unicode": "🤽‍♀",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_scientist",
+    "unicode": "👩‍🔬",
+    "category": "Activity"
+  },
+  {
     "alias": "woman_shrugging",
     "unicode": "🤷‍♀",
+    "category": "People"
+  },
+  {
+    "alias": "woman_singer",
+    "unicode": "👩‍🎤",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_student",
+    "unicode": "👩‍🎓",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_teacher",
+    "unicode": "👩‍🏫",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_technologist",
+    "unicode": "👩‍💻",
+    "category": "Activity"
+  },
+  {
+    "alias": "woman_with_turban",
+    "unicode": "👳‍♀",
     "category": "People"
   },
   {
@@ -5699,9 +7328,19 @@
     "category": "Objects"
   },
   {
+    "alias": "women_wrestling",
+    "unicode": "🤼‍♀",
+    "category": "Activity"
+  },
+  {
     "alias": "womens",
     "unicode": "🚺",
     "category": "Symbols"
+  },
+  {
+    "alias": "world_map",
+    "unicode": "🗺",
+    "category": "Travel"
   },
   {
     "alias": "worried",
@@ -5712,6 +7351,11 @@
     "alias": "wrench",
     "unicode": "🔧",
     "category": "Objects"
+  },
+  {
+    "alias": "writing_hand",
+    "unicode": "✍️",
+    "category": "Activity"
   },
   {
     "alias": "x",
@@ -5732,6 +7376,11 @@
     "alias": "yen",
     "unicode": "💴",
     "category": "Objects"
+  },
+  {
+    "alias": "yin_yang",
+    "unicode": "☯️",
+    "category": "Symbols"
   },
   {
     "alias": "yum",
@@ -5757,6 +7406,11 @@
     "alias": "zimbabwe",
     "unicode": "🇿🇼",
     "category": "Countries"
+  },
+  {
+    "alias": "zipper_mouth_face",
+    "unicode": "🤐",
+    "category": "People"
   },
   {
     "alias": "zzz",
