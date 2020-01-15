@@ -58,7 +58,7 @@
   {
     "alias": "aerial_tramway",
     "unicode": "🚡",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "afghanistan",
@@ -68,7 +68,7 @@
   {
     "alias": "airplane",
     "unicode": "✈️",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "aland_islands",
@@ -98,7 +98,7 @@
   {
     "alias": "ambulance",
     "unicode": "🚑",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "american_samoa",
@@ -108,7 +108,7 @@
   {
     "alias": "anchor",
     "unicode": "⚓️",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "andorra",
@@ -293,7 +293,7 @@
   {
     "alias": "articulated_lorry",
     "unicode": "🚛",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "aruba",
@@ -308,7 +308,7 @@
   {
     "alias": "atm",
     "unicode": "🏧",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "atom",
@@ -413,7 +413,7 @@
   {
     "alias": "bank",
     "unicode": "🏦",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "bar_chart",
@@ -428,7 +428,7 @@
   {
     "alias": "barber",
     "unicode": "💈",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "baseball",
@@ -441,7 +441,7 @@
       "basecampy"
     ],
     "unicode": false,
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "basketball",
@@ -494,7 +494,7 @@
   {
     "alias": "beginner",
     "unicode": "🔰",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "belarus",
@@ -544,7 +544,7 @@
   {
     "alias": "bike",
     "unicode": "🚲",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": [
@@ -620,7 +620,7 @@
   {
     "alias": "blue_car",
     "unicode": "🚙",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "blue_heart",
@@ -643,7 +643,7 @@
       "sailboat"
     ],
     "unicode": "⛵️",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "bolivia",
@@ -744,7 +744,7 @@
   {
     "alias": "bridge_at_night",
     "unicode": "🌉",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "briefcase",
@@ -789,12 +789,12 @@
   {
     "alias": "bullettrain_front",
     "unicode": "🚅",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "bullettrain_side",
     "unicode": "🚄",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "burkina_faso",
@@ -809,12 +809,12 @@
   {
     "alias": "bus",
     "unicode": "🚌",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "busstop",
     "unicode": "🚏",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "bust_in_silhouette",
@@ -907,7 +907,7 @@
       "red_car"
     ],
     "unicode": "🚗",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "card_index",
@@ -922,7 +922,7 @@
   {
     "alias": "carousel_horse",
     "unicode": "🎠",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "cat",
@@ -972,7 +972,7 @@
   {
     "alias": "checkered_flag",
     "unicode": "🏁",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "cherries",
@@ -1022,7 +1022,7 @@
   {
     "alias": "church",
     "unicode": "⛪️",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "cinema",
@@ -1032,17 +1032,17 @@
   {
     "alias": "circus_tent",
     "unicode": "🎪",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "city_sunrise",
     "unicode": "🌇",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "city_sunset",
     "unicode": "🌆",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "cl",
@@ -1292,7 +1292,7 @@
   {
     "alias": "construction",
     "unicode": "🚧",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": [
@@ -1310,7 +1310,7 @@
   {
     "alias": "convenience_store",
     "unicode": "🏪",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "cook_islands",
@@ -1388,7 +1388,7 @@
   {
     "alias": "crossed_flags",
     "unicode": "🎌",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "crown",
@@ -1521,12 +1521,12 @@
   {
     "alias": "department_store",
     "unicode": "🏬",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "desert_island",
     "unicode": "🏝",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "diamond_shape_with_a_dot_inside",
@@ -1784,12 +1784,12 @@
   {
     "alias": "european_castle",
     "unicode": "🏰",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "european_post_office",
     "unicode": "🏤",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "evergreen_tree",
@@ -1822,7 +1822,7 @@
   {
     "alias": "factory",
     "unicode": "🏭",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "falkland_islands",
@@ -1878,7 +1878,7 @@
   {
     "alias": "ferris_wheel",
     "unicode": "🎡",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "fiji",
@@ -1908,7 +1908,7 @@
   {
     "alias": "fire_engine",
     "unicode": "🚒",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "fireworks",
@@ -2005,7 +2005,7 @@
   {
     "alias": "fountain",
     "unicode": "⛲️",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "four",
@@ -2073,7 +2073,7 @@
   {
     "alias": "fuelpump",
     "unicode": "⛽️",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "full_moon",
@@ -2456,7 +2456,7 @@
   {
     "alias": "helicopter",
     "unicode": "🚁",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "herb",
@@ -2516,17 +2516,17 @@
   {
     "alias": "hospital",
     "unicode": "🏥",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "hotel",
     "unicode": "🏨",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "hotsprings",
     "unicode": "♨️",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "hourglass",
@@ -2541,12 +2541,12 @@
   {
     "alias": "house",
     "unicode": "🏠",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "house_with_garden",
     "unicode": "🏡",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "hungary",
@@ -2666,7 +2666,7 @@
   {
     "alias": "izakaya_lantern",
     "unicode": "🏮",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "jack_o_lantern",
@@ -2681,12 +2681,12 @@
   {
     "alias": "japan",
     "unicode": "🗾",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "japanese_castle",
     "unicode": "🏯",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "japanese_goblin",
@@ -2939,7 +2939,7 @@
   {
     "alias": "light_rail",
     "unicode": "🚈",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "link",
@@ -2999,7 +2999,7 @@
   {
     "alias": "love_hotel",
     "unicode": "🏩",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "love_letter",
@@ -3243,7 +3243,7 @@
   {
     "alias": "minibus",
     "unicode": "🚐",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "minidisc",
@@ -3293,7 +3293,7 @@
   {
     "alias": "monorail",
     "unicode": "🚝",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "montenegro",
@@ -3326,27 +3326,27 @@
   {
     "alias": "motor_boat",
     "unicode": "🛥",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "motor_scooter",
     "unicode": "🛵",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "motorcycle",
     "unicode": "🏍",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "motorway",
     "unicode": "🛣",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "mount_fuji",
     "unicode": "🗻",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": [
@@ -3359,12 +3359,12 @@
   {
     "alias": "mountain_cableway",
     "unicode": "🚠",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "mountain_railway",
     "unicode": "🚞",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "mouse",
@@ -3384,7 +3384,7 @@
   {
     "alias": "moyai",
     "unicode": "🗿",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "mozambique",
@@ -3669,7 +3669,7 @@
   {
     "alias": "office",
     "unicode": "🏢",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "ok",
@@ -3714,22 +3714,22 @@
   {
     "alias": "oncoming_automobile",
     "unicode": "🚘",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "oncoming_bus",
     "unicode": "🚍",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "oncoming_police_car",
     "unicode": "🚔",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "oncoming_taxi",
     "unicode": "🚖",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "one",
@@ -3894,7 +3894,7 @@
   {
     "alias": "performing_arts",
     "unicode": "🎭",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "persevere",
@@ -3997,7 +3997,7 @@
   {
     "alias": "police_car",
     "unicode": "🚓",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": [
@@ -4020,7 +4020,7 @@
   {
     "alias": "post_office",
     "unicode": "🏣",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "postal_horn",
@@ -4128,7 +4128,7 @@
   {
     "alias": "racing_car",
     "unicode": "🏎",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "radio",
@@ -4168,12 +4168,12 @@
   {
     "alias": "railway_car",
     "unicode": "🚃",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "rainbow",
     "unicode": "🌈",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "raised_hands",
@@ -4296,7 +4296,7 @@
   {
     "alias": "rocket",
     "unicode": "🚀",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "roll_eyes",
@@ -4306,7 +4306,7 @@
   {
     "alias": "roller_coaster",
     "unicode": "🎢",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "romania",
@@ -4326,12 +4326,12 @@
   {
     "alias": "rotating_light",
     "unicode": "🚨",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "round_pushpin",
     "unicode": "📍",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": [
@@ -4339,7 +4339,7 @@
       "rowboat"
     ],
     "unicode": "🚣",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "ru",
@@ -4428,7 +4428,7 @@
   {
     "alias": "school",
     "unicode": "🏫",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "school_satchel",
@@ -4518,7 +4518,7 @@
   {
     "alias": "ship",
     "unicode": "🚢",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": [
@@ -4599,7 +4599,7 @@
   {
     "alias": "slot_machine",
     "unicode": "🎰",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "slovakia",
@@ -4794,7 +4794,7 @@
   {
     "alias": "speedboat",
     "unicode": "🚤",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "spider_web",
@@ -4849,22 +4849,22 @@
   {
     "alias": "stars",
     "unicode": "🌠",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "station",
     "unicode": "🚉",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "statue_of_liberty",
     "unicode": "🗽",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "steam_locomotive",
     "unicode": "🚂",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "stew",
@@ -4924,12 +4924,12 @@
   {
     "alias": "sunrise",
     "unicode": "🌅",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "sunrise_over_mountains",
     "unicode": "🌄",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": [
@@ -4957,7 +4957,7 @@
   {
     "alias": "suspension_railway",
     "unicode": "🚟",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "swaziland",
@@ -5060,7 +5060,7 @@
   {
     "alias": "taxi",
     "unicode": "🚕",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "tea",
@@ -5085,7 +5085,7 @@
   {
     "alias": "tent",
     "unicode": "⛺️",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "thailand",
@@ -5115,7 +5115,7 @@
   {
     "alias": "ticket",
     "unicode": "🎫",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "tiger",
@@ -5168,7 +5168,7 @@
   {
     "alias": "tokyo_tower",
     "unicode": "🗼",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "tomato",
@@ -5198,7 +5198,7 @@
   {
     "alias": "tornado",
     "unicode": "🌪",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "tr",
@@ -5208,32 +5208,32 @@
   {
     "alias": "tractor",
     "unicode": "🚜",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "traffic_light",
     "unicode": "🚥",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "train",
     "unicode": "🚋",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "train2",
     "unicode": "🚆",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "tram",
     "unicode": "🚊",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "triangular_flag_on_post",
     "unicode": "🚩",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "triangular_ruler",
@@ -5258,7 +5258,7 @@
   {
     "alias": "trolleybus",
     "unicode": "🚎",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "trollface",
@@ -5283,7 +5283,7 @@
   {
     "alias": "truck",
     "unicode": "🚚",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "trumpet",
@@ -5493,7 +5493,7 @@
   {
     "alias": "vertical_traffic_light",
     "unicode": "🚦",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "vhs",
@@ -5566,7 +5566,7 @@
   {
     "alias": "warning",
     "unicode": "⚠️",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "watch",
@@ -5611,7 +5611,7 @@
   {
     "alias": "wedding",
     "unicode": "💒",
-    "category": "Places"
+    "category": "Travel"
   },
   {
     "alias": "western_sahara",
