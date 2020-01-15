@@ -163,7 +163,7 @@
   {
     "alias": "apple",
     "unicode": "🍎",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "aquarius",
@@ -398,7 +398,7 @@
   {
     "alias": "banana",
     "unicode": "🍌",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "bangbang",
@@ -479,12 +479,12 @@
   {
     "alias": "beer",
     "unicode": "🍺",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "beers",
     "unicode": "🍻",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "beetle",
@@ -529,7 +529,7 @@
   {
     "alias": "bento",
     "unicode": "🍱",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "bermuda",
@@ -572,7 +572,7 @@
   {
     "alias": "birthday",
     "unicode": "🎂",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "black_circle",
@@ -734,7 +734,7 @@
   {
     "alias": "bread",
     "unicode": "🍞",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "bride_with_veil",
@@ -834,7 +834,7 @@
   {
     "alias": "cake",
     "unicode": "🍰",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "calendar",
@@ -884,7 +884,7 @@
   {
     "alias": "candy",
     "unicode": "🍬",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "cape_verde",
@@ -977,7 +977,7 @@
   {
     "alias": "cherries",
     "unicode": "🍒",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "cherry_blossom",
@@ -1007,7 +1007,7 @@
   {
     "alias": "chocolate_bar",
     "unicode": "🍫",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "christmas_island",
@@ -1222,7 +1222,7 @@
   {
     "alias": "cocktail",
     "unicode": "🍸",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "cocos_islands",
@@ -1232,7 +1232,7 @@
   {
     "alias": "coffee",
     "unicode": "☕️",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "coffin",
@@ -1320,7 +1320,7 @@
   {
     "alias": "cookie",
     "unicode": "🍪",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "cool",
@@ -1335,7 +1335,7 @@
   {
     "alias": "corn",
     "unicode": "🌽",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "costa_rica",
@@ -1438,12 +1438,12 @@
   {
     "alias": "curry",
     "unicode": "🍛",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "custard",
     "unicode": "🍮",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "customs",
@@ -1486,7 +1486,7 @@
   {
     "alias": "dango",
     "unicode": "🍡",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "dart",
@@ -1611,7 +1611,7 @@
   {
     "alias": "doughnut",
     "unicode": "🍩",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "dragon",
@@ -1681,12 +1681,12 @@
   {
     "alias": "egg",
     "unicode": "🥚",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "eggplant",
     "unicode": "🍆",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "egypt",
@@ -1933,7 +1933,7 @@
   {
     "alias": "fish_cake",
     "unicode": "🍥",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "fishing_pole_and_fish",
@@ -2000,7 +2000,7 @@
   {
     "alias": "fork_and_knife",
     "unicode": "🍴",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "fountain",
@@ -2045,12 +2045,12 @@
   {
     "alias": "fried_shrimp",
     "unicode": "🍤",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "fries",
     "unicode": "🍟",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "frog",
@@ -2186,7 +2186,7 @@
   {
     "alias": "grapes",
     "unicode": "🍇",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "greece",
@@ -2196,7 +2196,7 @@
   {
     "alias": "green_apple",
     "unicode": "🍏",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "green_book",
@@ -2309,7 +2309,7 @@
   {
     "alias": "hamburger",
     "unicode": "🍔",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "hammer",
@@ -2496,7 +2496,7 @@
   {
     "alias": "honey_pot",
     "unicode": "🍯",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "hong_kong",
@@ -2566,12 +2566,12 @@
   {
     "alias": "ice_cream",
     "unicode": "🍨",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "icecream",
     "unicode": "🍦",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "iceland",
@@ -2899,7 +2899,7 @@
   {
     "alias": "lemon",
     "unicode": "🍋",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "leo",
@@ -2984,7 +2984,7 @@
   {
     "alias": "lollipop",
     "unicode": "🍭",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "loop",
@@ -3172,7 +3172,7 @@
   {
     "alias": "meat_on_bone",
     "unicode": "🍖",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "mega",
@@ -3182,7 +3182,7 @@
   {
     "alias": "melon",
     "unicode": "🍈",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": [
@@ -3664,7 +3664,7 @@
   {
     "alias": "oden",
     "unicode": "🍢",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "office",
@@ -3864,12 +3864,12 @@
   {
     "alias": "peach",
     "unicode": "🍑",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "pear",
     "unicode": "🍐",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "pen",
@@ -3947,7 +3947,7 @@
   {
     "alias": "pineapple",
     "unicode": "🍍",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "pisces",
@@ -3962,7 +3962,7 @@
   {
     "alias": "pizza",
     "unicode": "🍕",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "point_down",
@@ -4045,7 +4045,7 @@
   {
     "alias": "poultry_leg",
     "unicode": "🍗",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "pound",
@@ -4196,7 +4196,7 @@
   {
     "alias": "ramen",
     "unicode": "🍜",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "rat",
@@ -4266,17 +4266,17 @@
   {
     "alias": "rice",
     "unicode": "🍚",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "rice_ball",
     "unicode": "🍙",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "rice_cracker",
     "unicode": "🍘",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "rice_scene",
@@ -4383,7 +4383,7 @@
   {
     "alias": "sake",
     "unicode": "🍶",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "samoa",
@@ -4503,7 +4503,7 @@
   {
     "alias": "shaved_ice",
     "unicode": "🍧",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "sheep",
@@ -4759,7 +4759,7 @@
   {
     "alias": "spaghetti",
     "unicode": "🍝",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "sparkler",
@@ -4869,7 +4869,7 @@
   {
     "alias": "stew",
     "unicode": "🍲",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "straight_ruler",
@@ -4879,7 +4879,7 @@
   {
     "alias": "strawberry",
     "unicode": "🍓",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "stuck_out_tongue",
@@ -4947,7 +4947,7 @@
   {
     "alias": "sushi",
     "unicode": "🍣",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "suspect",
@@ -4987,7 +4987,7 @@
   {
     "alias": "sweet_potato",
     "unicode": "🍠",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": [
@@ -5020,7 +5020,7 @@
   {
     "alias": "taco",
     "unicode": "🌮",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "tada",
@@ -5045,7 +5045,7 @@
   {
     "alias": "tangerine",
     "unicode": "🍊",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "tanzania",
@@ -5065,7 +5065,7 @@
   {
     "alias": "tea",
     "unicode": "🍵",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "telephone_receiver",
@@ -5173,7 +5173,7 @@
   {
     "alias": "tomato",
     "unicode": "🍅",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "tonga",
@@ -5273,7 +5273,7 @@
   {
     "alias": "tropical_drink",
     "unicode": "🍹",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "tropical_fish",
@@ -5581,7 +5581,7 @@
   {
     "alias": "watermelon",
     "unicode": "🍉",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "wave",
@@ -5661,7 +5661,7 @@
   {
     "alias": "wine_glass",
     "unicode": "🍷",
-    "category": "Objects"
+    "category": "Food"
   },
   {
     "alias": "wink",
