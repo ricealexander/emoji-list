@@ -28,7 +28,7 @@
   {
     "alias": "8ball",
     "unicode": "🎱",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "a",
@@ -433,7 +433,7 @@
   {
     "alias": "baseball",
     "unicode": "⚾️",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": [
@@ -446,7 +446,7 @@
   {
     "alias": "basketball",
     "unicode": "🏀",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "bath",
@@ -1995,7 +1995,7 @@
   {
     "alias": "football",
     "unicode": "🏈",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "fork_and_knife",
@@ -4349,7 +4349,7 @@
   {
     "alias": "rugby_football",
     "unicode": "🏉",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": [
@@ -5080,7 +5080,7 @@
   {
     "alias": "tennis",
     "unicode": "🎾",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "tent",

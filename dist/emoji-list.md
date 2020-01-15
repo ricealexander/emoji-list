@@ -162,6 +162,13 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :tropical_drink: `:tropical_drink:` | :beer: `:beer:` | :beers: `:beers:` |
 | :birthday: `:birthday:` | :egg: `:egg:` |  |
 
+### Activity
+
+| | | |
+|---|---|---|
+| :baseball: `:baseball:` | :8ball: `:8ball:` | :tennis: `:tennis:` |
+| :basketball: `:basketball:` | :football: `:football:` | :rugby_football: `:rugby_football:` |
+
 ### Travel and Places
 
 | | | |
@@ -211,27 +218,25 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :spades: `:spades:` | :clubs: `:clubs:` | :hearts: `:hearts:` |
 | :diamonds: `:diamonds:` | :hammer_and_pick: `:hammer_and_pick:` | :balance_scale: `:balance_scale:` |
 | :gear: `:gear:` | :coffin: `:coffin:` | :soccer: `:soccer:` |
-| :baseball: `:baseball:` | :pick: `:pick:` | :golf: `:golf:` |
-| :scissors: `:scissors:` | :email: `:email:` | :envelope: `:envelope:` |
-| :pencil2: `:pencil2:` | :black_nib: `:black_nib:` | :loop: `:loop:` |
-| :mahjong: `:mahjong:` | :black_joker: `:black_joker:` | :closed_umbrella: `:closed_umbrella:` |
-| :thermometer: `:thermometer:` | :baby_bottle: `:baby_bottle:` | :ribbon: `:ribbon:` |
-| :gift: `:gift:` | :jack_o_lantern: `:jack_o_lantern:` | :christmas_tree: `:christmas_tree:` |
-| :santa: `:santa:` | :fireworks: `:fireworks:` | :sparkler: `:sparkler:` |
-| :balloon: `:balloon:` | :tada: `:tada:` | :confetti_ball: `:confetti_ball:` |
-| :tanabata_tree: `:tanabata_tree:` | :bamboo: `:bamboo:` | :dolls: `:dolls:` |
-| :flags: `:flags:` | :wind_chime: `:wind_chime:` | :rice_scene: `:rice_scene:` |
-| :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` | :control_knobs: `:control_knobs:` |
-| :fishing_pole_and_fish: `:fishing_pole_and_fish:` | :microphone: `:microphone:` | :movie_camera: `:movie_camera:` |
-| :headphones: `:headphones:` | :art: `:art:` | :tophat: `:tophat:` |
-| :clapper: `:clapper:` | :video_game: `:video_game:` | :dart: `:dart:` |
-| :8ball: `:8ball:` | :game_die: `:game_die:` | :bowling: `:bowling:` |
-| :flower_playing_cards: `:flower_playing_cards:` | :saxophone: `:saxophone:` | :guitar: `:guitar:` |
-| :musical_keyboard: `:musical_keyboard:` | :trumpet: `:trumpet:` | :violin: `:violin:` |
-| :musical_score: `:musical_score:` | :running_shirt_with_sash: `:running_shirt_with_sash:` | :tennis: `:tennis:` |
-| :ski: `:ski:` | :basketball: `:basketball:` | :snowboarder: `:snowboarder:` |
-| :surfer: `:surfer:` | :surfing_man: `:surfing_man:` | :trophy: `:trophy:` |
-| :horse_racing: `:horse_racing:` | :football: `:football:` | :rugby_football: `:rugby_football:` |
+| :pick: `:pick:` | :golf: `:golf:` | :scissors: `:scissors:` |
+| :email: `:email:` | :envelope: `:envelope:` | :pencil2: `:pencil2:` |
+| :black_nib: `:black_nib:` | :loop: `:loop:` | :mahjong: `:mahjong:` |
+| :black_joker: `:black_joker:` | :closed_umbrella: `:closed_umbrella:` | :thermometer: `:thermometer:` |
+| :baby_bottle: `:baby_bottle:` | :ribbon: `:ribbon:` | :gift: `:gift:` |
+| :jack_o_lantern: `:jack_o_lantern:` | :christmas_tree: `:christmas_tree:` | :santa: `:santa:` |
+| :fireworks: `:fireworks:` | :sparkler: `:sparkler:` | :balloon: `:balloon:` |
+| :tada: `:tada:` | :confetti_ball: `:confetti_ball:` | :tanabata_tree: `:tanabata_tree:` |
+| :bamboo: `:bamboo:` | :dolls: `:dolls:` | :flags: `:flags:` |
+| :wind_chime: `:wind_chime:` | :rice_scene: `:rice_scene:` | :school_satchel: `:school_satchel:` |
+| :mortar_board: `:mortar_board:` | :control_knobs: `:control_knobs:` | :fishing_pole_and_fish: `:fishing_pole_and_fish:` |
+| :microphone: `:microphone:` | :movie_camera: `:movie_camera:` | :headphones: `:headphones:` |
+| :art: `:art:` | :tophat: `:tophat:` | :clapper: `:clapper:` |
+| :video_game: `:video_game:` | :dart: `:dart:` | :game_die: `:game_die:` |
+| :bowling: `:bowling:` | :flower_playing_cards: `:flower_playing_cards:` | :saxophone: `:saxophone:` |
+| :guitar: `:guitar:` | :musical_keyboard: `:musical_keyboard:` | :trumpet: `:trumpet:` |
+| :violin: `:violin:` | :musical_score: `:musical_score:` | :running_shirt_with_sash: `:running_shirt_with_sash:` |
+| :ski: `:ski:` | :snowboarder: `:snowboarder:` | :surfer: `:surfer:` |
+| :surfing_man: `:surfing_man:` | :trophy: `:trophy:` | :horse_racing: `:horse_racing:` |
 | :swimmer: `:swimmer:` | :swimming_man: `:swimming_man:` | :label: `:label:` |
 | :crown: `:crown:` | :womans_hat: `:womans_hat:` | :eyeglasses: `:eyeglasses:` |
 | :necktie: `:necktie:` | :shirt: `:shirt:` | :tshirt: `:tshirt:` |
