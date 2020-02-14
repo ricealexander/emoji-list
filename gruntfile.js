@@ -10,9 +10,11 @@ const emojisJSON = require('./emojis.json')
 module.exports = grunt => {
   function writeFile (file, content) {
     const success = grunt.file.write(file, content)
-    console.log(success
+    console.info(success
       ? `successfully wrote ${file}`
       : `could not write ${file}`)
+
+    return success
   }
 
   // Remove the dist directory
@@ -43,10 +45,17 @@ module.exports = grunt => {
 
     const missingEmojis = difference(apiEmojis, emojis)
 
-    writeFile(
+    const success = writeFile(
       'dist/missing-emojis.json',
       JSON.stringify(missingEmojis, null, 2),
     )
+
+    if (success) console.info(
+      (missingEmojis.length === 0)
+        ? 'Up to date with the GitHub Emojis API'
+        : `Missing ${missingEmojis.length} emoji from the GitHub Emojis API`,
+    )
+
     done()
   })
 
