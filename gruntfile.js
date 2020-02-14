@@ -6,6 +6,8 @@ const listEmojiAliases = require('./src/listEmojiAliases')
 const sortEmojisByAlias = require('./src/sortEmojisByAlias')
 
 const emojisJSON = require('./emojis.json')
+const compareEmojis = require('./compare-emojis.json')
+
 
 module.exports = grunt => {
   function writeFile (file, content) {
@@ -57,6 +59,22 @@ module.exports = grunt => {
     )
 
     done()
+  })
+
+  grunt.registerTask('compare', 'Compare emojis against a list of potentially-missed emoji', function () {
+    const emojis = listEmojiAliases(emojisJSON)
+    const missingEmojis = difference(compareEmojis, emojis)
+
+    const success = writeFile(
+      'dist/missing-emojis.json',
+      JSON.stringify(missingEmojis, null, 2),
+    )
+
+    if (success) console.info(
+      (missingEmojis.length === 0)
+        ? 'No missing emoji'
+        : `Missing ${missingEmojis.length} emoji`,
+    )
   })
 
   grunt.registerTask('default', ['clean', 'write', 'check-api'])

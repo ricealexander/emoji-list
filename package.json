@@ -9,7 +9,8 @@
   "main": "main.js",
   "scripts": {
     "alphabetize": "npx grunt alphabetize",
-    "build": "npx grunt"
+    "build": "npx grunt",
+    "compare": "npx grunt compare"
   },
   "repository": {
     "type": "git",
