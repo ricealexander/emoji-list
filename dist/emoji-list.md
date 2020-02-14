@@ -109,11 +109,11 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :drooling_face: `:drooling_face:` | :lying_face: `:lying_face:` | :woman_facepalming: `:woman_facepalming:` |
 | :man_facepalming: `:man_facepalming:` | :sneezing_face: `:sneezing_face:` | :pregnant_woman: `:pregnant_woman:` |
 | :prince: `:prince:` | :mrs_claus: `:mrs_claus:` | :woman_shrugging: `:woman_shrugging:` |
-| :man_shrugging: `:man_shrugging:` | :rage3: `:rage3:` | :suspect: `:suspect:` |
-| :neckbeard: `:neckbeard:` | :hurtrealbad: `:hurtrealbad:` | :rage4: `:rage4:` |
-| :godmode: `:godmode:` | :goberserk: `:goberserk:` | :finnadie: `:finnadie:` |
-| :feelsgood: `:feelsgood:` | :bowtie: `:bowtie:` | :rage2: `:rage2:` |
-| :rage1: `:rage1:` | :trollface: `:trollface:` |  |
+| :man_shrugging: `:man_shrugging:` | :trollface: `:trollface:` | :godmode: `:godmode:` |
+| :rage1: `:rage1:` | :goberserk: `:goberserk:` | :rage2: `:rage2:` |
+| :suspect: `:suspect:` | :finnadie: `:finnadie:` | :hurtrealbad: `:hurtrealbad:` |
+| :feelsgood: `:feelsgood:` | :neckbeard: `:neckbeard:` | :rage4: `:rage4:` |
+| :rage3: `:rage3:` | :bowtie: `:bowtie:` |  |
 
 ### Animals and Nature
 
@@ -169,7 +169,7 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :shark: `:shark:` | :owl: `:owl:` | :fox_face: `:fox_face:` |
 | :butterfly: `:butterfly:` | :deer: `:deer:` | :gorilla: `:gorilla:` |
 | :lizard: `:lizard:` | :shrimp: `:shrimp:` | :squid: `:squid:` |
-| :squirrel: `:squirrel:` | :shipit: `:shipit:` | :octocat: `:octocat:` |
+| :octocat: `:octocat:` | :squirrel: `:squirrel:` | :shipit: `:shipit:` |
 
 ### Food and Drink
 
@@ -290,7 +290,7 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :railway_track: `:railway_track:` | :motor_boat: `:motor_boat:` | :small_airplane: `:small_airplane:` |
 | :flight_departure: `:flight_departure:` | :flight_arrival: `:flight_arrival:` | :passenger_ship: `:passenger_ship:` |
 | :kick_scooter: `:kick_scooter:` | :motor_scooter: `:motor_scooter:` | :canoe: `:canoe:` |
-| :basecampy: `:basecampy:` | :basecamp: `:basecamp:` |  |
+| :basecamp: `:basecamp:` | :basecampy: `:basecampy:` |  |
 
 ### Objects
 
@@ -467,7 +467,7 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :womens: `:womens:` | :restroom: `:restroom:` | :baby_symbol: `:baby_symbol:` |
 | :wc: `:wc:` | :passport_control: `:passport_control:` | :customs: `:customs:` |
 | :baggage_claim: `:baggage_claim:` | :left_luggage: `:left_luggage:` | :place_of_worship: `:place_of_worship:` |
-| :stop_sign: `:stop_sign:` | :electron: `:electron:` | :atom: `:atom:` |
+| :stop_sign: `:stop_sign:` | :atom: `:atom:` | :electron: `:electron:` |
 
 ### Flags and Countries
 
