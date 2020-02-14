@@ -34,7 +34,7 @@ module.exports = grunt => {
   grunt.registerTask('alphabetize', 'Re-alphabetize emojis.json', () => {
     const sortedList = emojisJSON.sort(sortEmojisByAlias)
     const JSONContent = JSON.stringify(sortedList, null, 2)
-    writeFile('emojis.json', JSONContent)
+    writeFile('emojis.json', `${JSONContent}\n`)
   })
 
   // Check GitHub Emojis API
@@ -47,10 +47,8 @@ module.exports = grunt => {
 
     const missingEmojis = difference(apiEmojis, emojis)
 
-    const success = writeFile(
-      'dist/missing-emojis.json',
-      JSON.stringify(missingEmojis, null, 2),
-    )
+    const JSONContent = JSON.stringify(missingEmojis, null, 2)
+    const success = writeFile('dist/missing-emojis.json', `${JSONContent}\n`)
 
     if (success) console.info(
       (missingEmojis.length === 0)
@@ -65,10 +63,8 @@ module.exports = grunt => {
     const emojis = listEmojiAliases(emojisJSON)
     const missingEmojis = difference(compareEmojis, emojis)
 
-    const success = writeFile(
-      'dist/missing-emojis.json',
-      JSON.stringify(missingEmojis, null, 2),
-    )
+    const JSONContent = JSON.stringify(missingEmojis, null, 2)
+    const success = writeFile('dist/missing-emojis.json', `${JSONContent}\n`)
 
     if (success) console.info(
       (missingEmojis.length === 0)
