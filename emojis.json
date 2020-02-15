@@ -143,12 +143,12 @@
   {
     "alias": "angel",
     "unicode": "👼",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "anger",
     "unicode": "💢",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "angola",
@@ -158,7 +158,7 @@
   {
     "alias": "angry",
     "unicode": "😠",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "anguilla",
@@ -168,7 +168,7 @@
   {
     "alias": "anguished",
     "unicode": "😧",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "ant",
@@ -313,7 +313,7 @@
   {
     "alias": "art",
     "unicode": "🎨",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "articulated_lorry",
@@ -338,12 +338,12 @@
   {
     "alias": "astonished",
     "unicode": "😲",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "athletic_shoe",
     "unicode": "👟",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "atm",
@@ -353,7 +353,7 @@
   {
     "alias": "atom",
     "unicode": false,
-    "category": "Symbols"
+    "category": "Custom"
   },
   {
     "alias": "atom_symbol",
@@ -511,7 +511,7 @@
       "basecampy"
     ],
     "unicode": false,
-    "category": "Travel"
+    "category": "Custom"
   },
   {
     "alias": "basketball",
@@ -647,7 +647,7 @@
       "bicyclist"
     ],
     "unicode": "🚴",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "biking_woman",
@@ -657,7 +657,7 @@
   {
     "alias": "bikini",
     "unicode": "👙",
-    "category": "Objects"
+    "category": "People"
   },
   {
     "alias": "biohazard",
@@ -760,12 +760,12 @@
   {
     "alias": "blue_heart",
     "unicode": "💙",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "blush",
     "unicode": "😊",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "boar",
@@ -819,7 +819,7 @@
       "collision"
     ],
     "unicode": "💥",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "boot",
@@ -862,12 +862,12 @@
   {
     "alias": "bowling",
     "unicode": "🎳",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "bowtie",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "boxing_glove",
@@ -917,7 +917,7 @@
   {
     "alias": "broken_heart",
     "unicode": "💔",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "brunei",
@@ -1265,7 +1265,7 @@
   {
     "alias": "circus_tent",
     "unicode": "🎪",
-    "category": "Travel"
+    "category": "Activity"
   },
   {
     "alias": "city_sunrise",
@@ -1300,7 +1300,7 @@
   {
     "alias": "clapper",
     "unicode": "🎬",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "classical_building",
@@ -1480,7 +1480,7 @@
   {
     "alias": "clown_face",
     "unicode": "🤡",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "clubs",
@@ -1515,7 +1515,7 @@
   {
     "alias": "cold_sweat",
     "unicode": "😰",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "colombia",
@@ -1550,12 +1550,12 @@
   {
     "alias": "confounded",
     "unicode": "😖",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "confused",
     "unicode": "😕",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "congo_brazzaville",
@@ -1588,7 +1588,7 @@
   {
     "alias": "construction_worker_woman",
     "unicode": "👷‍♀",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "control_knobs",
@@ -1691,7 +1691,7 @@
   {
     "alias": "cowboy_hat_face",
     "unicode": "🤠",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "crab",
@@ -1756,12 +1756,12 @@
   {
     "alias": "cry",
     "unicode": "😢",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "crying_cat_face",
     "unicode": "😿",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "crystal_ball",
@@ -1781,7 +1781,7 @@
   {
     "alias": "cupid",
     "unicode": "💘",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "curacao",
@@ -1869,7 +1869,7 @@
   {
     "alias": "dash",
     "unicode": "💨",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "date",
@@ -1934,22 +1934,22 @@
   {
     "alias": "disappointed",
     "unicode": "😞",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "disappointed_relieved",
     "unicode": "😥",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "dizzy",
     "unicode": "💫",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "dizzy_face",
     "unicode": "😵",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "djibouti",
@@ -2037,12 +2037,12 @@
   {
     "alias": "drooling_face",
     "unicode": "🤤",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "droplet",
     "unicode": "💧",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "drum",
@@ -2142,7 +2142,7 @@
   {
     "alias": "electron",
     "unicode": false,
-    "category": "Symbols"
+    "category": "Custom"
   },
   {
     "alias": "elephant",
@@ -2231,7 +2231,7 @@
   {
     "alias": "expressionless",
     "unicode": "😑",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "eye",
@@ -2241,7 +2241,7 @@
   {
     "alias": "eye_speech_bubble",
     "unicode": "👁‍🗨",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "eyeglasses",
@@ -2256,12 +2256,12 @@
   {
     "alias": "face_with_head_bandage",
     "unicode": "🤕",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "face_with_thermometer",
     "unicode": "🤒",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "factory",
@@ -2424,12 +2424,12 @@
   {
     "alias": "fearful",
     "unicode": "😨",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "feelsgood",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": [
@@ -2442,7 +2442,7 @@
   {
     "alias": "female_detective",
     "unicode": "🕵️‍♀️",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "ferris_wheel",
@@ -2492,12 +2492,12 @@
   {
     "alias": "finnadie",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "fire",
     "unicode": "🔥",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "fire_engine",
@@ -2532,7 +2532,7 @@
   {
     "alias": "fishing_pole_and_fish",
     "unicode": "🎣",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "fist_left",
@@ -2604,7 +2604,7 @@
   {
     "alias": "flushed",
     "unicode": "😳",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "fog",
@@ -2709,12 +2709,12 @@
   {
     "alias": "frowning",
     "unicode": "😦",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "frowning_face",
     "unicode": "☹️",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "frowning_man",
@@ -2762,7 +2762,7 @@
   {
     "alias": "game_die",
     "unicode": "🎲",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": [
@@ -2840,17 +2840,17 @@
   {
     "alias": "goberserk",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "godmode",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "golf",
     "unicode": "⛳️",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "golfing_man",
@@ -2890,7 +2890,7 @@
   {
     "alias": "green_heart",
     "unicode": "💚",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "green_salad",
@@ -2920,17 +2920,17 @@
   {
     "alias": "grimacing",
     "unicode": "😬",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "grin",
     "unicode": "😁",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "grinning",
     "unicode": "😀",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "guadeloupe",
@@ -2950,7 +2950,7 @@
   {
     "alias": "guardswoman",
     "unicode": "💂‍♀",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "guatemala",
@@ -2975,7 +2975,7 @@
   {
     "alias": "guitar",
     "unicode": "🎸",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "gun",
@@ -2990,7 +2990,7 @@
   {
     "alias": "haircut_man",
     "unicode": "💇‍♂",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": [
@@ -3055,7 +3055,7 @@
       "shit"
     ],
     "unicode": "💩",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "hash",
@@ -3075,17 +3075,17 @@
   {
     "alias": "headphones",
     "unicode": "🎧",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "hear_no_evil",
     "unicode": "🙉",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "heart",
     "unicode": "❤️",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "heart_decoration",
@@ -3095,22 +3095,22 @@
   {
     "alias": "heart_eyes",
     "unicode": "😍",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "heart_eyes_cat",
     "unicode": "😻",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "heartbeat",
     "unicode": "💓",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "heartpulse",
     "unicode": "💗",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "hearts",
@@ -3213,7 +3213,7 @@
   {
     "alias": "horse_racing",
     "unicode": "🏇",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "hospital",
@@ -3268,7 +3268,7 @@
   {
     "alias": "hugs",
     "unicode": "🤗",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "hungary",
@@ -3278,12 +3278,12 @@
   {
     "alias": "hurtrealbad",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "hushed",
     "unicode": "😯",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "ice_cream",
@@ -3323,7 +3323,7 @@
   {
     "alias": "imp",
     "unicode": "👿",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "inbox_tray",
@@ -3353,7 +3353,7 @@
   {
     "alias": "innocent",
     "unicode": "😇",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "interrobang",
@@ -3398,7 +3398,7 @@
   {
     "alias": "jack_o_lantern",
     "unicode": "🎃",
-    "category": "Objects"
+    "category": "Smiley"
   },
   {
     "alias": "jamaica",
@@ -3418,12 +3418,12 @@
   {
     "alias": "japanese_goblin",
     "unicode": "👺",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "japanese_ogre",
     "unicode": "👹",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "jeans",
@@ -3443,17 +3443,17 @@
   {
     "alias": "joy",
     "unicode": "😂",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "joy_cat",
     "unicode": "😹",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "joystick",
     "unicode": "🕹",
-    "category": "Activity"
+    "category": "Objects"
   },
   {
     "alias": "jp",
@@ -3513,27 +3513,27 @@
   {
     "alias": "kissing",
     "unicode": "😗",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "kissing_cat",
     "unicode": "😽",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "kissing_closed_eyes",
     "unicode": "😚",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "kissing_heart",
     "unicode": "😘",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "kissing_smiling_eyes",
     "unicode": "😙",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "kiwi_fruit",
@@ -3629,7 +3629,7 @@
       "satisfied"
     ],
     "unicode": "😆",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "leaves",
@@ -3779,7 +3779,7 @@
   {
     "alias": "love_letter",
     "unicode": "💌",
-    "category": "People"
+    "category": "Objects"
   },
   {
     "alias": "low_brightness",
@@ -3794,7 +3794,7 @@
   {
     "alias": "lying_face",
     "unicode": "🤥",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "m",
@@ -3872,7 +3872,7 @@
       "detective"
     ],
     "unicode": "🕵",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "mali",
@@ -3892,12 +3892,12 @@
   {
     "alias": "man_artist",
     "unicode": "👨‍🎨",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_astronaut",
     "unicode": "👨‍🚀",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_cartwheeling",
@@ -3907,12 +3907,12 @@
   {
     "alias": "man_cook",
     "unicode": "👨‍🍳",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_dancing",
     "unicode": "🕺",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_facepalming",
@@ -3922,32 +3922,32 @@
   {
     "alias": "man_factory_worker",
     "unicode": "👨‍🏭",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_farmer",
     "unicode": "👨‍🌾",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_firefighter",
     "unicode": "👨‍🚒",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_health_worker",
     "unicode": "👨‍⚕",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_in_tuxedo",
     "unicode": "🤵",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_judge",
     "unicode": "👨‍⚖",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_juggling",
@@ -3957,17 +3957,17 @@
   {
     "alias": "man_mechanic",
     "unicode": "👨‍🔧",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_office_worker",
     "unicode": "👨‍💼",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_pilot",
     "unicode": "👨‍✈",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_playing_handball",
@@ -3982,7 +3982,7 @@
   {
     "alias": "man_scientist",
     "unicode": "👨‍🔬",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_shrugging",
@@ -3992,22 +3992,22 @@
   {
     "alias": "man_singer",
     "unicode": "👨‍🎤",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_student",
     "unicode": "👨‍🎓",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_teacher",
     "unicode": "👨‍🏫",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_technologist",
     "unicode": "👨‍💻",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "man_with_gua_pi_mao",
@@ -4052,7 +4052,7 @@
   {
     "alias": "massage_man",
     "unicode": "💆‍♂",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": [
@@ -4148,7 +4148,7 @@
   {
     "alias": "microphone",
     "unicode": "🎤",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "microscope",
@@ -4201,7 +4201,7 @@
   {
     "alias": "money_mouth_face",
     "unicode": "🤑",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "money_with_wings",
@@ -4302,12 +4302,12 @@
       "mountain_bicyclist"
     ],
     "unicode": "🚵",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "mountain_biking_woman",
     "unicode": "🚵‍♀",
-    "category": "Travel"
+    "category": "Activity"
   },
   {
     "alias": "mountain_cableway",
@@ -4367,17 +4367,17 @@
   {
     "alias": "musical_keyboard",
     "unicode": "🎹",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "musical_note",
     "unicode": "🎵",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "musical_score",
     "unicode": "🎼",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "mute",
@@ -4417,12 +4417,12 @@
   {
     "alias": "nauseated_face",
     "unicode": "🤢",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "neckbeard",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "necktie",
@@ -4442,7 +4442,7 @@
   {
     "alias": "nerd_face",
     "unicode": "🤓",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "netherlands",
@@ -4452,7 +4452,7 @@
   {
     "alias": "neutral_face",
     "unicode": "😐",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "new",
@@ -4574,7 +4574,7 @@
   {
     "alias": "no_mouth",
     "unicode": "😶",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "no_pedestrians",
@@ -4629,7 +4629,7 @@
   {
     "alias": "notes",
     "unicode": "🎶",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "nut_and_bolt",
@@ -4654,7 +4654,7 @@
   {
     "alias": "octocat",
     "unicode": false,
-    "category": "Nature"
+    "category": "Custom"
   },
   {
     "alias": "octopus",
@@ -4764,7 +4764,7 @@
   {
     "alias": "open_mouth",
     "unicode": "😮",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "open_umbrella",
@@ -4824,7 +4824,7 @@
   {
     "alias": "paintbrush",
     "unicode": "🖌",
-    "category": "Activity"
+    "category": "Objects"
   },
   {
     "alias": "pakistan",
@@ -4954,17 +4954,17 @@
   {
     "alias": "pensive",
     "unicode": "😔",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "performing_arts",
     "unicode": "🎭",
-    "category": "Travel"
+    "category": "Activity"
   },
   {
     "alias": "persevere",
     "unicode": "😣",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "person_fencing",
@@ -5100,7 +5100,7 @@
   {
     "alias": "policewoman",
     "unicode": "👮‍♀",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "poodle",
@@ -5160,7 +5160,7 @@
   {
     "alias": "pouting_cat",
     "unicode": "😾",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "pouting_man",
@@ -5218,7 +5218,7 @@
   {
     "alias": "purple_heart",
     "unicode": "💜",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "purse",
@@ -5286,27 +5286,27 @@
       "pout"
     ],
     "unicode": "😡",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "rage1",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "rage2",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "rage3",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "rage4",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "railway_car",
@@ -5394,17 +5394,17 @@
   {
     "alias": "relaxed",
     "unicode": "☺️",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "relieved",
     "unicode": "😌",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "reminder_ribbon",
     "unicode": "🎗",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "repeat",
@@ -5419,7 +5419,7 @@
   {
     "alias": "rescue_worker_helmet",
     "unicode": "⛑",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "restroom",
@@ -5434,7 +5434,7 @@
   {
     "alias": "revolving_hearts",
     "unicode": "💞",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "rewind",
@@ -5484,7 +5484,7 @@
   {
     "alias": "robot",
     "unicode": "🤖",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "rocket",
@@ -5494,12 +5494,12 @@
   {
     "alias": "rofl",
     "unicode": "🤣",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "roll_eyes",
     "unicode": "🙄",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "roller_coaster",
@@ -5524,7 +5524,7 @@
   {
     "alias": "rosette",
     "unicode": "🏵",
-    "category": "Nature"
+    "category": "Activity"
   },
   {
     "alias": "rotating_light",
@@ -5542,7 +5542,7 @@
       "rowboat"
     ],
     "unicode": "🚣",
-    "category": "Travel"
+    "category": "Activity"
   },
   {
     "alias": "rowing_woman",
@@ -5571,12 +5571,12 @@
   {
     "alias": "running_shirt_with_sash",
     "unicode": "🎽",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "running_woman",
     "unicode": "🏃‍♀",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "rwanda",
@@ -5636,7 +5636,7 @@
   {
     "alias": "saxophone",
     "unicode": "🎷",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "school",
@@ -5666,12 +5666,12 @@
   {
     "alias": "scream",
     "unicode": "😱",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "scream_cat",
     "unicode": "🙀",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "scroll",
@@ -5691,7 +5691,7 @@
   {
     "alias": "see_no_evil",
     "unicode": "🙈",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "seedling",
@@ -5701,7 +5701,7 @@
   {
     "alias": "selfie",
     "unicode": "🤳",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "senegal",
@@ -5774,7 +5774,7 @@
       "squirrel"
     ],
     "unicode": false,
-    "category": "Nature"
+    "category": "Custom"
   },
   {
     "alias": [
@@ -5795,7 +5795,7 @@
   {
     "alias": "shopping",
     "unicode": "🛍",
-    "category": "Activity"
+    "category": "Objects"
   },
   {
     "alias": "shopping_cart",
@@ -5845,7 +5845,7 @@
   {
     "alias": "ski",
     "unicode": "🎿",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "skier",
@@ -5855,17 +5855,17 @@
   {
     "alias": "skull",
     "unicode": "💀",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "skull_and_crossbones",
     "unicode": "☠️",
-    "category": "Symbols"
+    "category": "Smiley"
   },
   {
     "alias": "sleeping",
     "unicode": "😴",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "sleeping_bed",
@@ -5875,22 +5875,22 @@
   {
     "alias": "sleepy",
     "unicode": "😪",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "slightly_frowning_face",
     "unicode": "🙁",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "slightly_smiling_face",
     "unicode": "🙂",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "slot_machine",
     "unicode": "🎰",
-    "category": "Travel"
+    "category": "Activity"
   },
   {
     "alias": "slovakia",
@@ -5930,37 +5930,37 @@
   {
     "alias": "smile",
     "unicode": "😄",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "smile_cat",
     "unicode": "😸",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "smiley",
     "unicode": "😃",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "smiley_cat",
     "unicode": "😺",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "smiling_imp",
     "unicode": "😈",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "smirk",
     "unicode": "😏",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "smirk_cat",
     "unicode": "😼",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "smoking",
@@ -5980,12 +5980,12 @@
   {
     "alias": "sneezing_face",
     "unicode": "🤧",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "snowboarder",
     "unicode": "🏂",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "snowflake",
@@ -6000,17 +6000,17 @@
   {
     "alias": "snowman_with_snow",
     "unicode": "☃️",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "sob",
     "unicode": "😭",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "soccer",
     "unicode": "⚽️",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "solomon_islands",
@@ -6080,17 +6080,17 @@
   {
     "alias": "sparkles",
     "unicode": "✨",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "sparkling_heart",
     "unicode": "💖",
-    "category": "People"
+    "category": "Objects"
   },
   {
     "alias": "speak_no_evil",
     "unicode": "🙊",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "speaker",
@@ -6105,7 +6105,7 @@
   {
     "alias": "speech_balloon",
     "unicode": "💬",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "speedboat",
@@ -6185,12 +6185,12 @@
   {
     "alias": "star",
     "unicode": "⭐️",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "star2",
     "unicode": "🌟",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "star_and_crescent",
@@ -6255,17 +6255,17 @@
   {
     "alias": "stuck_out_tongue",
     "unicode": "😛",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "stuck_out_tongue_closed_eyes",
     "unicode": "😝",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "stuck_out_tongue_winking_eye",
     "unicode": "😜",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "studio_microphone",
@@ -6310,7 +6310,7 @@
   {
     "alias": "sunglasses",
     "unicode": "😎",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "sunny",
@@ -6333,7 +6333,7 @@
       "surfer"
     ],
     "unicode": "🏄",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "surfing_woman",
@@ -6353,7 +6353,7 @@
   {
     "alias": "suspect",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "suspension_railway",
@@ -6368,17 +6368,17 @@
   {
     "alias": "sweat",
     "unicode": "😓",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "sweat_drops",
     "unicode": "💦",
-    "category": "People"
+    "category": "Nature"
   },
   {
     "alias": "sweat_smile",
     "unicode": "😅",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "sweden",
@@ -6396,7 +6396,7 @@
       "swimmer"
     ],
     "unicode": "🏊",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "swimming_woman",
@@ -6515,12 +6515,12 @@
   {
     "alias": "thinking",
     "unicode": "🤔",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "thought_balloon",
     "unicode": "💭",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "three",
@@ -6530,12 +6530,12 @@
   {
     "alias": "ticket",
     "unicode": "🎫",
-    "category": "Travel"
+    "category": "Activity"
   },
   {
     "alias": "tickets",
     "unicode": "🎟",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "tiger",
@@ -6577,7 +6577,7 @@
   {
     "alias": "tired_face",
     "unicode": "😫",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "tm",
@@ -6692,7 +6692,7 @@
   {
     "alias": "triumph",
     "unicode": "😤",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "trolleybus",
@@ -6702,12 +6702,12 @@
   {
     "alias": "trollface",
     "unicode": false,
-    "category": "People"
+    "category": "Custom"
   },
   {
     "alias": "trophy",
     "unicode": "🏆",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "tropical_drink",
@@ -6727,7 +6727,7 @@
   {
     "alias": "trumpet",
     "unicode": "🎺",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "tulip",
@@ -6787,7 +6787,7 @@
   {
     "alias": "two_hearts",
     "unicode": "💕",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "two_men_holding_hands",
@@ -6872,7 +6872,7 @@
   {
     "alias": "unamused",
     "unicode": "😒",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "underage",
@@ -6902,7 +6902,7 @@
   {
     "alias": "upside_down_face",
     "unicode": "🙃",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "uruguay",
@@ -6967,7 +6967,7 @@
   {
     "alias": "video_game",
     "unicode": "🎮",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "vietnam",
@@ -6977,7 +6977,7 @@
   {
     "alias": "violin",
     "unicode": "🎻",
-    "category": "Objects"
+    "category": "Activity"
   },
   {
     "alias": "virgo",
@@ -7015,7 +7015,7 @@
   {
     "alias": "walking_woman",
     "unicode": "🚶‍♀",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "wallis_futuna",
@@ -7080,7 +7080,7 @@
   {
     "alias": "weary",
     "unicode": "😩",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "wedding",
@@ -7190,7 +7190,7 @@
   {
     "alias": "wink",
     "unicode": "😉",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "wolf",
@@ -7205,12 +7205,12 @@
   {
     "alias": "woman_artist",
     "unicode": "👩‍🎨",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_astronaut",
     "unicode": "👩‍🚀",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_cartwheeling",
@@ -7220,7 +7220,7 @@
   {
     "alias": "woman_cook",
     "unicode": "👩‍🍳",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_facepalming",
@@ -7230,27 +7230,27 @@
   {
     "alias": "woman_factory_worker",
     "unicode": "👩‍🏭",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_farmer",
     "unicode": "👩‍🌾",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_firefighter",
     "unicode": "👩‍🚒",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_health_worker",
     "unicode": "👩‍⚕",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_judge",
     "unicode": "👩‍⚖",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_juggling",
@@ -7260,17 +7260,17 @@
   {
     "alias": "woman_mechanic",
     "unicode": "👩‍🔧",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_office_worker",
     "unicode": "👩‍💼",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_pilot",
     "unicode": "👩‍✈",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_playing_handball",
@@ -7285,7 +7285,7 @@
   {
     "alias": "woman_scientist",
     "unicode": "👩‍🔬",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_shrugging",
@@ -7295,22 +7295,22 @@
   {
     "alias": "woman_singer",
     "unicode": "👩‍🎤",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_student",
     "unicode": "👩‍🎓",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_teacher",
     "unicode": "👩‍🏫",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_technologist",
     "unicode": "👩‍💻",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "woman_with_turban",
@@ -7320,12 +7320,12 @@
   {
     "alias": "womans_clothes",
     "unicode": "👚",
-    "category": "Objects"
+    "category": "People"
   },
   {
     "alias": "womans_hat",
     "unicode": "👒",
-    "category": "Objects"
+    "category": "People"
   },
   {
     "alias": "women_wrestling",
@@ -7345,7 +7345,7 @@
   {
     "alias": "worried",
     "unicode": "😟",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "wrench",
@@ -7355,7 +7355,7 @@
   {
     "alias": "writing_hand",
     "unicode": "✍️",
-    "category": "Activity"
+    "category": "People"
   },
   {
     "alias": "x",
@@ -7365,7 +7365,7 @@
   {
     "alias": "yellow_heart",
     "unicode": "💛",
-    "category": "People"
+    "category": "Symbols"
   },
   {
     "alias": "yemen",
@@ -7385,7 +7385,7 @@
   {
     "alias": "yum",
     "unicode": "😋",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "zambia",
@@ -7410,11 +7410,11 @@
   {
     "alias": "zipper_mouth_face",
     "unicode": "🤐",
-    "category": "People"
+    "category": "Smiley"
   },
   {
     "alias": "zzz",
     "unicode": "💤",
-    "category": "People"
+    "category": "Symbols"
   }
 ]
