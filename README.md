@@ -27,7 +27,7 @@ EMOJI-LIST
 
 ### Thank You!
 
-This project was adapted from rxavier’s _[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)_.
+This project was adapted from rxavier’s _[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)_, and categorization was partly inspired from [JoyPixels 5](https://www.joypixels.com/emoji)
 
 Contributions breakdown:
 
