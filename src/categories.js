@@ -1,25 +1,40 @@
-/* eslint-disable no-multi-spaces */
-
 const categories = [
-  { name: 'People',    displayName: 'Smileys and People'  },
-  { name: 'Nature',    displayName: 'Animals and Nature'  },
-  { name: 'Food',      displayName: 'Food and Drink'      },
-  { name: 'Activity',  displayName: 'Activity'            },
-  { name: 'Travel',    displayName: 'Travel and Places'   },
-  { name: 'Objects',   displayName: 'Objects'             },
-  { name: 'Symbols',   displayName: 'Symbols'             },
-  { name: 'Countries', displayName: 'Flags and Countries' },
+  {
+    header: 'Smileys and People',
+    groups: ['Smiley', 'People'],
+  },
+  {
+    header: 'Animals and Nature',
+    groups: ['Nature'],
+  },
+  {
+    header: 'Food and Drink',
+    groups: ['Food'],
+  },
+  {
+    header: 'Activity',
+    groups: ['Activity'],
+  },
+  {
+    header: 'Travel and Places',
+    groups: ['Travel'],
+  },
+  {
+    header: 'Objects',
+    groups: ['Objects'],
+  },
+  {
+    header: 'Symbols',
+    groups: ['Symbols'],
+  },
+  {
+    header: 'Flags and Countries',
+    groups: ['Countries'],
+  },
+  {
+    header: 'Custom',
+    groups: ['Custom'],
+  },
 ]
 
-const categoryNames = categories.map(({name}) => name)
-const categoryDisplayNames = categories.map(({displayName}) => displayName)
-
-// { People: 'Smileys and People', Nature: 'Animals and Nature', ... }
-const categoriesObject = Object.fromEntries(categories.map(Object.values))
-
-module.exports = {
-  categories,
-  categoriesObject,
-  categoryDisplayNames,
-  categoryNames,
-}
+module.exports = categories

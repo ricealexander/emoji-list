@@ -2,8 +2,16 @@ const _objectFromEntries = require('polyfill-object.fromentries')
 const chunk              = require('lodash/chunk')
 
 const by          = require('./helpers/sortBy')
-const unicodeSort = require('./sortEmojisByUnicode')
-const categories  = require('./categories').categoriesObject
+const categories  = require('./categories')
+
+const unicodeSort = ({ alias: aliasesA }, { alias: aliasesB }) => {
+  const [ aliasA ] = [aliasesA].flat()
+  const [ aliasB ] = [aliasesB].flat()
+
+  if (aliasA > aliasB) return 1
+  if (aliasA < aliasB) return -1
+  return 0
+}
 
 
 const formatAsMarkdownTable = ([category, emojis]) => {
