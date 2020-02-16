@@ -43,13 +43,15 @@ function buildMarkdown (_emojis) {
   validateEmojis(emojis)
 
   // build out each section
-  const markdownTables = categories.map(({header, groups}) => {
-    const emojisInSection = emojis.filter(({category}) => groups.includes(category))
-    if (!emojisInSection) {
-      throw new ReferenceError(`No emojis could be found for the section ${header}`)
-    }
-    return formatMarkdownTable(header, emojisInSection)
-  })
+  const markdownTables = categories
+    .map(({header, groups}) => {
+      const emojisInSection = emojis.filter(({category}) => groups.includes(category))
+      if (!emojisInSection) {
+        throw new ReferenceError(`No emojis could be found for the section ${header}`)
+      }
+      return formatMarkdownTable(header, emojisInSection)
+    })
+    .join('\n')
 
   return `A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)_, generated with a Grunt script for maintainability ([see repository](https://github.com/ricealexander/emoji-list)).
 
