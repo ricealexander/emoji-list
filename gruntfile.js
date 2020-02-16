@@ -2,10 +2,10 @@ const axios = require('axios')
 const difference = require('lodash/difference')
 
 const formatEmojisAsMarkdown = require('./main')
-const listEmojiAliases = require('./src/listEmojiAliases')
+const listEmojiAliases  = require('./src/listEmojiAliases')
 const sortEmojisByAlias = require('./src/sortEmojisByAlias')
 
-const emojisJSON = require('./emojis.json')
+const emojisJSON    = require('./emojis.json')
 const compareEmojis = require('./compare-emojis.json')
 
 
