@@ -1,13 +1,14 @@
+const _arrayFlatPolyfill = require('array-flat-polyfill')
 const chunk       = require('lodash/chunk')
 
 const by          = require('./helpers/sortBy')
 const categories  = require('./categories')
 
-const categorySort = ({category: categoryA}, {category: categoryB}) => {
-  const getIndex = group => categories.indexOf(groups => groups.includes(group))
+const categoryGroups = categories.map(({groups}) => groups).flat()
 
-  const indexA = getIndex(categoryA)
-  const indexB = getIndex(categoryB)
+const categorySort = ({category: categoryA}, {category: categoryB}) => {
+  const indexA = categoryGroups.indexOf(categoryA)
+  const indexB = categoryGroups.indexOf(categoryB)
 
   if (indexA > indexB) return 1
   if (indexA < indexB) return -1

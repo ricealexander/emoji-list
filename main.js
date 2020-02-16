@@ -14,9 +14,7 @@ const expandAliases = emojis => emojis.reduce((list, emoji) => {
 }, [])
 
 const validateEmojis = emojis => {
-  const categoryGroups = categories.reduce((list, {groups}) => {
-    console.log(groups); return [...list, ...groups]
-  }, [])
+  const categoryGroups = categories.reduce((list, {groups}) => [...list, ...groups], [])
 
   const uniqueGroups = emojis.reduce((list, emoji) => {
     if (!list.includes(emoji.category)) list.push(emoji.category)
