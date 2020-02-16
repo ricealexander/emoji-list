@@ -1,11 +1,11 @@
 const categories = [
   {
     header: 'Smileys and People',
-    groups: ['Smiley', 'People'],
+    groups: ['Smiley', 'Gesture', 'People', 'Clothing'],
   },
   {
     header: 'Animals and Nature',
-    groups: ['Nature'],
+    groups: ['Animal', 'Nature'],
   },
   {
     header: 'Food and Drink',
