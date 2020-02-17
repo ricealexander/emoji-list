@@ -473,6 +473,8 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 
 | | | |
 |---|---|---|
+| :crossed_flags: `:crossed_flags:` | :checkered_flag: `:checkered_flag:` | :white_flag: `:white_flag:` |
+| :rainbow_flag: `:rainbow_flag:` | :black_flag: `:black_flag:` | :triangular_flag_on_post: `:triangular_flag_on_post:` |
 | :andorra: `:andorra:` | :united_arab_emirates: `:united_arab_emirates:` | :afghanistan: `:afghanistan:` |
 | :antigua_barbuda: `:antigua_barbuda:` | :anguilla: `:anguilla:` | :albania: `:albania:` |
 | :armenia: `:armenia:` | :angola: `:angola:` | :antarctica: `:antarctica:` |
@@ -556,8 +558,6 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :vanuatu: `:vanuatu:` | :wallis_futuna: `:wallis_futuna:` | :samoa: `:samoa:` |
 | :kosovo: `:kosovo:` | :yemen: `:yemen:` | :mayotte: `:mayotte:` |
 | :south_africa: `:south_africa:` | :zambia: `:zambia:` | :zimbabwe: `:zimbabwe:` |
-| :crossed_flags: `:crossed_flags:` | :checkered_flag: `:checkered_flag:` | :white_flag: `:white_flag:` |
-| :rainbow_flag: `:rainbow_flag:` | :black_flag: `:black_flag:` | :triangular_flag_on_post: `:triangular_flag_on_post:` |
 
 
 ### Custom

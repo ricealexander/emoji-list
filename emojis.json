@@ -682,7 +682,7 @@
   {
     "alias": "black_flag",
     "unicode": "🏴",
-    "category": "Country"
+    "category": "Flag"
   },
   {
     "alias": "black_heart",
@@ -1195,7 +1195,7 @@
   {
     "alias": "checkered_flag",
     "unicode": "🏁",
-    "category": "Country"
+    "category": "Flag"
   },
   {
     "alias": "cheese",
@@ -1741,7 +1741,7 @@
   {
     "alias": "crossed_flags",
     "unicode": "🎌",
-    "category": "Country"
+    "category": "Flag"
   },
   {
     "alias": "crossed_swords",
@@ -5326,7 +5326,7 @@
   {
     "alias": "rainbow_flag",
     "unicode": "🏳️‍🌈",
-    "category": "Country"
+    "category": "Flag"
   },
   {
     "alias": "raised_back_of_hand",
@@ -6672,7 +6672,7 @@
   {
     "alias": "triangular_flag_on_post",
     "unicode": "🚩",
-    "category": "Country"
+    "category": "Flag"
   },
   {
     "alias": "triangular_ruler",
@@ -7135,7 +7135,7 @@
   {
     "alias": "white_flag",
     "unicode": "🏳️",
-    "category": "Country"
+    "category": "Flag"
   },
   {
     "alias": "white_flower",

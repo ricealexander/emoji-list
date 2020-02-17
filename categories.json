@@ -29,7 +29,7 @@
   },
   {
     "header": "Flags and Countries",
-    "groups": ["Country"]
+    "groups": ["Flag", "Country"]
   },
   {
     "header": "Custom",
