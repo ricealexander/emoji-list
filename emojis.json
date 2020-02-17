@@ -173,7 +173,7 @@
   {
     "alias": "ant",
     "unicode": "🐜",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "antarctica",
@@ -398,7 +398,7 @@
   {
     "alias": "baby_chick",
     "unicode": "🐤",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "baby_symbol",
@@ -531,7 +531,7 @@
   {
     "alias": "bat",
     "unicode": "🦇",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "bath",
@@ -556,7 +556,7 @@
   {
     "alias": "bear",
     "unicode": "🐻",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "bed",
@@ -569,7 +569,7 @@
       "honeybee"
     ],
     "unicode": "🐝",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "beer",
@@ -584,7 +584,7 @@
   {
     "alias": "beetle",
     "unicode": "🐞",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "beginner",
@@ -667,7 +667,7 @@
   {
     "alias": "bird",
     "unicode": "🐦",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "birthday",
@@ -745,7 +745,7 @@
   {
     "alias": "blowfish",
     "unicode": "🐡",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "blue_book",
@@ -770,7 +770,7 @@
   {
     "alias": "boar",
     "unicode": "🐗",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": [
@@ -927,7 +927,7 @@
   {
     "alias": "bug",
     "unicode": "🐛",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "building_construction",
@@ -997,7 +997,7 @@
   {
     "alias": "butterfly",
     "unicode": "🦋",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "cactus",
@@ -1032,7 +1032,7 @@
   {
     "alias": "camel",
     "unicode": "🐫",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "camera",
@@ -1140,12 +1140,12 @@
   {
     "alias": "cat",
     "unicode": "🐱",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "cat2",
     "unicode": "🐈",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "cayman_islands",
@@ -1220,7 +1220,7 @@
   {
     "alias": "chicken",
     "unicode": "🐔",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "children_crossing",
@@ -1235,7 +1235,7 @@
   {
     "alias": "chipmunk",
     "unicode": "🐿",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "chocolate_bar",
@@ -1681,12 +1681,12 @@
   {
     "alias": "cow",
     "unicode": "🐮",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "cow2",
     "unicode": "🐄",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "cowboy_hat_face",
@@ -1696,7 +1696,7 @@
   {
     "alias": "crab",
     "unicode": "🦀",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "crayon",
@@ -1726,7 +1726,7 @@
   {
     "alias": "crocodile",
     "unicode": "🐊",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "croissant",
@@ -1889,7 +1889,7 @@
   {
     "alias": "deer",
     "unicode": "🦌",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "denmark",
@@ -1964,12 +1964,12 @@
   {
     "alias": "dog",
     "unicode": "🐶",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "dog2",
     "unicode": "🐕",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "dollar",
@@ -1987,7 +1987,7 @@
       "flipper"
     ],
     "unicode": "🐬",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "dominica",
@@ -2012,17 +2012,17 @@
   {
     "alias": "dove",
     "unicode": "🕊",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "dragon",
     "unicode": "🐉",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "dragon_face",
     "unicode": "🐲",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "dress",
@@ -2032,7 +2032,7 @@
   {
     "alias": "dromedary_camel",
     "unicode": "🐪",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "drooling_face",
@@ -2052,7 +2052,7 @@
   {
     "alias": "duck",
     "unicode": "🦆",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "dvd",
@@ -2067,7 +2067,7 @@
   {
     "alias": "eagle",
     "unicode": "🦅",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "ear",
@@ -2147,7 +2147,7 @@
   {
     "alias": "elephant",
     "unicode": "🐘",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": [
@@ -2437,7 +2437,7 @@
       "paw_prints"
     ],
     "unicode": "🐾",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "female_detective",
@@ -2522,7 +2522,7 @@
   {
     "alias": "fish",
     "unicode": "🐟",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "fish_cake",
@@ -2654,7 +2654,7 @@
   {
     "alias": "fox_face",
     "unicode": "🦊",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "fr",
@@ -2704,7 +2704,7 @@
   {
     "alias": "frog",
     "unicode": "🐸",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "frowning",
@@ -2835,7 +2835,7 @@
   {
     "alias": "goat",
     "unicode": "🐐",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "goberserk",
@@ -2865,7 +2865,7 @@
   {
     "alias": "gorilla",
     "unicode": "🦍",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "grapes",
@@ -3028,7 +3028,7 @@
   {
     "alias": "hamster",
     "unicode": "🐹",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": [
@@ -3065,12 +3065,12 @@
   {
     "alias": "hatched_chick",
     "unicode": "🐥",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "hatching_chick",
     "unicode": "🐣",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "headphones",
@@ -3080,7 +3080,7 @@
   {
     "alias": "hear_no_evil",
     "unicode": "🙉",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "heart",
@@ -3208,7 +3208,7 @@
   {
     "alias": "horse",
     "unicode": "🐴",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "horse_racing",
@@ -3543,7 +3543,7 @@
   {
     "alias": "koala",
     "unicode": "🐨",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "koko",
@@ -3674,7 +3674,7 @@
   {
     "alias": "leopard",
     "unicode": "🐆",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "lesotho",
@@ -3719,7 +3719,7 @@
   {
     "alias": "lion",
     "unicode": "🦁",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "lips",
@@ -3739,7 +3739,7 @@
   {
     "alias": "lizard",
     "unicode": "🦎",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "lock",
@@ -4221,12 +4221,12 @@
   {
     "alias": "monkey",
     "unicode": "🐒",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "monkey_face",
     "unicode": "🐵",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "monorail",
@@ -4327,12 +4327,12 @@
   {
     "alias": "mouse",
     "unicode": "🐭",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "mouse2",
     "unicode": "🐁",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "movie_camera",
@@ -4659,7 +4659,7 @@
   {
     "alias": "octopus",
     "unicode": "🐙",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "oden",
@@ -4794,12 +4794,12 @@
   {
     "alias": "owl",
     "unicode": "🦉",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "ox",
     "unicode": "🐂",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "package",
@@ -4859,7 +4859,7 @@
   {
     "alias": "panda_face",
     "unicode": "🐼",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "paperclip",
@@ -4949,7 +4949,7 @@
   {
     "alias": "penguin",
     "unicode": "🐧",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "pensive",
@@ -4997,17 +4997,17 @@
   {
     "alias": "pig",
     "unicode": "🐷",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "pig2",
     "unicode": "🐖",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "pig_nose",
     "unicode": "🐽",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "pill",
@@ -5105,7 +5105,7 @@
   {
     "alias": "poodle",
     "unicode": "🐩",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "popcorn",
@@ -5248,17 +5248,17 @@
   {
     "alias": "rabbit",
     "unicode": "🐰",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "rabbit2",
     "unicode": "🐇",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "racehorse",
     "unicode": "🐎",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "racing_car",
@@ -5359,7 +5359,7 @@
   {
     "alias": "ram",
     "unicode": "🐏",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "ramen",
@@ -5369,7 +5369,7 @@
   {
     "alias": "rat",
     "unicode": "🐀",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "record_button",
@@ -5514,7 +5514,7 @@
   {
     "alias": "rooster",
     "unicode": "🐓",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "rose",
@@ -5656,7 +5656,7 @@
   {
     "alias": "scorpion",
     "unicode": "🦂",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "scorpius",
@@ -5736,7 +5736,7 @@
   {
     "alias": "shark",
     "unicode": "🦈",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "shaved_ice",
@@ -5746,7 +5746,7 @@
   {
     "alias": "sheep",
     "unicode": "🐑",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "shell",
@@ -5810,7 +5810,7 @@
   {
     "alias": "shrimp",
     "unicode": "🦐",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "sierra_leone",
@@ -5970,12 +5970,12 @@
   {
     "alias": "snail",
     "unicode": "🐌",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "snake",
     "unicode": "🐍",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "sneezing_face",
@@ -6090,7 +6090,7 @@
   {
     "alias": "speak_no_evil",
     "unicode": "🙊",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "speaker",
@@ -6115,7 +6115,7 @@
   {
     "alias": "spider",
     "unicode": "🕷",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "spider_web",
@@ -6140,7 +6140,7 @@
   {
     "alias": "squid",
     "unicode": "🦑",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "sri_lanka",
@@ -6540,12 +6540,12 @@
   {
     "alias": "tiger",
     "unicode": "🐯",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "tiger2",
     "unicode": "🐅",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "timer_clock",
@@ -6717,7 +6717,7 @@
   {
     "alias": "tropical_fish",
     "unicode": "🐠",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "truck",
@@ -6747,7 +6747,7 @@
   {
     "alias": "turkey",
     "unicode": "🦃",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "turkmenistan",
@@ -6762,7 +6762,7 @@
   {
     "alias": "turtle",
     "unicode": "🐢",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "tuvalu",
@@ -6882,7 +6882,7 @@
   {
     "alias": "unicorn",
     "unicode": "🦄",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "united_arab_emirates",
@@ -7050,7 +7050,7 @@
   {
     "alias": "water_buffalo",
     "unicode": "🐃",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "watermelon",
@@ -7105,12 +7105,12 @@
   {
     "alias": "whale",
     "unicode": "🐳",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "whale2",
     "unicode": "🐋",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "wheel_of_dharma",
@@ -7195,7 +7195,7 @@
   {
     "alias": "wolf",
     "unicode": "🐺",
-    "category": "Nature"
+    "category": "Animal"
   },
   {
     "alias": "woman",

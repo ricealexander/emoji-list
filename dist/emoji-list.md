@@ -123,7 +123,36 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 
 | | | |
 |---|---|---|
-| :rhinoceros: `:rhinoceros:` | :sunny: `:sunny:` | :cloud: `:cloud:` |
+| :rat: `:rat:` | :mouse2: `:mouse2:` | :ox: `:ox:` |
+| :water_buffalo: `:water_buffalo:` | :cow2: `:cow2:` | :tiger2: `:tiger2:` |
+| :leopard: `:leopard:` | :rabbit2: `:rabbit2:` | :cat2: `:cat2:` |
+| :dragon: `:dragon:` | :crocodile: `:crocodile:` | :whale2: `:whale2:` |
+| :snail: `:snail:` | :snake: `:snake:` | :racehorse: `:racehorse:` |
+| :ram: `:ram:` | :goat: `:goat:` | :sheep: `:sheep:` |
+| :monkey: `:monkey:` | :rooster: `:rooster:` | :chicken: `:chicken:` |
+| :dog2: `:dog2:` | :pig2: `:pig2:` | :boar: `:boar:` |
+| :elephant: `:elephant:` | :octopus: `:octopus:` | :bug: `:bug:` |
+| :ant: `:ant:` | :bee: `:bee:` | :honeybee: `:honeybee:` |
+| :beetle: `:beetle:` | :fish: `:fish:` | :tropical_fish: `:tropical_fish:` |
+| :blowfish: `:blowfish:` | :turtle: `:turtle:` | :hatching_chick: `:hatching_chick:` |
+| :baby_chick: `:baby_chick:` | :hatched_chick: `:hatched_chick:` | :bird: `:bird:` |
+| :penguin: `:penguin:` | :koala: `:koala:` | :poodle: `:poodle:` |
+| :dromedary_camel: `:dromedary_camel:` | :camel: `:camel:` | :dolphin: `:dolphin:` |
+| :flipper: `:flipper:` | :mouse: `:mouse:` | :cow: `:cow:` |
+| :tiger: `:tiger:` | :rabbit: `:rabbit:` | :cat: `:cat:` |
+| :dragon_face: `:dragon_face:` | :whale: `:whale:` | :horse: `:horse:` |
+| :monkey_face: `:monkey_face:` | :dog: `:dog:` | :pig: `:pig:` |
+| :frog: `:frog:` | :hamster: `:hamster:` | :wolf: `:wolf:` |
+| :bear: `:bear:` | :panda_face: `:panda_face:` | :pig_nose: `:pig_nose:` |
+| :feet: `:feet:` | :paw_prints: `:paw_prints:` | :chipmunk: `:chipmunk:` |
+| :dove: `:dove:` | :spider: `:spider:` | :hear_no_evil: `:hear_no_evil:` |
+| :speak_no_evil: `:speak_no_evil:` | :crab: `:crab:` | :lion: `:lion:` |
+| :scorpion: `:scorpion:` | :turkey: `:turkey:` | :unicorn: `:unicorn:` |
+| :eagle: `:eagle:` | :duck: `:duck:` | :bat: `:bat:` |
+| :shark: `:shark:` | :owl: `:owl:` | :fox_face: `:fox_face:` |
+| :butterfly: `:butterfly:` | :deer: `:deer:` | :gorilla: `:gorilla:` |
+| :lizard: `:lizard:` | :rhinoceros: `:rhinoceros:` | :shrimp: `:shrimp:` |
+| :squid: `:squid:` | :sunny: `:sunny:` | :cloud: `:cloud:` |
 | :snowman_with_snow: `:snowman_with_snow:` | :comet: `:comet:` | :umbrella: `:umbrella:` |
 | :shamrock: `:shamrock:` | :zap: `:zap:` | :snowman: `:snowman:` |
 | :partly_sunny: `:partly_sunny:` | :cloud_with_lightning_and_rain: `:cloud_with_lightning_and_rain:` | :sparkles: `:sparkles:` |
@@ -145,39 +174,10 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :sunflower: `:sunflower:` | :blossom: `:blossom:` | :ear_of_rice: `:ear_of_rice:` |
 | :herb: `:herb:` | :four_leaf_clover: `:four_leaf_clover:` | :maple_leaf: `:maple_leaf:` |
 | :fallen_leaf: `:fallen_leaf:` | :leaves: `:leaves:` | :mushroom: `:mushroom:` |
-| :rat: `:rat:` | :mouse2: `:mouse2:` | :ox: `:ox:` |
-| :water_buffalo: `:water_buffalo:` | :cow2: `:cow2:` | :tiger2: `:tiger2:` |
-| :leopard: `:leopard:` | :rabbit2: `:rabbit2:` | :cat2: `:cat2:` |
-| :dragon: `:dragon:` | :crocodile: `:crocodile:` | :whale2: `:whale2:` |
-| :snail: `:snail:` | :snake: `:snake:` | :racehorse: `:racehorse:` |
-| :ram: `:ram:` | :goat: `:goat:` | :sheep: `:sheep:` |
-| :monkey: `:monkey:` | :rooster: `:rooster:` | :chicken: `:chicken:` |
-| :dog2: `:dog2:` | :pig2: `:pig2:` | :boar: `:boar:` |
-| :elephant: `:elephant:` | :octopus: `:octopus:` | :shell: `:shell:` |
-| :bug: `:bug:` | :ant: `:ant:` | :bee: `:bee:` |
-| :honeybee: `:honeybee:` | :beetle: `:beetle:` | :fish: `:fish:` |
-| :tropical_fish: `:tropical_fish:` | :blowfish: `:blowfish:` | :turtle: `:turtle:` |
-| :hatching_chick: `:hatching_chick:` | :baby_chick: `:baby_chick:` | :hatched_chick: `:hatched_chick:` |
-| :bird: `:bird:` | :penguin: `:penguin:` | :koala: `:koala:` |
-| :poodle: `:poodle:` | :dromedary_camel: `:dromedary_camel:` | :camel: `:camel:` |
-| :dolphin: `:dolphin:` | :flipper: `:flipper:` | :mouse: `:mouse:` |
-| :cow: `:cow:` | :tiger: `:tiger:` | :rabbit: `:rabbit:` |
-| :cat: `:cat:` | :dragon_face: `:dragon_face:` | :whale: `:whale:` |
-| :horse: `:horse:` | :monkey_face: `:monkey_face:` | :dog: `:dog:` |
-| :pig: `:pig:` | :frog: `:frog:` | :hamster: `:hamster:` |
-| :wolf: `:wolf:` | :bear: `:bear:` | :panda_face: `:panda_face:` |
-| :pig_nose: `:pig_nose:` | :feet: `:feet:` | :paw_prints: `:paw_prints:` |
-| :chipmunk: `:chipmunk:` | :bouquet: `:bouquet:` | :boom: `:boom:` |
+| :shell: `:shell:` | :bouquet: `:bouquet:` | :boom: `:boom:` |
 | :collision: `:collision:` | :sweat_drops: `:sweat_drops:` | :droplet: `:droplet:` |
 | :dash: `:dash:` | :dizzy: `:dizzy:` | :fire: `:fire:` |
-| :dove: `:dove:` | :spider: `:spider:` | :hear_no_evil: `:hear_no_evil:` |
-| :speak_no_evil: `:speak_no_evil:` | :wilted_flower: `:wilted_flower:` | :crab: `:crab:` |
-| :lion: `:lion:` | :scorpion: `:scorpion:` | :turkey: `:turkey:` |
-| :unicorn: `:unicorn:` | :eagle: `:eagle:` | :duck: `:duck:` |
-| :bat: `:bat:` | :shark: `:shark:` | :owl: `:owl:` |
-| :fox_face: `:fox_face:` | :butterfly: `:butterfly:` | :deer: `:deer:` |
-| :gorilla: `:gorilla:` | :lizard: `:lizard:` | :shrimp: `:shrimp:` |
-| :squid: `:squid:` |  |  |
+| :wilted_flower: `:wilted_flower:` |  |  |
 
 
 ### Food and Drink
