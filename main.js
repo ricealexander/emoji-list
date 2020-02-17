@@ -1,6 +1,7 @@
 const difference          = require('lodash/difference')
 
-const categories          = require('./src/categories')
+const categories          = require('./categories.json')
+
 const formatMarkdownTable = require('./src/formatAsMarkdownTable')
 const toArray             = require('./src/helpers/toArray')
 const toSlug              = require('./src/helpers/toSlug')

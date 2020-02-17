@@ -2,7 +2,7 @@ const _arrayFlatPolyfill = require('array-flat-polyfill')
 const chunk       = require('lodash/chunk')
 
 const by          = require('./helpers/sortBy')
-const categories  = require('./categories')
+const categories  = require('../categories.json')
 
 const categoryGroups = categories.map(({groups}) => groups).flat()
 
