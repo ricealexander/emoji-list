@@ -5,7 +5,7 @@
       "thumbsup"
     ],
     "unicode": "👍",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -13,7 +13,7 @@
       "thumbsdown"
     ],
     "unicode": "👎",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "100",
@@ -113,7 +113,7 @@
   {
     "alias": "alien",
     "unicode": "👽",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "ambulance",
@@ -343,7 +343,7 @@
   {
     "alias": "athletic_shoe",
     "unicode": "👟",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "atm",
@@ -388,7 +388,7 @@
   {
     "alias": "baby",
     "unicode": "👶",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "baby_bottle",
@@ -657,7 +657,7 @@
   {
     "alias": "bikini",
     "unicode": "👙",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "biohazard",
@@ -730,12 +730,12 @@
       "person_with_blond_hair"
     ],
     "unicode": "👱",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "blonde_woman",
     "unicode": "👱‍♀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "blossom",
@@ -852,12 +852,12 @@
       "bow"
     ],
     "unicode": "🙇",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "bowing_woman",
     "unicode": "🙇‍♀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "bowling",
@@ -877,7 +877,7 @@
   {
     "alias": "boy",
     "unicode": "👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "brazil",
@@ -892,7 +892,7 @@
   {
     "alias": "bride_with_veil",
     "unicode": "👰",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "bridge_at_night",
@@ -987,12 +987,12 @@
   {
     "alias": "bust_in_silhouette",
     "unicode": "👤",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "busts_in_silhouette",
     "unicode": "👥",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "butterfly",
@@ -1017,7 +1017,7 @@
   {
     "alias": "call_me_hand",
     "unicode": "🤙",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "calling",
@@ -1295,7 +1295,7 @@
   {
     "alias": "clap",
     "unicode": "👏",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "clapper",
@@ -1583,12 +1583,12 @@
       "construction_worker"
     ],
     "unicode": "👷",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "construction_worker_woman",
     "unicode": "👷‍♀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "control_knobs",
@@ -1643,12 +1643,12 @@
   {
     "alias": "couple",
     "unicode": "👫",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "couple_with_heart_man_man",
     "unicode": "👨‍❤️‍👨",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -1656,27 +1656,27 @@
       "couple_with_heart"
     ],
     "unicode": "💑",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "couple_with_heart_woman_woman",
     "unicode": "👩‍❤️‍👩",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "couplekiss_man_man",
     "unicode": "👨‍❤️‍💋‍👨",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "couplekiss_man_woman",
     "unicode": "💏",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "couplekiss_woman_woman",
     "unicode": "👩‍❤️‍💋‍👩",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "cow",
@@ -1691,7 +1691,7 @@
   {
     "alias": "cowboy_hat_face",
     "unicode": "🤠",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "crab",
@@ -1736,7 +1736,7 @@
   {
     "alias": "crossed_fingers",
     "unicode": "🤞",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "crossed_flags",
@@ -1836,12 +1836,12 @@
   {
     "alias": "dancer",
     "unicode": "💃",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "dancing_men",
     "unicode": "👯‍♂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -1849,7 +1849,7 @@
       "dancers"
     ],
     "unicode": "👯",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "dango",
@@ -2072,7 +2072,7 @@
   {
     "alias": "ear",
     "unicode": "👂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "ear_of_rice",
@@ -2236,7 +2236,7 @@
   {
     "alias": "eye",
     "unicode": "👁",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "eye_speech_bubble",
@@ -2251,7 +2251,7 @@
   {
     "alias": "eyes",
     "unicode": "👀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "face_with_head_bandage",
@@ -2281,52 +2281,52 @@
   {
     "alias": "family_man_boy",
     "unicode": "👨‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_boy_boy",
     "unicode": "👨‍👦‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_girl",
     "unicode": "👨‍👧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_girl_boy",
     "unicode": "👨‍👧‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_girl_girl",
     "unicode": "👨‍👧‍👧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_man_boy",
     "unicode": "👨‍👨‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_man_boy_boy",
     "unicode": "👨‍👨‍👦‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_man_girl",
     "unicode": "👨‍👨‍👧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_man_girl_boy",
     "unicode": "👨‍👨‍👧‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_man_girl_girl",
     "unicode": "👨‍👨‍👧‍👧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -2334,77 +2334,77 @@
       "family"
     ],
     "unicode": "👪",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_woman_boy_boy",
     "unicode": "👨‍👩‍👦‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_woman_girl",
     "unicode": "👨‍👩‍👧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_woman_girl_boy",
     "unicode": "👨‍👩‍👧‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_man_woman_girl_girl",
     "unicode": "👨‍👩‍👧‍👧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_woman_boy",
     "unicode": "👩‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_woman_boy_boy",
     "unicode": "👩‍👦‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_woman_girl",
     "unicode": "👩‍👧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_woman_girl_boy",
     "unicode": "👩‍👧‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_woman_girl_girl",
     "unicode": "👩‍👧‍👧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_woman_woman_boy",
     "unicode": "👩‍👩‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_woman_woman_boy_boy",
     "unicode": "👩‍👩‍👦‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_woman_woman_girl",
     "unicode": "👩‍👩‍👧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_woman_woman_girl_boy",
     "unicode": "👩‍👩‍👧‍👦",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "family_woman_woman_girl_girl",
     "unicode": "👩‍👩‍👧‍👧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "faroe_islands",
@@ -2442,7 +2442,7 @@
   {
     "alias": "female_detective",
     "unicode": "🕵️‍♀️",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "ferris_wheel",
@@ -2537,7 +2537,7 @@
   {
     "alias": "fist_left",
     "unicode": "🤛",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -2546,7 +2546,7 @@
       "punch"
     ],
     "unicode": "👊",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -2554,12 +2554,12 @@
       "fist"
     ],
     "unicode": "✊",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "fist_right",
     "unicode": "🤜",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "five",
@@ -2624,7 +2624,7 @@
   {
     "alias": "footprints",
     "unicode": "👣",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "fork_and_knife",
@@ -2719,7 +2719,7 @@
   {
     "alias": "frowning_man",
     "unicode": "🙍‍♂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -2727,7 +2727,7 @@
       "person_frowning"
     ],
     "unicode": "🙍",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "fuelpump",
@@ -2820,7 +2820,7 @@
   {
     "alias": "girl",
     "unicode": "👧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "globe_with_meridians",
@@ -2945,12 +2945,12 @@
   {
     "alias": "guardsman",
     "unicode": "💂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "guardswoman",
     "unicode": "💂‍♀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "guatemala",
@@ -2990,7 +2990,7 @@
   {
     "alias": "haircut_man",
     "unicode": "💇‍♂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -2998,7 +2998,7 @@
       "haircut"
     ],
     "unicode": "💇",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "haiti",
@@ -3036,7 +3036,7 @@
       "raised_hand"
     ],
     "unicode": "✋",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "handbag",
@@ -3046,7 +3046,7 @@
   {
     "alias": "handshake",
     "unicode": "🤝",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -3508,7 +3508,7 @@
   {
     "alias": "kiss",
     "unicode": "💋",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "kissing",
@@ -3724,7 +3724,7 @@
   {
     "alias": "lips",
     "unicode": "👄",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "lipstick",
@@ -3872,7 +3872,7 @@
       "detective"
     ],
     "unicode": "🕵",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "mali",
@@ -3887,17 +3887,17 @@
   {
     "alias": "man",
     "unicode": "👨",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_artist",
     "unicode": "👨‍🎨",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_astronaut",
     "unicode": "👨‍🚀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_cartwheeling",
@@ -3907,47 +3907,47 @@
   {
     "alias": "man_cook",
     "unicode": "👨‍🍳",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_dancing",
     "unicode": "🕺",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_facepalming",
     "unicode": "🤦‍♂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_factory_worker",
     "unicode": "👨‍🏭",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_farmer",
     "unicode": "👨‍🌾",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_firefighter",
     "unicode": "👨‍🚒",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_health_worker",
     "unicode": "👨‍⚕",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_in_tuxedo",
     "unicode": "🤵",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_judge",
     "unicode": "👨‍⚖",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_juggling",
@@ -3957,17 +3957,17 @@
   {
     "alias": "man_mechanic",
     "unicode": "👨‍🔧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_office_worker",
     "unicode": "👨‍💼",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_pilot",
     "unicode": "👨‍✈",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_playing_handball",
@@ -3982,42 +3982,42 @@
   {
     "alias": "man_scientist",
     "unicode": "👨‍🔬",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_shrugging",
     "unicode": "🤷‍♂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_singer",
     "unicode": "👨‍🎤",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_student",
     "unicode": "👨‍🎓",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_teacher",
     "unicode": "👨‍🏫",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_technologist",
     "unicode": "👨‍💻",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_with_gua_pi_mao",
     "unicode": "👲",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "man_with_turban",
     "unicode": "👳",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "mantelpiece_clock",
@@ -4047,12 +4047,12 @@
   {
     "alias": "mask",
     "unicode": "😷",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "massage_man",
     "unicode": "💆‍♂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -4060,7 +4060,7 @@
       "massage"
     ],
     "unicode": "💆",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "mauritania",
@@ -4128,7 +4128,7 @@
   {
     "alias": "metal",
     "unicode": "🤘",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "metro",
@@ -4161,7 +4161,7 @@
       "fu"
     ],
     "unicode": "🖕",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "milk_glass",
@@ -4352,12 +4352,12 @@
   {
     "alias": "mrs_claus",
     "unicode": "🤶",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "muscle",
     "unicode": "💪",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "mushroom",
@@ -4392,7 +4392,7 @@
   {
     "alias": "nail_care",
     "unicode": "💅",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "name_badge",
@@ -4555,7 +4555,7 @@
       "ng_man"
     ],
     "unicode": "🙅‍♂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -4564,7 +4564,7 @@
       "no_good"
     ],
     "unicode": "🙅",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "no_mobile_phones",
@@ -4614,7 +4614,7 @@
   {
     "alias": "nose",
     "unicode": "👃",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "notebook",
@@ -4684,17 +4684,17 @@
   {
     "alias": "ok_hand",
     "unicode": "👌",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "ok_man",
     "unicode": "🙆‍♂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "ok_woman",
     "unicode": "🙆",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "old_key",
@@ -4704,12 +4704,12 @@
   {
     "alias": "older_man",
     "unicode": "👴",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "older_woman",
     "unicode": "👵",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "om",
@@ -4759,7 +4759,7 @@
   {
     "alias": "open_hands",
     "unicode": "👐",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "open_mouth",
@@ -5057,27 +5057,27 @@
   {
     "alias": "point_down",
     "unicode": "👇",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "point_left",
     "unicode": "👈",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "point_right",
     "unicode": "👉",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "point_up",
     "unicode": "☝️",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "point_up_2",
     "unicode": "👆",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "poland",
@@ -5095,12 +5095,12 @@
       "cop"
     ],
     "unicode": "👮",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "policewoman",
     "unicode": "👮‍♀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "poodle",
@@ -5165,7 +5165,7 @@
   {
     "alias": "pouting_man",
     "unicode": "🙎‍♂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -5173,12 +5173,12 @@
       "person_with_pouting_face"
     ],
     "unicode": "🙎",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "pray",
     "unicode": "🙏",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "prayer_beads",
@@ -5188,7 +5188,7 @@
   {
     "alias": "pregnant_woman",
     "unicode": "🤰",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "previous_track_button",
@@ -5198,12 +5198,12 @@
   {
     "alias": "prince",
     "unicode": "🤴",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "princess",
     "unicode": "👸",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "printer",
@@ -5331,22 +5331,22 @@
   {
     "alias": "raised_back_of_hand",
     "unicode": "🤚",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "raised_hand_with_fingers_splayed",
     "unicode": "🖐",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "raised_hands",
     "unicode": "🙌",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "raising_hand_man",
     "unicode": "🙋‍♂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -5354,7 +5354,7 @@
       "raising_hand"
     ],
     "unicode": "🙋",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "ram",
@@ -5419,7 +5419,7 @@
   {
     "alias": "rescue_worker_helmet",
     "unicode": "⛑",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "restroom",
@@ -5566,7 +5566,7 @@
       "running"
     ],
     "unicode": "🏃",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "running_shirt_with_sash",
@@ -5576,7 +5576,7 @@
   {
     "alias": "running_woman",
     "unicode": "🏃‍♀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "rwanda",
@@ -5701,7 +5701,7 @@
   {
     "alias": "selfie",
     "unicode": "🤳",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "senegal",
@@ -6100,7 +6100,7 @@
   {
     "alias": "speaking_head",
     "unicode": "🗣",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "speech_balloon",
@@ -6563,7 +6563,7 @@
       "sassy_man"
     ],
     "unicode": "💁‍♂",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -6572,7 +6572,7 @@
       "sassy_woman"
     ],
     "unicode": "💁",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "tired_face",
@@ -6617,7 +6617,7 @@
   {
     "alias": "tongue",
     "unicode": "👅",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "top",
@@ -6792,12 +6792,12 @@
   {
     "alias": "two_men_holding_hands",
     "unicode": "👬",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "two_women_holding_hands",
     "unicode": "👭",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "u5272",
@@ -6927,7 +6927,7 @@
   {
     "alias": "v",
     "unicode": "✌️",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "vanuatu",
@@ -7002,7 +7002,7 @@
   {
     "alias": "vulcan_salute",
     "unicode": "🖖",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": [
@@ -7010,12 +7010,12 @@
       "walking"
     ],
     "unicode": "🚶",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "walking_woman",
     "unicode": "🚶‍♀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "wallis_futuna",
@@ -7060,7 +7060,7 @@
   {
     "alias": "wave",
     "unicode": "👋",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "wavy_dash",
@@ -7200,17 +7200,17 @@
   {
     "alias": "woman",
     "unicode": "👩",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_artist",
     "unicode": "👩‍🎨",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_astronaut",
     "unicode": "👩‍🚀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_cartwheeling",
@@ -7220,37 +7220,37 @@
   {
     "alias": "woman_cook",
     "unicode": "👩‍🍳",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_facepalming",
     "unicode": "🤦‍♀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_factory_worker",
     "unicode": "👩‍🏭",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_farmer",
     "unicode": "👩‍🌾",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_firefighter",
     "unicode": "👩‍🚒",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_health_worker",
     "unicode": "👩‍⚕",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_judge",
     "unicode": "👩‍⚖",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_juggling",
@@ -7260,17 +7260,17 @@
   {
     "alias": "woman_mechanic",
     "unicode": "👩‍🔧",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_office_worker",
     "unicode": "👩‍💼",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_pilot",
     "unicode": "👩‍✈",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_playing_handball",
@@ -7285,47 +7285,47 @@
   {
     "alias": "woman_scientist",
     "unicode": "👩‍🔬",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_shrugging",
     "unicode": "🤷‍♀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_singer",
     "unicode": "👩‍🎤",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_student",
     "unicode": "👩‍🎓",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_teacher",
     "unicode": "👩‍🏫",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_technologist",
     "unicode": "👩‍💻",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "woman_with_turban",
     "unicode": "👳‍♀",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "womans_clothes",
     "unicode": "👚",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "womans_hat",
     "unicode": "👒",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "women_wrestling",
@@ -7355,7 +7355,7 @@
   {
     "alias": "writing_hand",
     "unicode": "✍️",
-    "category": "People"
+    "category": "Person"
   },
   {
     "alias": "x",
