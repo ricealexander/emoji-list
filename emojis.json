@@ -343,7 +343,7 @@
   {
     "alias": "athletic_shoe",
     "unicode": "👟",
-    "category": "Person"
+    "category": "Clothing"
   },
   {
     "alias": "atm",
@@ -657,7 +657,7 @@
   {
     "alias": "bikini",
     "unicode": "👙",
-    "category": "Person"
+    "category": "Clothing"
   },
   {
     "alias": "biohazard",
@@ -5419,7 +5419,7 @@
   {
     "alias": "rescue_worker_helmet",
     "unicode": "⛑",
-    "category": "Person"
+    "category": "Clothing"
   },
   {
     "alias": "restroom",
@@ -7320,12 +7320,12 @@
   {
     "alias": "womans_clothes",
     "unicode": "👚",
-    "category": "Person"
+    "category": "Clothing"
   },
   {
     "alias": "womans_hat",
     "unicode": "👒",
-    "category": "Person"
+    "category": "Clothing"
   },
   {
     "alias": "women_wrestling",
