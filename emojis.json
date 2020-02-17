@@ -93,7 +93,7 @@
   {
     "alias": "alarm_clock",
     "unicode": "⏰",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "albania",
@@ -103,7 +103,7 @@
   {
     "alias": "alembic",
     "unicode": "⚗️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "algeria",
@@ -128,7 +128,7 @@
   {
     "alias": "amphora",
     "unicode": "🏺",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "anchor",
@@ -323,7 +323,7 @@
   {
     "alias": "artificial_satellite",
     "unicode": "🛰",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "aruba",
@@ -393,7 +393,7 @@
   {
     "alias": "baby_bottle",
     "unicode": "🍼",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "baby_chick",
@@ -443,17 +443,17 @@
   {
     "alias": "balance_scale",
     "unicode": "⚖️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "balloon",
     "unicode": "🎈",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "ballot_box",
     "unicode": "🗳",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "ballot_box_with_check",
@@ -463,7 +463,7 @@
   {
     "alias": "bamboo",
     "unicode": "🎍",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "banana",
@@ -488,7 +488,7 @@
   {
     "alias": "bar_chart",
     "unicode": "📊",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "barbados",
@@ -536,17 +536,17 @@
   {
     "alias": "bath",
     "unicode": "🛀",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "bathtub",
     "unicode": "🛁",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "battery",
     "unicode": "🔋",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "beach_umbrella",
@@ -561,7 +561,7 @@
   {
     "alias": "bed",
     "unicode": "🛏",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": [
@@ -609,12 +609,12 @@
   {
     "alias": "bell",
     "unicode": "🔔",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "bellhop_bell",
     "unicode": "🛎",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "benin",
@@ -692,7 +692,7 @@
   {
     "alias": "black_joker",
     "unicode": "🃏",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "black_large_square",
@@ -712,7 +712,7 @@
   {
     "alias": "black_nib",
     "unicode": "✒️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "black_small_square",
@@ -750,7 +750,7 @@
   {
     "alias": "blue_book",
     "unicode": "📘",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "blue_car",
@@ -788,7 +788,7 @@
   {
     "alias": "bomb",
     "unicode": "💣",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": [
@@ -796,22 +796,22 @@
       "open_book"
     ],
     "unicode": "📖",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "bookmark",
     "unicode": "🔖",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "bookmark_tabs",
     "unicode": "📑",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "books",
     "unicode": "📚",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": [
@@ -824,7 +824,7 @@
   {
     "alias": "boot",
     "unicode": "👢",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "bosnia_herzegovina",
@@ -902,7 +902,7 @@
   {
     "alias": "briefcase",
     "unicode": "💼",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "british_indian_ocean_territory",
@@ -937,7 +937,7 @@
   {
     "alias": "bulb",
     "unicode": "💡",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "bulgaria",
@@ -977,7 +977,7 @@
   {
     "alias": "business_suit_levitating",
     "unicode": "🕴",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "busstop",
@@ -1012,7 +1012,7 @@
   {
     "alias": "calendar",
     "unicode": "📆",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "call_me_hand",
@@ -1022,7 +1022,7 @@
   {
     "alias": "calling",
     "unicode": "📲",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "cambodia",
@@ -1037,12 +1037,12 @@
   {
     "alias": "camera",
     "unicode": "📷",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "camera_flash",
     "unicode": "📸",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "cameroon",
@@ -1072,7 +1072,7 @@
   {
     "alias": "candle",
     "unicode": "🕯",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "candy",
@@ -1110,17 +1110,17 @@
   {
     "alias": "card_file_box",
     "unicode": "🗃",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "card_index",
     "unicode": "📇",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "card_index_dividers",
     "unicode": "🗂",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "caribbean_netherlands",
@@ -1155,7 +1155,7 @@
   {
     "alias": "cd",
     "unicode": "💿",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "central_african_republic",
@@ -1170,7 +1170,7 @@
   {
     "alias": "chains",
     "unicode": "⛓",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "champagne",
@@ -1185,12 +1185,12 @@
   {
     "alias": "chart_with_downwards_trend",
     "unicode": "📉",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "chart_with_upwards_trend",
     "unicode": "📈",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "checkered_flag",
@@ -1250,7 +1250,7 @@
   {
     "alias": "christmas_tree",
     "unicode": "🎄",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "church",
@@ -1290,7 +1290,7 @@
   {
     "alias": "clamp",
     "unicode": "🗜",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "clap",
@@ -1315,7 +1315,7 @@
   {
     "alias": "clipboard",
     "unicode": "📋",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "clock1",
@@ -1440,17 +1440,17 @@
   {
     "alias": "closed_book",
     "unicode": "📕",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "closed_lock_with_key",
     "unicode": "🔐",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "closed_umbrella",
     "unicode": "🌂",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "cloud",
@@ -1510,7 +1510,7 @@
   {
     "alias": "coffin",
     "unicode": "⚰️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "cold_sweat",
@@ -1535,17 +1535,17 @@
   {
     "alias": "computer",
     "unicode": "💻",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "computer_mouse",
     "unicode": "🖱",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "confetti_ball",
     "unicode": "🎊",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "confounded",
@@ -1593,7 +1593,7 @@
   {
     "alias": "control_knobs",
     "unicode": "🎛",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "convenience_store",
@@ -1638,7 +1638,7 @@
   {
     "alias": "couch_and_lamp",
     "unicode": "🛋",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "couple",
@@ -1701,12 +1701,12 @@
   {
     "alias": "crayon",
     "unicode": "🖍",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "credit_card",
     "unicode": "💳",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "crescent_moon",
@@ -1746,12 +1746,12 @@
   {
     "alias": "crossed_swords",
     "unicode": "⚔️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "crown",
     "unicode": "👑",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "cry",
@@ -1766,7 +1766,7 @@
   {
     "alias": "crystal_ball",
     "unicode": "🔮",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "cuba",
@@ -1831,7 +1831,7 @@
   {
     "alias": "dagger",
     "unicode": "🗡",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "dancer",
@@ -1859,12 +1859,12 @@
   {
     "alias": "dark_sunglasses",
     "unicode": "🕶",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "dart",
     "unicode": "🎯",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "dash",
@@ -1874,7 +1874,7 @@
   {
     "alias": "date",
     "unicode": "📅",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "de",
@@ -1919,7 +1919,7 @@
   {
     "alias": "desktop_computer",
     "unicode": "🖥",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "diamond_shape_with_a_dot_inside",
@@ -1974,12 +1974,12 @@
   {
     "alias": "dollar",
     "unicode": "💵",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "dolls",
     "unicode": "🎎",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": [
@@ -2002,7 +2002,7 @@
   {
     "alias": "door",
     "unicode": "🚪",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "doughnut",
@@ -2027,7 +2027,7 @@
   {
     "alias": "dress",
     "unicode": "👗",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "dromedary_camel",
@@ -2057,12 +2057,12 @@
   {
     "alias": "dvd",
     "unicode": "📀",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "e-mail",
     "unicode": "📧",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "eagle",
@@ -2137,7 +2137,7 @@
   {
     "alias": "electric_plug",
     "unicode": "🔌",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "electron",
@@ -2155,7 +2155,7 @@
       "envelope"
     ],
     "unicode": "✉️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "end",
@@ -2165,7 +2165,7 @@
   {
     "alias": "envelope_with_arrow",
     "unicode": "📩",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "equatorial_guinea",
@@ -2203,7 +2203,7 @@
   {
     "alias": "euro",
     "unicode": "💶",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "european_castle",
@@ -2246,7 +2246,7 @@
   {
     "alias": "eyeglasses",
     "unicode": "👓",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "eyes",
@@ -2419,7 +2419,7 @@
   {
     "alias": "fax",
     "unicode": "📠",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "fearful",
@@ -2467,22 +2467,22 @@
   {
     "alias": "file_cabinet",
     "unicode": "🗄",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "file_folder",
     "unicode": "📁",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "film_projector",
     "unicode": "📽",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "film_strip",
     "unicode": "🎞",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "finland",
@@ -2507,7 +2507,7 @@
   {
     "alias": "fireworks",
     "unicode": "🎆",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "first_quarter_moon",
@@ -2569,12 +2569,12 @@
   {
     "alias": "flags",
     "unicode": "🎏",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "flashlight",
     "unicode": "🔦",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "fleur_de_lis",
@@ -2594,12 +2594,12 @@
   {
     "alias": "floppy_disk",
     "unicode": "💾",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "flower_playing_cards",
     "unicode": "🎴",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "flushed",
@@ -2639,7 +2639,7 @@
   {
     "alias": "fountain_pen",
     "unicode": "🖋",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "four",
@@ -2664,7 +2664,7 @@
   {
     "alias": "framed_picture",
     "unicode": "🖼",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "free",
@@ -2747,7 +2747,7 @@
   {
     "alias": "funeral_urn",
     "unicode": "⚱️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "gabon",
@@ -2775,12 +2775,12 @@
   {
     "alias": "gear",
     "unicode": "⚙️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "gem",
     "unicode": "💎",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "gemini",
@@ -2810,12 +2810,12 @@
   {
     "alias": "gift",
     "unicode": "🎁",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "gift_heart",
     "unicode": "💝",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "girl",
@@ -2885,7 +2885,7 @@
   {
     "alias": "green_book",
     "unicode": "📗",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "green_heart",
@@ -2980,7 +2980,7 @@
   {
     "alias": "gun",
     "unicode": "🔫",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "guyana",
@@ -3013,17 +3013,17 @@
   {
     "alias": "hammer",
     "unicode": "🔨",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "hammer_and_pick",
     "unicode": "⚒",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "hammer_and_wrench",
     "unicode": "🛠",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "hamster",
@@ -3041,7 +3041,7 @@
   {
     "alias": "handbag",
     "unicode": "👜",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "handshake",
@@ -3170,12 +3170,12 @@
   {
     "alias": "high_brightness",
     "unicode": "🔆",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "high_heel",
     "unicode": "👠",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": [
@@ -3183,12 +3183,12 @@
       "knife"
     ],
     "unicode": "🔪",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "hole",
     "unicode": "🕳",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "honduras",
@@ -3243,12 +3243,12 @@
   {
     "alias": "hourglass",
     "unicode": "⌛️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "hourglass_flowing_sand",
     "unicode": "⏳",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "house",
@@ -3328,12 +3328,12 @@
   {
     "alias": "inbox_tray",
     "unicode": "📥",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "incoming_envelope",
     "unicode": "📨",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "india",
@@ -3363,7 +3363,7 @@
   {
     "alias": "iphone",
     "unicode": "📱",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "iran",
@@ -3428,7 +3428,7 @@
   {
     "alias": "jeans",
     "unicode": "👖",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "jersey",
@@ -3453,7 +3453,7 @@
   {
     "alias": "joystick",
     "unicode": "🕹",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "jp",
@@ -3463,7 +3463,7 @@
   {
     "alias": "kaaba",
     "unicode": "🕋",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "kazakhstan",
@@ -3478,12 +3478,12 @@
   {
     "alias": "key",
     "unicode": "🔑",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "keyboard",
     "unicode": "⌨️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "keycap_ten",
@@ -3498,7 +3498,7 @@
   {
     "alias": "kimono",
     "unicode": "👘",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "kiribati",
@@ -3573,7 +3573,7 @@
   {
     "alias": "label",
     "unicode": "🏷",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": [
@@ -3581,7 +3581,7 @@
       "izakaya_lantern"
     ],
     "unicode": "🏮",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "laos",
@@ -3644,7 +3644,7 @@
   {
     "alias": "ledger",
     "unicode": "📒",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "left_luggage",
@@ -3684,7 +3684,7 @@
   {
     "alias": "level_slider",
     "unicode": "🎚",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "liberia",
@@ -3729,7 +3729,7 @@
   {
     "alias": "lipstick",
     "unicode": "💄",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "lithuania",
@@ -3744,12 +3744,12 @@
   {
     "alias": "lock",
     "unicode": "🔒",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "lock_with_ink_pen",
     "unicode": "🔏",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "lollipop",
@@ -3759,7 +3759,7 @@
   {
     "alias": "loop",
     "unicode": "➿",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "loud_sound",
@@ -3779,12 +3779,12 @@
   {
     "alias": "love_letter",
     "unicode": "💌",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "low_brightness",
     "unicode": "🔅",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "luxembourg",
@@ -3819,37 +3819,37 @@
   {
     "alias": "mag",
     "unicode": "🔍",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "mag_right",
     "unicode": "🔎",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "mahjong",
     "unicode": "🀄️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "mailbox",
     "unicode": "📫",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "mailbox_closed",
     "unicode": "📪",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "mailbox_with_mail",
     "unicode": "📬",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "mailbox_with_no_mail",
     "unicode": "📭",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "malawi",
@@ -4022,7 +4022,7 @@
   {
     "alias": "mantelpiece_clock",
     "unicode": "🕰",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "maple_leaf",
@@ -4095,7 +4095,7 @@
   {
     "alias": "mega",
     "unicode": "📣",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "melon",
@@ -4108,7 +4108,7 @@
       "pencil"
     ],
     "unicode": "📝",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "men_wrestling",
@@ -4153,7 +4153,7 @@
   {
     "alias": "microscope",
     "unicode": "🔬",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": [
@@ -4181,7 +4181,7 @@
   {
     "alias": "minidisc",
     "unicode": "💽",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "mobile_phone_off",
@@ -4206,12 +4206,12 @@
   {
     "alias": "money_with_wings",
     "unicode": "💸",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "moneybag",
     "unicode": "💰",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "mongolia",
@@ -4259,7 +4259,7 @@
   {
     "alias": "mortar_board",
     "unicode": "🎓",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "mosque",
@@ -4337,7 +4337,7 @@
   {
     "alias": "movie_camera",
     "unicode": "🎥",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "moyai",
@@ -4397,7 +4397,7 @@
   {
     "alias": "name_badge",
     "unicode": "📛",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "namibia",
@@ -4427,7 +4427,7 @@
   {
     "alias": "necktie",
     "unicode": "👔",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "negative_squared_cross_mark",
@@ -4482,12 +4482,12 @@
   {
     "alias": "newspaper",
     "unicode": "📰",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "newspaper_roll",
     "unicode": "🗞",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "next_track_button",
@@ -4532,7 +4532,7 @@
   {
     "alias": "no_bell",
     "unicode": "🔕",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "no_bicycles",
@@ -4619,12 +4619,12 @@
   {
     "alias": "notebook",
     "unicode": "📓",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "notebook_with_decorative_cover",
     "unicode": "📔",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "notes",
@@ -4634,7 +4634,7 @@
   {
     "alias": "nut_and_bolt",
     "unicode": "🔩",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "o",
@@ -4674,7 +4674,7 @@
   {
     "alias": "oil_drum",
     "unicode": "🛢",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "ok",
@@ -4699,7 +4699,7 @@
   {
     "alias": "old_key",
     "unicode": "🗝",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "older_man",
@@ -4754,7 +4754,7 @@
   {
     "alias": "open_file_folder",
     "unicode": "📂",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "open_hands",
@@ -4769,7 +4769,7 @@
   {
     "alias": "open_umbrella",
     "unicode": "☂️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "ophiuchus",
@@ -4779,7 +4779,7 @@
   {
     "alias": "orange_book",
     "unicode": "📙",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "orthodox_cross",
@@ -4789,7 +4789,7 @@
   {
     "alias": "outbox_tray",
     "unicode": "📤",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "owl",
@@ -4804,27 +4804,27 @@
   {
     "alias": "package",
     "unicode": "📦",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "page_facing_up",
     "unicode": "📄",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "page_with_curl",
     "unicode": "📃",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "pager",
     "unicode": "📟",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "paintbrush",
     "unicode": "🖌",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "pakistan",
@@ -4864,12 +4864,12 @@
   {
     "alias": "paperclip",
     "unicode": "📎",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "paperclips",
     "unicode": "🖇",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "papua_new_guinea",
@@ -4939,12 +4939,12 @@
   {
     "alias": "pen",
     "unicode": "🖊",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "pencil2",
     "unicode": "✏️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "penguin",
@@ -4987,12 +4987,12 @@
       "telephone"
     ],
     "unicode": "☎️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "pick",
     "unicode": "⛏",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "pig",
@@ -5012,7 +5012,7 @@
   {
     "alias": "pill",
     "unicode": "💊",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "pineapple",
@@ -5125,12 +5125,12 @@
   {
     "alias": "postal_horn",
     "unicode": "📯",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "postbox",
     "unicode": "📮",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "potable_water",
@@ -5145,7 +5145,7 @@
   {
     "alias": "pouch",
     "unicode": "👝",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "poultry_leg",
@@ -5155,7 +5155,7 @@
   {
     "alias": "pound",
     "unicode": "💷",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "pouting_cat",
@@ -5183,7 +5183,7 @@
   {
     "alias": "prayer_beads",
     "unicode": "📿",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "pregnant_woman",
@@ -5208,7 +5208,7 @@
   {
     "alias": "printer",
     "unicode": "🖨",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "puerto_rico",
@@ -5223,12 +5223,12 @@
   {
     "alias": "purse",
     "unicode": "👛",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "pushpin",
     "unicode": "📌",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "put_litter_in_its_place",
@@ -5268,7 +5268,7 @@
   {
     "alias": "radio",
     "unicode": "📻",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "radio_button",
@@ -5449,7 +5449,7 @@
   {
     "alias": "ribbon",
     "unicode": "🎀",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "rice",
@@ -5469,7 +5469,7 @@
   {
     "alias": "rice_scene",
     "unicode": "🎑",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "right_anger_bubble",
@@ -5479,7 +5479,7 @@
   {
     "alias": "ring",
     "unicode": "💍",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "robot",
@@ -5611,12 +5611,12 @@
   {
     "alias": "sandal",
     "unicode": "👡",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "santa",
     "unicode": "🎅",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "sao_tome_principe",
@@ -5626,7 +5626,7 @@
   {
     "alias": "satellite",
     "unicode": "📡",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "saudi_arabia",
@@ -5646,12 +5646,12 @@
   {
     "alias": "school_satchel",
     "unicode": "🎒",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "scissors",
     "unicode": "✂️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "scorpion",
@@ -5676,12 +5676,12 @@
   {
     "alias": "scroll",
     "unicode": "📜",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "seat",
     "unicode": "💺",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "secret",
@@ -5756,7 +5756,7 @@
   {
     "alias": "shield",
     "unicode": "🛡",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "shinto_shrine",
@@ -5782,7 +5782,7 @@
       "tshirt"
     ],
     "unicode": "👕",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": [
@@ -5790,22 +5790,22 @@
       "mans_shoe"
     ],
     "unicode": "👞",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "shopping",
     "unicode": "🛍",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "shopping_cart",
     "unicode": "🛒",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "shower",
     "unicode": "🚿",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "shrimp",
@@ -5870,7 +5870,7 @@
   {
     "alias": "sleeping_bed",
     "unicode": "🛌",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "sleepy",
@@ -5965,7 +5965,7 @@
   {
     "alias": "smoking",
     "unicode": "🚬",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "snail",
@@ -6055,7 +6055,7 @@
   {
     "alias": "space_invader",
     "unicode": "👾",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "spades",
@@ -6075,7 +6075,7 @@
   {
     "alias": "sparkler",
     "unicode": "🎇",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "sparkles",
@@ -6085,7 +6085,7 @@
   {
     "alias": "sparkling_heart",
     "unicode": "💖",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "speak_no_evil",
@@ -6120,17 +6120,17 @@
   {
     "alias": "spider_web",
     "unicode": "🕸",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "spiral_calendar",
     "unicode": "🗓",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "spiral_notepad",
     "unicode": "🗒",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "spoon",
@@ -6240,12 +6240,12 @@
   {
     "alias": "stopwatch",
     "unicode": "⏱",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "straight_ruler",
     "unicode": "📏",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "strawberry",
@@ -6270,7 +6270,7 @@
   {
     "alias": "studio_microphone",
     "unicode": "🎙",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "stuffed_flatbread",
@@ -6426,7 +6426,7 @@
   {
     "alias": "syringe",
     "unicode": "💉",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "taco",
@@ -6436,7 +6436,7 @@
   {
     "alias": "tada",
     "unicode": "🎉",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "taiwan",
@@ -6451,7 +6451,7 @@
   {
     "alias": "tanabata_tree",
     "unicode": "🎋",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": [
@@ -6485,12 +6485,12 @@
   {
     "alias": "telephone_receiver",
     "unicode": "📞",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "telescope",
     "unicode": "🔭",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "tennis",
@@ -6510,7 +6510,7 @@
   {
     "alias": "thermometer",
     "unicode": "🌡",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "thinking",
@@ -6550,7 +6550,7 @@
   {
     "alias": "timer_clock",
     "unicode": "⏲",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "timor_leste",
@@ -6592,7 +6592,7 @@
   {
     "alias": "toilet",
     "unicode": "🚽",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "tokelau",
@@ -6627,7 +6627,7 @@
   {
     "alias": "tophat",
     "unicode": "🎩",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "tornado",
@@ -6642,7 +6642,7 @@
   {
     "alias": "trackball",
     "unicode": "🖲",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "tractor",
@@ -6677,7 +6677,7 @@
   {
     "alias": "triangular_ruler",
     "unicode": "📐",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "trident",
@@ -6772,7 +6772,7 @@
   {
     "alias": "tv",
     "unicode": "📺",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "twisted_rightwards_arrows",
@@ -6892,7 +6892,7 @@
   {
     "alias": "unlock",
     "unicode": "🔓",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "up",
@@ -6952,7 +6952,7 @@
   {
     "alias": "vhs",
     "unicode": "📼",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "vibration_mode",
@@ -6962,7 +6962,7 @@
   {
     "alias": "video_camera",
     "unicode": "📹",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "video_game",
@@ -7040,12 +7040,12 @@
   {
     "alias": "wastebasket",
     "unicode": "🗑",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "watch",
     "unicode": "⌚️",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "water_buffalo",
@@ -7175,7 +7175,7 @@
   {
     "alias": "wind_chime",
     "unicode": "🎐",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "wind_face",
@@ -7350,7 +7350,7 @@
   {
     "alias": "wrench",
     "unicode": "🔧",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "writing_hand",
@@ -7375,7 +7375,7 @@
   {
     "alias": "yen",
     "unicode": "💴",
-    "category": "Objects"
+    "category": "Object"
   },
   {
     "alias": "yin_yang",

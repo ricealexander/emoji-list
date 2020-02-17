@@ -21,7 +21,7 @@ const categories = [
   },
   {
     header: 'Objects',
-    groups: ['Objects'],
+    groups: ['Object'],
   },
   {
     header: 'Symbols',
