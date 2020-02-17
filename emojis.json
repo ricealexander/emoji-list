@@ -18,12 +18,12 @@
   {
     "alias": "100",
     "unicode": "💯",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "1234",
     "unicode": "🔢",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "1st_place_medal",
@@ -48,27 +48,27 @@
   {
     "alias": "a",
     "unicode": "🅰️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "ab",
     "unicode": "🆎",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "abc",
     "unicode": "🔤",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "abcd",
     "unicode": "🔡",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "accept",
     "unicode": "🉑",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "aerial_tramway",
@@ -148,7 +148,7 @@
   {
     "alias": "anger",
     "unicode": "💢",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "angola",
@@ -193,7 +193,7 @@
   {
     "alias": "aquarius",
     "unicode": "♒️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "argentina",
@@ -203,7 +203,7 @@
   {
     "alias": "aries",
     "unicode": "♈️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "armenia",
@@ -213,102 +213,102 @@
   {
     "alias": "arrow_backward",
     "unicode": "◀️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_double_down",
     "unicode": "⏬",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_double_up",
     "unicode": "⏫",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_down",
     "unicode": "⬇️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_down_small",
     "unicode": "🔽",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_forward",
     "unicode": "▶️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_heading_down",
     "unicode": "⤵️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_heading_up",
     "unicode": "⤴️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_left",
     "unicode": "⬅️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_lower_left",
     "unicode": "↙️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_lower_right",
     "unicode": "↘️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_right",
     "unicode": "➡️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_right_hook",
     "unicode": "↪️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_up",
     "unicode": "⬆️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_up_down",
     "unicode": "↕️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_up_small",
     "unicode": "🔼",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_upper_left",
     "unicode": "↖️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrow_upper_right",
     "unicode": "↗️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrows_clockwise",
     "unicode": "🔃",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "arrows_counterclockwise",
     "unicode": "🔄",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "art",
@@ -333,7 +333,7 @@
   {
     "alias": "asterisk",
     "unicode": "*️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "astonished",
@@ -358,7 +358,7 @@
   {
     "alias": "atom_symbol",
     "unicode": "⚛️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "australia",
@@ -383,7 +383,7 @@
   {
     "alias": "b",
     "unicode": "🅱️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "baby",
@@ -403,12 +403,12 @@
   {
     "alias": "baby_symbol",
     "unicode": "🚼",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "back",
     "unicode": "🔙",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "bacon",
@@ -423,7 +423,7 @@
   {
     "alias": "baggage_claim",
     "unicode": "🛄",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "baguette_bread",
@@ -458,7 +458,7 @@
   {
     "alias": "ballot_box_with_check",
     "unicode": "☑️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "bamboo",
@@ -473,7 +473,7 @@
   {
     "alias": "bangbang",
     "unicode": "‼️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "bangladesh",
@@ -662,7 +662,7 @@
   {
     "alias": "biohazard",
     "unicode": "☣️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "bird",
@@ -677,7 +677,7 @@
   {
     "alias": "black_circle",
     "unicode": "⚫️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "black_flag",
@@ -687,7 +687,7 @@
   {
     "alias": "black_heart",
     "unicode": "🖤",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "black_joker",
@@ -697,17 +697,17 @@
   {
     "alias": "black_large_square",
     "unicode": "⬛️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "black_medium_small_square",
     "unicode": "◾️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "black_medium_square",
     "unicode": "◼️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "black_nib",
@@ -717,12 +717,12 @@
   {
     "alias": "black_small_square",
     "unicode": "▪️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "black_square_button",
     "unicode": "🔲",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": [
@@ -760,7 +760,7 @@
   {
     "alias": "blue_heart",
     "unicode": "💙",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "blush",
@@ -917,7 +917,7 @@
   {
     "alias": "broken_heart",
     "unicode": "💔",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "brunei",
@@ -1067,7 +1067,7 @@
   {
     "alias": "cancer",
     "unicode": "♋️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "candle",
@@ -1092,12 +1092,12 @@
   {
     "alias": "capital_abcd",
     "unicode": "🔠",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "capricorn",
     "unicode": "♑️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": [
@@ -1180,7 +1180,7 @@
   {
     "alias": "chart",
     "unicode": "💹",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "chart_with_downwards_trend",
@@ -1225,7 +1225,7 @@
   {
     "alias": "children_crossing",
     "unicode": "🚸",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "chile",
@@ -1260,7 +1260,7 @@
   {
     "alias": "cinema",
     "unicode": "🎦",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "circus_tent",
@@ -1285,7 +1285,7 @@
   {
     "alias": "cl",
     "unicode": "🆑",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clamp",
@@ -1320,122 +1320,122 @@
   {
     "alias": "clock1",
     "unicode": "🕐",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock10",
     "unicode": "🕙",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock1030",
     "unicode": "🕥",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock11",
     "unicode": "🕚",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock1130",
     "unicode": "🕦",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock12",
     "unicode": "🕛",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock1230",
     "unicode": "🕧",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock130",
     "unicode": "🕜",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock2",
     "unicode": "🕑",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock230",
     "unicode": "🕝",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock3",
     "unicode": "🕒",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock330",
     "unicode": "🕞",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock4",
     "unicode": "🕓",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock430",
     "unicode": "🕟",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock5",
     "unicode": "🕔",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock530",
     "unicode": "🕠",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock6",
     "unicode": "🕕",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock630",
     "unicode": "🕡",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock7",
     "unicode": "🕖",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock730",
     "unicode": "🕢",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock8",
     "unicode": "🕗",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock830",
     "unicode": "🕣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock9",
     "unicode": "🕘",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "clock930",
     "unicode": "🕤",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "closed_book",
@@ -1485,7 +1485,7 @@
   {
     "alias": "clubs",
     "unicode": "♣️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "cn",
@@ -1570,7 +1570,7 @@
   {
     "alias": "congratulations",
     "unicode": "㊗️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "construction",
@@ -1613,12 +1613,12 @@
   {
     "alias": "cool",
     "unicode": "🆒",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "copyright",
     "unicode": "©️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "corn",
@@ -1781,7 +1781,7 @@
   {
     "alias": "cupid",
     "unicode": "💘",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "curacao",
@@ -1791,12 +1791,12 @@
   {
     "alias": "curly_loop",
     "unicode": "➰",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "currency_exchange",
     "unicode": "💱",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "curry",
@@ -1811,7 +1811,7 @@
   {
     "alias": "customs",
     "unicode": "🛃",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "cyclone",
@@ -1924,12 +1924,12 @@
   {
     "alias": "diamond_shape_with_a_dot_inside",
     "unicode": "💠",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "diamonds",
     "unicode": "♦️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "disappointed",
@@ -1959,7 +1959,7 @@
   {
     "alias": "do_not_litter",
     "unicode": "🚯",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "dog",
@@ -2117,17 +2117,17 @@
   {
     "alias": "eight",
     "unicode": "8️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "eight_pointed_black_star",
     "unicode": "✴️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "eight_spoked_asterisk",
     "unicode": "✳️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "el_salvador",
@@ -2160,7 +2160,7 @@
   {
     "alias": "end",
     "unicode": "🔚",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "envelope_with_arrow",
@@ -2226,7 +2226,7 @@
       "heavy_exclamation_mark"
     ],
     "unicode": "❗️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "expressionless",
@@ -2241,7 +2241,7 @@
   {
     "alias": "eye_speech_bubble",
     "unicode": "👁‍🗨",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "eyeglasses",
@@ -2414,7 +2414,7 @@
   {
     "alias": "fast_forward",
     "unicode": "⏩",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "fax",
@@ -2564,7 +2564,7 @@
   {
     "alias": "five",
     "unicode": "5️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "flags",
@@ -2579,7 +2579,7 @@
   {
     "alias": "fleur_de_lis",
     "unicode": "⚜️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "flight_arrival",
@@ -2644,7 +2644,7 @@
   {
     "alias": "four",
     "unicode": "4️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "four_leaf_clover",
@@ -2669,7 +2669,7 @@
   {
     "alias": "free",
     "unicode": "🆓",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "french_guiana",
@@ -2785,7 +2785,7 @@
   {
     "alias": "gemini",
     "unicode": "♊️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "georgia",
@@ -2890,7 +2890,7 @@
   {
     "alias": "green_heart",
     "unicode": "💚",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "green_salad",
@@ -2910,12 +2910,12 @@
   {
     "alias": "grey_exclamation",
     "unicode": "❕",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "grey_question",
     "unicode": "❔",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "grimacing",
@@ -3060,7 +3060,7 @@
   {
     "alias": "hash",
     "unicode": "#️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "hatched_chick",
@@ -3085,12 +3085,12 @@
   {
     "alias": "heart",
     "unicode": "❤️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "heart_decoration",
     "unicode": "💟",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "heart_eyes",
@@ -3105,52 +3105,52 @@
   {
     "alias": "heartbeat",
     "unicode": "💓",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "heartpulse",
     "unicode": "💗",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "hearts",
     "unicode": "♥️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "heavy_check_mark",
     "unicode": "✔️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "heavy_division_sign",
     "unicode": "➗",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "heavy_dollar_sign",
     "unicode": "💲",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "heavy_heart_exclamation",
     "unicode": "❣️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "heavy_minus_sign",
     "unicode": "➖",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "heavy_multiplication_x",
     "unicode": "✖️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "heavy_plus_sign",
     "unicode": "➕",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "helicopter",
@@ -3238,7 +3238,7 @@
   {
     "alias": "hotsprings",
     "unicode": "♨️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "hourglass",
@@ -3313,12 +3313,12 @@
   {
     "alias": "id",
     "unicode": "🆔",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "ideograph_advantage",
     "unicode": "🉐",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "imp",
@@ -3348,7 +3348,7 @@
   {
     "alias": "information_source",
     "unicode": "ℹ️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "innocent",
@@ -3358,7 +3358,7 @@
   {
     "alias": "interrobang",
     "unicode": "⁉️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "iphone",
@@ -3488,7 +3488,7 @@
   {
     "alias": "keycap_ten",
     "unicode": "🔟",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "kick_scooter",
@@ -3548,7 +3548,7 @@
   {
     "alias": "koko",
     "unicode": "🈁",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "kosovo",
@@ -3591,17 +3591,17 @@
   {
     "alias": "large_blue_circle",
     "unicode": "🔵",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "large_blue_diamond",
     "unicode": "🔷",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "large_orange_diamond",
     "unicode": "🔶",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "last_quarter_moon",
@@ -3616,7 +3616,7 @@
   {
     "alias": "latin_cross",
     "unicode": "✝️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "latvia",
@@ -3649,17 +3649,17 @@
   {
     "alias": "left_luggage",
     "unicode": "🛅",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "left_right_arrow",
     "unicode": "↔️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "leftwards_arrow_with_hook",
     "unicode": "↩️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "lemon",
@@ -3669,7 +3669,7 @@
   {
     "alias": "leo",
     "unicode": "♌️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "leopard",
@@ -3694,7 +3694,7 @@
   {
     "alias": "libra",
     "unicode": "♎️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "libya",
@@ -3714,7 +3714,7 @@
   {
     "alias": "link",
     "unicode": "🔗",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "lion",
@@ -3764,12 +3764,12 @@
   {
     "alias": "loud_sound",
     "unicode": "🔊",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "loudspeaker",
     "unicode": "📢",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "love_hotel",
@@ -3799,7 +3799,7 @@
   {
     "alias": "m",
     "unicode": "Ⓜ️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "macau",
@@ -4118,12 +4118,12 @@
   {
     "alias": "menorah",
     "unicode": "🕎",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "mens",
     "unicode": "🚹",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "metal",
@@ -4133,7 +4133,7 @@
   {
     "alias": "metro",
     "unicode": "🚇",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "mexico",
@@ -4186,7 +4186,7 @@
   {
     "alias": "mobile_phone_off",
     "unicode": "📴",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "moldova",
@@ -4372,7 +4372,7 @@
   {
     "alias": "musical_note",
     "unicode": "🎵",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "musical_score",
@@ -4382,7 +4382,7 @@
   {
     "alias": "mute",
     "unicode": "🔇",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "myanmar",
@@ -4432,7 +4432,7 @@
   {
     "alias": "negative_squared_cross_mark",
     "unicode": "❎",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "nepal",
@@ -4457,7 +4457,7 @@
   {
     "alias": "new",
     "unicode": "🆕",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "new_caledonia",
@@ -4492,12 +4492,12 @@
   {
     "alias": "next_track_button",
     "unicode": "⏭",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "ng",
     "unicode": "🆖",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "nicaragua",
@@ -4522,7 +4522,7 @@
   {
     "alias": "nine",
     "unicode": "9️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "niue",
@@ -4537,17 +4537,17 @@
   {
     "alias": "no_bicycles",
     "unicode": "🚳",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "no_entry",
     "unicode": "⛔️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "no_entry_sign",
     "unicode": "🚫",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": [
@@ -4569,7 +4569,7 @@
   {
     "alias": "no_mobile_phones",
     "unicode": "📵",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "no_mouth",
@@ -4579,17 +4579,17 @@
   {
     "alias": "no_pedestrians",
     "unicode": "🚷",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "no_smoking",
     "unicode": "🚭",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "non-potable_water",
     "unicode": "🚱",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "norfolk_island",
@@ -4629,7 +4629,7 @@
   {
     "alias": "notes",
     "unicode": "🎶",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "nut_and_bolt",
@@ -4639,12 +4639,12 @@
   {
     "alias": "o",
     "unicode": "⭕️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "o2",
     "unicode": "🅾️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "ocean",
@@ -4679,7 +4679,7 @@
   {
     "alias": "ok",
     "unicode": "🆗",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "ok_hand",
@@ -4714,7 +4714,7 @@
   {
     "alias": "om",
     "unicode": "🕉",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "oman",
@@ -4724,7 +4724,7 @@
   {
     "alias": "on",
     "unicode": "🔛",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "oncoming_automobile",
@@ -4749,7 +4749,7 @@
   {
     "alias": "one",
     "unicode": "1️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "open_file_folder",
@@ -4774,7 +4774,7 @@
   {
     "alias": "ophiuchus",
     "unicode": "⛎",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "orange_book",
@@ -4784,7 +4784,7 @@
   {
     "alias": "orthodox_cross",
     "unicode": "☦️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "outbox_tray",
@@ -4889,12 +4889,12 @@
   {
     "alias": "parking",
     "unicode": "🅿️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "part_alternation_mark",
     "unicode": "〽️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "partly_sunny",
@@ -4909,17 +4909,17 @@
   {
     "alias": "passport_control",
     "unicode": "🛂",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "pause_button",
     "unicode": "⏸",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "peace_symbol",
     "unicode": "☮️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "peach",
@@ -5027,7 +5027,7 @@
   {
     "alias": "pisces",
     "unicode": "♓️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "pitcairn_islands",
@@ -5042,7 +5042,7 @@
   {
     "alias": "place_of_worship",
     "unicode": "🛐",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "plate_with_cutlery",
@@ -5052,7 +5052,7 @@
   {
     "alias": "play_or_pause_button",
     "unicode": "⏯",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "point_down",
@@ -5135,7 +5135,7 @@
   {
     "alias": "potable_water",
     "unicode": "🚰",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "potato",
@@ -5193,7 +5193,7 @@
   {
     "alias": "previous_track_button",
     "unicode": "⏮",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "prince",
@@ -5218,7 +5218,7 @@
   {
     "alias": "purple_heart",
     "unicode": "💜",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "purse",
@@ -5233,7 +5233,7 @@
   {
     "alias": "put_litter_in_its_place",
     "unicode": "🚮",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "qatar",
@@ -5243,7 +5243,7 @@
   {
     "alias": "question",
     "unicode": "❓",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "rabbit",
@@ -5273,12 +5273,12 @@
   {
     "alias": "radio_button",
     "unicode": "🔘",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "radioactive",
     "unicode": "☢️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": [
@@ -5374,22 +5374,22 @@
   {
     "alias": "record_button",
     "unicode": "⏺",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "recycle",
     "unicode": "♻️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "red_circle",
     "unicode": "🔴",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "registered",
     "unicode": "®️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "relaxed",
@@ -5409,12 +5409,12 @@
   {
     "alias": "repeat",
     "unicode": "🔁",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "repeat_one",
     "unicode": "🔂",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "rescue_worker_helmet",
@@ -5424,7 +5424,7 @@
   {
     "alias": "restroom",
     "unicode": "🚻",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "reunion",
@@ -5434,12 +5434,12 @@
   {
     "alias": "revolving_hearts",
     "unicode": "💞",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "rewind",
     "unicode": "⏪",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "rhinoceros",
@@ -5474,7 +5474,7 @@
   {
     "alias": "right_anger_bubble",
     "unicode": "🗯",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "ring",
@@ -5586,12 +5586,12 @@
   {
     "alias": "sa",
     "unicode": "🈂️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "sagittarius",
     "unicode": "♐️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "sake",
@@ -5661,7 +5661,7 @@
   {
     "alias": "scorpius",
     "unicode": "♏️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "scream",
@@ -5686,7 +5686,7 @@
   {
     "alias": "secret",
     "unicode": "㊙️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "see_no_evil",
@@ -5716,7 +5716,7 @@
   {
     "alias": "seven",
     "unicode": "7️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "seychelles",
@@ -5820,7 +5820,7 @@
   {
     "alias": "signal_strength",
     "unicode": "📶",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "singapore",
@@ -5835,12 +5835,12 @@
   {
     "alias": "six",
     "unicode": "6️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "six_pointed_star",
     "unicode": "🔯",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "ski",
@@ -5910,22 +5910,22 @@
   {
     "alias": "small_blue_diamond",
     "unicode": "🔹",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "small_orange_diamond",
     "unicode": "🔸",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "small_red_triangle",
     "unicode": "🔺",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "small_red_triangle_down",
     "unicode": "🔻",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "smile",
@@ -6025,17 +6025,17 @@
   {
     "alias": "soon",
     "unicode": "🔜",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "sos",
     "unicode": "🆘",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "sound",
     "unicode": "🔉",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "south_africa",
@@ -6060,7 +6060,7 @@
   {
     "alias": "spades",
     "unicode": "♠️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "spaghetti",
@@ -6070,7 +6070,7 @@
   {
     "alias": "sparkle",
     "unicode": "❇️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "sparkler",
@@ -6095,7 +6095,7 @@
   {
     "alias": "speaker",
     "unicode": "🔈",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "speaking_head",
@@ -6105,7 +6105,7 @@
   {
     "alias": "speech_balloon",
     "unicode": "💬",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "speedboat",
@@ -6195,12 +6195,12 @@
   {
     "alias": "star_and_crescent",
     "unicode": "☪️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "star_of_david",
     "unicode": "✡️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "stars",
@@ -6230,12 +6230,12 @@
   {
     "alias": "stop_button",
     "unicode": "⏹",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "stop_sign",
     "unicode": "🛑",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "stopwatch",
@@ -6411,7 +6411,7 @@
   {
     "alias": "symbols",
     "unicode": "🔣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "synagogue",
@@ -6470,7 +6470,7 @@
   {
     "alias": "taurus",
     "unicode": "♉️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "taxi",
@@ -6520,12 +6520,12 @@
   {
     "alias": "thought_balloon",
     "unicode": "💭",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "three",
     "unicode": "3️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "ticket",
@@ -6582,7 +6582,7 @@
   {
     "alias": "tm",
     "unicode": "™️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "togo",
@@ -6622,7 +6622,7 @@
   {
     "alias": "top",
     "unicode": "🔝",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "tophat",
@@ -6682,7 +6682,7 @@
   {
     "alias": "trident",
     "unicode": "🔱",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "trinidad_tobago",
@@ -6777,17 +6777,17 @@
   {
     "alias": "twisted_rightwards_arrows",
     "unicode": "🔀",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "two",
     "unicode": "2️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "two_hearts",
     "unicode": "💕",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "two_men_holding_hands",
@@ -6802,57 +6802,57 @@
   {
     "alias": "u5272",
     "unicode": "🈹",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "u5408",
     "unicode": "🈴",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "u55b6",
     "unicode": "🈺",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "u6307",
     "unicode": "🈯️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "u6708",
     "unicode": "🈷️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "u6709",
     "unicode": "🈶",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "u6e80",
     "unicode": "🈵",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "u7121",
     "unicode": "🈚️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "u7533",
     "unicode": "🈸",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "u7981",
     "unicode": "🈲",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "u7a7a",
     "unicode": "🈳",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "uganda",
@@ -6877,7 +6877,7 @@
   {
     "alias": "underage",
     "unicode": "🔞",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "unicorn",
@@ -6897,7 +6897,7 @@
   {
     "alias": "up",
     "unicode": "🆙",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "upside_down_face",
@@ -6957,7 +6957,7 @@
   {
     "alias": "vibration_mode",
     "unicode": "📳",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "video_camera",
@@ -6982,7 +6982,7 @@
   {
     "alias": "virgo",
     "unicode": "♍️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "volcano",
@@ -6997,7 +6997,7 @@
   {
     "alias": "vs",
     "unicode": "🆚",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "vulcan_salute",
@@ -7035,7 +7035,7 @@
   {
     "alias": "warning",
     "unicode": "⚠️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "wastebasket",
@@ -7065,7 +7065,7 @@
   {
     "alias": "wavy_dash",
     "unicode": "〰️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "waxing_crescent_moon",
@@ -7075,7 +7075,7 @@
   {
     "alias": "wc",
     "unicode": "🚾",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "weary",
@@ -7115,22 +7115,22 @@
   {
     "alias": "wheel_of_dharma",
     "unicode": "☸️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "wheelchair",
     "unicode": "♿️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "white_check_mark",
     "unicode": "✅",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "white_circle",
     "unicode": "⚪️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "white_flag",
@@ -7140,32 +7140,32 @@
   {
     "alias": "white_flower",
     "unicode": "💮",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "white_large_square",
     "unicode": "⬜️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "white_medium_small_square",
     "unicode": "◽️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "white_medium_square",
     "unicode": "◻️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "white_small_square",
     "unicode": "▫️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "white_square_button",
     "unicode": "🔳",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "wilted_flower",
@@ -7335,7 +7335,7 @@
   {
     "alias": "womens",
     "unicode": "🚺",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "world_map",
@@ -7360,12 +7360,12 @@
   {
     "alias": "x",
     "unicode": "❌",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "yellow_heart",
     "unicode": "💛",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "yemen",
@@ -7380,7 +7380,7 @@
   {
     "alias": "yin_yang",
     "unicode": "☯️",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "yum",
@@ -7400,7 +7400,7 @@
   {
     "alias": "zero",
     "unicode": "0️⃣",
-    "category": "Symbols"
+    "category": "Symbol"
   },
   {
     "alias": "zimbabwe",
@@ -7415,6 +7415,6 @@
   {
     "alias": "zzz",
     "unicode": "💤",
-    "category": "Symbols"
+    "category": "Symbol"
   }
 ]
