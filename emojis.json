@@ -143,7 +143,7 @@
   {
     "alias": "angel",
     "unicode": "👼",
-    "category": "Smiley"
+    "category": "Person"
   },
   {
     "alias": "anger",
@@ -2800,7 +2800,7 @@
   {
     "alias": "ghost",
     "unicode": "👻",
-    "category": "Smiley"
+    "category": "Person"
   },
   {
     "alias": "gibraltar",
@@ -3055,7 +3055,7 @@
       "shit"
     ],
     "unicode": "💩",
-    "category": "Smiley"
+    "category": "Person"
   },
   {
     "alias": "hash",
@@ -3398,7 +3398,7 @@
   {
     "alias": "jack_o_lantern",
     "unicode": "🎃",
-    "category": "Smiley"
+    "category": "Person"
   },
   {
     "alias": "jamaica",
@@ -3418,12 +3418,12 @@
   {
     "alias": "japanese_goblin",
     "unicode": "👺",
-    "category": "Smiley"
+    "category": "Person"
   },
   {
     "alias": "japanese_ogre",
     "unicode": "👹",
-    "category": "Smiley"
+    "category": "Person"
   },
   {
     "alias": "jeans",
@@ -5855,12 +5855,12 @@
   {
     "alias": "skull",
     "unicode": "💀",
-    "category": "Smiley"
+    "category": "Person"
   },
   {
     "alias": "skull_and_crossbones",
     "unicode": "☠️",
-    "category": "Smiley"
+    "category": "Person"
   },
   {
     "alias": "sleeping",
