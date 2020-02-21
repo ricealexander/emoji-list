@@ -25,6 +25,26 @@ EMOJI-LIST
 **compare** - compare emojis list against the contents of _/compare-emojis.json_ and outputs the results to _/dist/missing-emojis.json_ and to the console.
 
 
+### Adding an Emoji
+Emojis can be added to emojis.json. Each emoji is represented by an object as such:
+
+```json
+  {
+    "alias": "handshake",
+    "unicode": "🤝",
+    "category": "Gesture"
+  },
+```
+
+`alias` accepts a string value or array of string values, representing names that can be used to create the emoji.
+
+`unicode` is the raw emoji character. This is used for sorting the emojis.
+
+`category` represents a grouping to assign to the emoji. Presently, available groupings can be found in categories.json.
+
+Once you've added emojis, run `npm run alphabetize` to sort the emojis.json file and `npm run build` to generate the new emoji-list. If it builds without errors, create a PR.
+
+
 ### Thank You!
 
 This project was adapted from rxavier’s _[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)_, and categorization was partly inspired from [JoyPixels 5](https://www.joypixels.com/emoji)
