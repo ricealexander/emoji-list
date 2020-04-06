@@ -1,4 +1,5 @@
-const _writeFile = require('../tasks/helpers/writeFile')
+const _writeFile = require('./helpers/writeFile')
+const formatJSON = require('./helpers/formatJSON')
 const emojisJSON = require('../emojis.json')
 
 const sortByEmojiAlias = ({ alias: aliasesA }, { alias: aliasesB }) => {
@@ -16,7 +17,6 @@ module.exports = grunt => {
   // Alphabetize emojis.json
   grunt.registerTask('alphabetize', 'Re-alphabetize emojis.json', () => {
     const sortedList = emojisJSON.sort(sortByEmojiAlias)
-    const JSONContent = JSON.stringify(sortedList, null, 2)
-    writeFile('emojis.json', `${JSONContent}\n`)
+    writeFile('emojis.json', `${formatJSON(sortedList)}\n`)
   })
 }

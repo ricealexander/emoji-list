@@ -2,9 +2,10 @@ const axios      = require('axios')
 const difference = require('lodash/difference')
 
 const _writeFile = require('./helpers/writeFile')
+const formatJSON = require('./helpers/formatJSON')
 const listEmojiAliases = require('./helpers/listEmojiAliases')
-const emojisJSON = require('../emojis.json')
 
+const emojisJSON = require('../emojis.json')
 
 module.exports = grunt => {
   const writeFile = _writeFile(grunt)
@@ -17,9 +18,7 @@ module.exports = grunt => {
     const emojis = listEmojiAliases(emojisJSON)
 
     const missingEmojis = difference(apiEmojis, emojis)
-
-    const JSONContent = JSON.stringify(missingEmojis, null, 2)
-    const success = writeFile('dist/missing-emojis.json', `${JSONContent}\n`)
+    const success = writeFile('dist/missing-emojis.json', `${formatJSON(missingEmojis)}\n`)
 
     if (success) console.info(
       (missingEmojis.length === 0)
