@@ -10,7 +10,7 @@ const emojisJSON    = require('../emojis.json')
 module.exports = grunt => {
   const writeFile = _writeFile(grunt)
 
-  grunt.registerTask('compare', 'Compare emojis against a list of potentially-missed emoji', function () {
+  grunt.registerTask('compare', 'Compare against compare-emojis.json', function () {
     const emojis = listEmojiAliases(emojisJSON)
     const missingEmojis = difference(compareEmojis, emojis)
 
@@ -24,3 +24,7 @@ module.exports = grunt => {
     }
   })
 }
+
+// compare-emojis.json
+// should be formatted as an array of emoji aliases:
+// ["planet", "mermaid", "wizard"]

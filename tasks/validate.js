@@ -4,7 +4,7 @@ const categories = require('../categories.json')
 const emojisJSON = require('../emojis.json')
 
 module.exports = grunt => {
-  grunt.registerTask('validate', 'Compare against GitHub’s Emoji API', () => {
+  grunt.registerTask('validate', 'Check emojis.json for Errors', () => {
     // compare subcategories from categories.json against categories
     // in use by emojis.json
     console.info('Validating categories')

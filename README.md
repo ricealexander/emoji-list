@@ -8,17 +8,26 @@ A Comprehensive List of GitHub emoji markup.
 EMOJI-LIST
 ├── dist
 │   ├── emoji-list.md         · Emojis List Markdown (for GitHub Gist)
-│   └── missing-emojis.json   · Results from comparing emojis.json to another list
-├── src/                      · JS files used to transform emojis.json into emoji-list.md
-├── compare-emojis.json       · An array of emoji names to compare against
+│   └── missing-emojis.json   · Results from comparing emojis.json to another source
+│
+├── tasks/                    · Grunt tasks which run the NPM Scripts
+│   ├── helpers/              · Supporting files for Grunt tasks
+│   ├── alphabetize.js        · npm run alphabetize
+│   ├── build.js              · npm run build
+│   ├── check-api.js          · npm run check-api
+│   ├── compare.js            · npm run compare
+│   └── validate.js           · npm run validate
+│
+├── categories.json           · An array of category objects for sorting emojis
+├── compare-emojis.json       · An array of emoji names to compare against emojis.json
 ├── emojis.json               · An array of emoji objects
-├── gruntfile.js              · Grunt tasks for Emoji List
-└── main.js                   · Entry point
+│
+└── gruntfile.js              · Grunt tasks for Emoji List
 ```
 
 
 ### NPM Scripts
-**alphabetize** - sorts _/emojis.json_. Run this after making updates to the file.
+**alphabetize**: sorts _/emojis.json_. Run this after making updates to the file.
 
 **build** - builds _/emojis.json_ into a sorted markdown table: _dist/emoji-list.md_. It also compares the emoji list against [GitHub Emojis API](https://api.github.com/emojis) and outputs the results to _/dist/missing-emojis.json_.
 

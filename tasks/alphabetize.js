@@ -16,7 +16,7 @@ module.exports = grunt => {
   const writeFile = _writeFile(grunt)
 
   // Alphabetize emojis.json
-  grunt.registerTask('alphabetize', 'Re-alphabetize emojis.json', () => {
+  grunt.registerTask('alphabetize', 'Alphabetize and Format emojis.json document', () => {
     const sortedList = emojisJSON.sort(sortByEmojiAlias)
     writeFile('emojis.json', `${formatJSON(sortedList)}\n`)
   })

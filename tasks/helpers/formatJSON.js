@@ -1,4 +1,4 @@
-// Wrapper for JSON.stringify with formatting options
-const JSONContent = object => JSON.stringify(object, null, 2)
+// A wrapper for JSON.stringify with preferred settings
+const formatJSON = object => JSON.stringify(object, null, 2)
 
-module.exports = JSONContent
+module.exports = formatJSON

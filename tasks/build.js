@@ -73,7 +73,7 @@ ${markdownTables}`
 module.exports = grunt => {
   const writeFile = _writeFile(grunt)
 
-  grunt.registerTask('build', 'Write Emoji List Markdown file', () => {
+  grunt.registerTask('build', 'Generate Emoji List Markdown File', () => {
     const markdown = formatEmojisAsMarkdown(emojisJSON)
     writeFile('dist/emoji-list.md', markdown)
   })
