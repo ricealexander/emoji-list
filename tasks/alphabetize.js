@@ -1,5 +1,6 @@
 const _writeFile = require('./helpers/writeFile')
 const formatJSON = require('./helpers/formatJSON')
+
 const emojisJSON = require('../emojis.json')
 
 const sortByEmojiAlias = ({ alias: aliasesA }, { alias: aliasesB }) => {

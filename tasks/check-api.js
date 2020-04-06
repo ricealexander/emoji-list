@@ -1,4 +1,4 @@
-const axios      = require('axios')
+const axios = require('axios')
 const difference = require('lodash/difference')
 
 const _writeFile = require('./helpers/writeFile')
@@ -20,11 +20,12 @@ module.exports = grunt => {
     const missingEmojis = difference(apiEmojis, emojis)
     const success = writeFile('dist/missing-emojis.json', `${formatJSON(missingEmojis)}\n`)
 
-    if (success) console.info(
-      (missingEmojis.length === 0)
+    if (success) {
+      console.info((missingEmojis.length === 0)
         ? 'Up to date with the GitHub Emojis API'
         : `Missing ${missingEmojis.length} emoji from the GitHub Emojis API`,
-    )
+      )
+    }
     done()
   })
 }

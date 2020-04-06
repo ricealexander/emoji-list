@@ -1,4 +1,5 @@
 const difference = require('lodash/difference')
+
 const categories = require('../categories.json')
 const emojisJSON = require('../emojis.json')
 
@@ -7,7 +8,6 @@ module.exports = grunt => {
     // compare subcategories from categories.json against categories
     // in use by emojis.json
     console.info('Validating categories')
-
     const subcategories = categories.reduce((list, {groups}) => [...list, ...groups], [])
 
     const subcategoriesInUse = emojisJSON.reduce((list, {category}) => {

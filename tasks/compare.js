@@ -16,9 +16,11 @@ module.exports = grunt => {
 
     const success = writeFile('dist/missing-emojis.json', `${formatJSON(missingEmojis)}\n`)
 
-    if (success) console.info((missingEmojis.length === 0)
-      ? 'No missing emoji'
-      : `Missing ${missingEmojis.length} emoji`,
-    )
+    if (success) {
+      console.info((missingEmojis.length === 0)
+        ? 'No missing emoji'
+        : `Missing ${missingEmojis.length} emoji`,
+      )
+    }
   })
 }
