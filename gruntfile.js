@@ -5,5 +5,5 @@ module.exports = grunt => {
     grunt.file.delete('./dist')
   })
 
-  grunt.registerTask('default', ['clean', 'build', 'check-api'])
+  grunt.registerTask('default', ['validate', 'clean', 'build', 'check-api'])
 }

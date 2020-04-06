@@ -11,7 +11,8 @@
     "alphabetize": "npx grunt alphabetize",
     "build": "npx grunt",
     "check-api": "npx grunt check-api",
-    "compare": "npx grunt compare"
+    "compare": "npx grunt compare",
+    "validate": "npx grunt validate"
   },
   "repository": {
     "type": "git",

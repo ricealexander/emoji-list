@@ -1,5 +1,3 @@
-const difference          = require('lodash/difference')
-
 const categories          = require('./categories.json')
 
 const formatMarkdownTable = require('./src/formatAsMarkdownTable')
@@ -14,34 +12,12 @@ const expandAliases = emojis => emojis.reduce((list, emoji) => {
   return list
 }, [])
 
-const validateEmojis = emojis => {
-  // compare subcategories from categories.json against categories
-  // in use by emojis.json
-  const subcategories = categories.reduce((list, {groups}) => [...list, ...groups], [])
-
-  const subcategoriesInUse = emojis.reduce((list, emoji) => {
-    if (!list.includes(emoji.category)) return [...list, emoji.category]
-    return list
-  }, [])
-
-  const invalidCategories = difference(subcategoriesInUse, subcategories)
-
-  if (invalidCategories.length > 0) {
-    throw new ReferenceError((invalidCategories.length === 1)
-      ? `Invalid Category ${invalidCategories[0]}.`
-      : `Invalid Categories ${invalidCategories.join(', ')}.`,
-    )
-  }
-}
-
-
 const tableOfContents = categories
   .map(({header}) => `[${header}](#${toSlug(header)})\n`)
   .join('<br>')
 
 function buildMarkdown (_emojis) {
   const emojis = expandAliases(_emojis)
-  validateEmojis(emojis)
 
   // build out each section
   const markdownTables = categories
