@@ -3,8 +3,8 @@
 module.exports = grunt => (file, content) => {
   const success = grunt.file.write(file, content)
   console.info(success
-    ? `successfully wrote ${file}`
-    : `could not write ${file}`)
+    ? `Successfully wrote ${file}`
+    : `Could not write ${file}`)
 
   return success
 }

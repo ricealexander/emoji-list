@@ -20,11 +20,11 @@ module.exports = grunt => {
 
     if (unregisteredCategories.length > 0) {
       throw new ReferenceError((unregisteredCategories.length === 1)
-        ? `Category ${unregisteredCategories[0]} does not exist in categories.json.`
-        : `Categories ${unregisteredCategories.join(', ')} do not exist in categories.json.`,
+        ? `Category ${unregisteredCategories[0]} does not exist in categories.json`
+        : `Categories ${unregisteredCategories.join(', ')} do not exist in categories.json`,
       )
     }
-    console.info('All categories used in emojis.json match listed categories.')
+    console.info('All categories used in emojis.json match listed categories')
 
 
     // All categories listed in categories.json must be used by emojis.json
@@ -32,10 +32,10 @@ module.exports = grunt => {
 
     if (unusedCategories.length > 0) {
       throw new Error((unregisteredCategories.length === 1)
-        ? `Category ${unregisteredCategories[0]} is not referenced by emojis.json.`
-        : `Categories ${unregisteredCategories.join(', ')} are not referenced by emojis.json.`,
+        ? `Category ${unregisteredCategories[0]} is not referenced by emojis.json`
+        : `Categories ${unregisteredCategories.join(', ')} are not referenced by emojis.json`,
       )
     }
-    console.info('All categories listed in categories.json are referenced.')
+    console.info('All categories listed in categories.json are referenced')
   })
 }
