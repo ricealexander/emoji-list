@@ -27,11 +27,25 @@ EMOJI-LIST
 
 
 ### NPM Scripts
-**alphabetize**: sorts _/emojis.json_. Run this after making updates to the file.
 
-**build** - builds _/emojis.json_ into a sorted markdown table: _dist/emoji-list.md_. It also compares the emoji list against [GitHub Emojis API](https://api.github.com/emojis) and outputs the results to _/dist/missing-emojis.json_.
+**alphabetize**
+<br>Alphabetize and Format _emojis.json_ document
+<br>Run this after making changes to _emojis.json_.
 
-**compare** - compare emojis list against the contents of _/compare-emojis.json_ and outputs the results to _/dist/missing-emojis.json_ and to the console.
+**build**
+<br>Generate Emoji List Markdown File
+<br>Builds _emojis.json_ into _emoji-list.md_. Emojis are sorted by category, then by unicode value, then by name.
+
+**check-api**
+<br>Compare against [GitHub’s Emojis API](https://api.github.com/emojis).
+<br>Results of the comparison are outputted to _missing-emojis.json_.
+
+**compare**
+<br>Compare against compare-emojis.json
+<br>Populate compare-emojis.json with an array of emoji names and run `compare` to compare this list against emojis.json
+
+**validate**
+<br>Check emojis.json for Errors
 
 
 ### Adding an Emoji
@@ -56,13 +70,15 @@ Once you've added emojis, run `npm run alphabetize` to sort the emojis.json file
 
 ### Thank You!
 
-This project was adapted from rxavier’s _[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)_, and categorization was partly inspired from [JoyPixels 5](https://www.joypixels.com/emoji)
+This project was adapted from rxavier’s _[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)_ and categorization was inspired from [JoyPixels 5](https://www.joypixels.com/emoji)
 
-Contributions breakdown:
+Other Emoji Lists:
 
-* **865** original emojis came from [rxavier’s list](https://gist.github.com/rxaviers/7360908)
-* **46** emojis came from user comments on rxavier’s list
-* **237** emojis came from [ikatyang’s emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/)
-* **337** emojis came from [GitHub Emojis API](https://api.github.com/emojis)
-
-Additional note-worthy lists include [WebFX’s Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+* [GitHub Emojis API](https://api.github.com/emojis) (OFFICIAL, GitHub Emojis API)
+* [Awes0mem4n List](https://awes0mem4n.github.io/emojis-github.html) (GitHub Emojis API)
+* [Code-Notes Cheatsheet](https://github.com/swharden/code-notes/blob/master/Csharp/emoji.md)
+* [Dellos7 List](https://github-emoji-list.herokuapp.com/) (copy/paste, GitHub Emojis API)
+* [Ikatyang Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) (GitHub Emojis API, automatic-updates)
+* [RXavier List](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+* [WebFX’s Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/) (copy/paste)
+* [Jzeferino List](https://jzeferino.github.io/AllGithubEmojis/) (copy/paste, GitHub Emojis API, automatic-updates)
