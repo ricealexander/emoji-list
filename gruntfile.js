@@ -4,22 +4,16 @@ const difference = require('lodash/difference')
 const formatEmojisAsMarkdown = require('./main')
 const listEmojiAliases  = require('./src/listEmojiAliases')
 const sortEmojisByAlias = require('./src/sortEmojisByAlias')
+const _writeFile = require('./tasks/helpers/writeFile')
 
 const emojisJSON    = require('./emojis.json')
 const compareEmojis = require('./compare-emojis.json')
 
 
 module.exports = grunt => {
+  const writeFile = _writeFile(grunt)
+
   grunt.loadTasks('./tasks')
-
-  function writeFile (file, content) {
-    const success = grunt.file.write(file, content)
-    console.info(success
-      ? `successfully wrote ${file}`
-      : `could not write ${file}`)
-
-    return success
-  }
 
   // Remove the dist directory
   grunt.registerTask('clean', 'Remove the dist directory', () => {
