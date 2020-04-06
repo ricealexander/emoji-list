@@ -1,5 +1,20 @@
-const parseKeyTrail = require('./parseKeyTrail')
-const parseMultipleArguments = require('./parseMultipleArguments')
+const followTrail = (level, key) => (level === undefined) ? level : level[key]
+
+function parseKeyTrail (object, string) {
+  if (
+    !object || typeof object !== 'object' ||
+    !string || typeof string !== 'string'
+  ) return undefined
+
+  return string
+    .split('.')
+    .reduce(followTrail, object)
+}
+
+function parseMultipleArguments (args) {
+  const isSingleArray = (args.length === 1 && Array.isArray(args[0]))
+  return isSingleArray ? args[0] : args
+}
 
 // simpleSort()
 // accepts objects and a key

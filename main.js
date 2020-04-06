@@ -5,7 +5,7 @@ const categories          = require('./categories.json')
 const toArray             = require('./tasks/helpers/toArray')
 const toSlug              = require('./src/helpers/toSlug')
 
-const by          = require('./src/helpers/sortBy')
+const by          = require('./tasks/helpers/sortBy')
 
 const categoryGroups = categories.map(({groups}) => groups).flat()
 
