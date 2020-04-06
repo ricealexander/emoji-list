@@ -3,11 +3,12 @@ const chunk       = require('lodash/chunk')
 const categories          = require('./categories.json')
 
 const toArray             = require('./tasks/helpers/toArray')
-const toSlug              = require('./src/helpers/toSlug')
 
 const by          = require('./tasks/helpers/sortBy')
 
 const categoryGroups = categories.map(({groups}) => groups).flat()
+
+const toSlug = string => string.toLowerCase().replace(/\s+/g, '-')
 
 const categorySort = ({category: categoryA}, {category: categoryB}) => {
   const indexA = categoryGroups.indexOf(categoryA)
