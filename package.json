@@ -6,7 +6,7 @@
     "Github",
     "emoji"
   ],
-  "main": "main.js",
+  "main": "gruntfile.js",
   "scripts": {
     "alphabetize": "npx grunt alphabetize",
     "build": "npx grunt",
