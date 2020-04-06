@@ -1,5 +1,5 @@
 const difference = require('lodash/difference')
-const listEmojiAliases = require('../src/listEmojiAliases')
+const listEmojiAliases = require('./helpers/listEmojiAliases')
 const _writeFile = require('./helpers/writeFile')
 const compareEmojis = require('../compare-emojis.json')
 const emojisJSON    = require('../emojis.json')

@@ -2,7 +2,7 @@ const axios      = require('axios')
 const difference = require('lodash/difference')
 
 const _writeFile = require('./helpers/writeFile')
-const listEmojiAliases = require('../src/listEmojiAliases')
+const listEmojiAliases = require('./helpers/listEmojiAliases')
 const emojisJSON = require('../emojis.json')
 
 
