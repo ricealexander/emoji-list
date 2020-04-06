@@ -7,7 +7,7 @@ const toArray             = require('./src/helpers/toArray')
 const toSlug              = require('./src/helpers/toSlug')
 
 // emojis may have multiple aliases
-// split these aliases into individual emoji
+// split these aliases into individual emoji objects
 const expandAliases = emojis => emojis.reduce((list, emoji) => {
   const aliases = toArray(emoji.alias)
   aliases.forEach(alias => list.push({ ...emoji, alias}))
@@ -15,29 +15,29 @@ const expandAliases = emojis => emojis.reduce((list, emoji) => {
 }, [])
 
 const validateEmojis = emojis => {
-  const categoryGroups = categories.reduce((list, {groups}) => [...list, ...groups], [])
+  // compare subcategories from categories.json against categories
+  // in use by emojis.json
+  const subcategories = categories.reduce((list, {groups}) => [...list, ...groups], [])
 
-  const uniqueGroups = emojis.reduce((list, emoji) => {
-    if (!list.includes(emoji.category)) list.push(emoji.category)
+  const subcategoriesInUse = emojis.reduce((list, emoji) => {
+    if (!list.includes(emoji.category)) return [...list, emoji.category]
     return list
   }, [])
 
-  // all categories used by emoji must correspond
-  const invalidGroups = difference(uniqueGroups, categoryGroups)
-  if (invalidGroups.length > 0) {
-    throw new ReferenceError((invalidGroups.length === 1)
-      ? `Invalid Category ${invalidGroups[0]}`
-      : `Invalid Categories ${invalidGroups.join(', ')}`,
+  const invalidCategories = difference(subcategoriesInUse, subcategories)
+
+  if (invalidCategories.length > 0) {
+    throw new ReferenceError((invalidCategories.length === 1)
+      ? `Invalid Category ${invalidCategories[0]}.`
+      : `Invalid Categories ${invalidCategories.join(', ')}.`,
     )
   }
-
-  return true
 }
+
 
 const tableOfContents = categories
   .map(({header}) => `[${header}](#${toSlug(header)})\n`)
   .join('<br>')
-
 
 function buildMarkdown (_emojis) {
   const emojis = expandAliases(_emojis)
