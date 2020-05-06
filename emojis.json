@@ -725,14 +725,6 @@
     "category": "Symbol"
   },
   {
-    "alias": [
-      "blonde_man",
-      "person_with_blond_hair"
-    ],
-    "unicode": "👱",
-    "category": "Person"
-  },
-  {
     "alias": "blonde_woman",
     "unicode": "👱‍♀",
     "category": "Person"
@@ -2722,10 +2714,7 @@
     "category": "Person"
   },
   {
-    "alias": [
-      "frowning_woman",
-      "person_frowning"
-    ],
+    "alias": "frowning_woman",
     "unicode": "🙍",
     "category": "Person"
   },
@@ -5168,10 +5157,7 @@
     "category": "Person"
   },
   {
-    "alias": [
-      "pouting_woman",
-      "person_with_pouting_face"
-    ],
+    "alias": "pouting_woman",
     "unicode": "🙎",
     "category": "Person"
   },
@@ -5767,14 +5753,6 @@
     "alias": "ship",
     "unicode": "🚢",
     "category": "Travel"
-  },
-  {
-    "alias": [
-      "shipit",
-      "squirrel"
-    ],
-    "unicode": false,
-    "category": "Custom"
   },
   {
     "alias": [

@@ -88,35 +88,34 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :couple: `:couple:` | :two_men_holding_hands: `:two_men_holding_hands:` | :two_women_holding_hands: `:two_women_holding_hands:` |
 | :cop: `:cop:` | :policeman: `:policeman:` | :policewoman: `:policewoman:` |
 | :dancers: `:dancers:` | :dancing_women: `:dancing_women:` | :dancing_men: `:dancing_men:` |
-| :bride_with_veil: `:bride_with_veil:` | :blonde_man: `:blonde_man:` | :person_with_blond_hair: `:person_with_blond_hair:` |
-| :blonde_woman: `:blonde_woman:` | :man_with_gua_pi_mao: `:man_with_gua_pi_mao:` | :man_with_turban: `:man_with_turban:` |
-| :woman_with_turban: `:woman_with_turban:` | :older_man: `:older_man:` | :older_woman: `:older_woman:` |
-| :baby: `:baby:` | :construction_worker: `:construction_worker:` | :construction_worker_man: `:construction_worker_man:` |
-| :construction_worker_woman: `:construction_worker_woman:` | :princess: `:princess:` | :japanese_ogre: `:japanese_ogre:` |
-| :japanese_goblin: `:japanese_goblin:` | :ghost: `:ghost:` | :angel: `:angel:` |
-| :alien: `:alien:` | :skull: `:skull:` | :information_desk_person: `:information_desk_person:` |
-| :sassy_woman: `:sassy_woman:` | :tipping_hand_woman: `:tipping_hand_woman:` | :sassy_man: `:sassy_man:` |
-| :tipping_hand_man: `:tipping_hand_man:` | :guardsman: `:guardsman:` | :guardswoman: `:guardswoman:` |
-| :dancer: `:dancer:` | :nail_care: `:nail_care:` | :massage: `:massage:` |
-| :massage_woman: `:massage_woman:` | :massage_man: `:massage_man:` | :haircut: `:haircut:` |
-| :haircut_woman: `:haircut_woman:` | :haircut_man: `:haircut_man:` | :kiss: `:kiss:` |
-| :couplekiss_man_woman: `:couplekiss_man_woman:` | :couple_with_heart: `:couple_with_heart:` | :couple_with_heart_woman_man: `:couple_with_heart_woman_man:` |
-| :hankey: `:hankey:` | :poop: `:poop:` | :shit: `:shit:` |
-| :muscle: `:muscle:` | :detective: `:detective:` | :male_detective: `:male_detective:` |
-| :female_detective: `:female_detective:` | :man_dancing: `:man_dancing:` | :speaking_head: `:speaking_head:` |
-| :mask: `:mask:` | :ng_woman: `:ng_woman:` | :no_good: `:no_good:` |
-| :no_good_woman: `:no_good_woman:` | :ng_man: `:ng_man:` | :no_good_man: `:no_good_man:` |
-| :ok_woman: `:ok_woman:` | :ok_man: `:ok_man:` | :bow: `:bow:` |
-| :bowing_man: `:bowing_man:` | :bowing_woman: `:bowing_woman:` | :raising_hand: `:raising_hand:` |
-| :raising_hand_woman: `:raising_hand_woman:` | :raising_hand_man: `:raising_hand_man:` | :frowning_woman: `:frowning_woman:` |
-| :person_frowning: `:person_frowning:` | :frowning_man: `:frowning_man:` | :person_with_pouting_face: `:person_with_pouting_face:` |
-| :pouting_woman: `:pouting_woman:` | :pouting_man: `:pouting_man:` | :walking: `:walking:` |
-| :walking_man: `:walking_man:` | :walking_woman: `:walking_woman:` | :cowboy_hat_face: `:cowboy_hat_face:` |
-| :woman_facepalming: `:woman_facepalming:` | :man_facepalming: `:man_facepalming:` | :pregnant_woman: `:pregnant_woman:` |
-| :selfie: `:selfie:` | :prince: `:prince:` | :man_in_tuxedo: `:man_in_tuxedo:` |
-| :mrs_claus: `:mrs_claus:` | :woman_shrugging: `:woman_shrugging:` | :man_shrugging: `:man_shrugging:` |
-| :rescue_worker_helmet: `:rescue_worker_helmet:` | :womans_hat: `:womans_hat:` | :bikini: `:bikini:` |
-| :womans_clothes: `:womans_clothes:` | :athletic_shoe: `:athletic_shoe:` |  |
+| :bride_with_veil: `:bride_with_veil:` | :blonde_woman: `:blonde_woman:` | :man_with_gua_pi_mao: `:man_with_gua_pi_mao:` |
+| :man_with_turban: `:man_with_turban:` | :woman_with_turban: `:woman_with_turban:` | :older_man: `:older_man:` |
+| :older_woman: `:older_woman:` | :baby: `:baby:` | :construction_worker: `:construction_worker:` |
+| :construction_worker_man: `:construction_worker_man:` | :construction_worker_woman: `:construction_worker_woman:` | :princess: `:princess:` |
+| :japanese_ogre: `:japanese_ogre:` | :japanese_goblin: `:japanese_goblin:` | :ghost: `:ghost:` |
+| :angel: `:angel:` | :alien: `:alien:` | :skull: `:skull:` |
+| :information_desk_person: `:information_desk_person:` | :sassy_woman: `:sassy_woman:` | :tipping_hand_woman: `:tipping_hand_woman:` |
+| :sassy_man: `:sassy_man:` | :tipping_hand_man: `:tipping_hand_man:` | :guardsman: `:guardsman:` |
+| :guardswoman: `:guardswoman:` | :dancer: `:dancer:` | :nail_care: `:nail_care:` |
+| :massage: `:massage:` | :massage_woman: `:massage_woman:` | :massage_man: `:massage_man:` |
+| :haircut: `:haircut:` | :haircut_woman: `:haircut_woman:` | :haircut_man: `:haircut_man:` |
+| :kiss: `:kiss:` | :couplekiss_man_woman: `:couplekiss_man_woman:` | :couple_with_heart: `:couple_with_heart:` |
+| :couple_with_heart_woman_man: `:couple_with_heart_woman_man:` | :hankey: `:hankey:` | :poop: `:poop:` |
+| :shit: `:shit:` | :muscle: `:muscle:` | :detective: `:detective:` |
+| :male_detective: `:male_detective:` | :female_detective: `:female_detective:` | :man_dancing: `:man_dancing:` |
+| :speaking_head: `:speaking_head:` | :mask: `:mask:` | :ng_woman: `:ng_woman:` |
+| :no_good: `:no_good:` | :no_good_woman: `:no_good_woman:` | :ng_man: `:ng_man:` |
+| :no_good_man: `:no_good_man:` | :ok_woman: `:ok_woman:` | :ok_man: `:ok_man:` |
+| :bow: `:bow:` | :bowing_man: `:bowing_man:` | :bowing_woman: `:bowing_woman:` |
+| :raising_hand: `:raising_hand:` | :raising_hand_woman: `:raising_hand_woman:` | :raising_hand_man: `:raising_hand_man:` |
+| :frowning_woman: `:frowning_woman:` | :frowning_man: `:frowning_man:` | :pouting_woman: `:pouting_woman:` |
+| :pouting_man: `:pouting_man:` | :walking: `:walking:` | :walking_man: `:walking_man:` |
+| :walking_woman: `:walking_woman:` | :cowboy_hat_face: `:cowboy_hat_face:` | :woman_facepalming: `:woman_facepalming:` |
+| :man_facepalming: `:man_facepalming:` | :pregnant_woman: `:pregnant_woman:` | :selfie: `:selfie:` |
+| :prince: `:prince:` | :man_in_tuxedo: `:man_in_tuxedo:` | :mrs_claus: `:mrs_claus:` |
+| :woman_shrugging: `:woman_shrugging:` | :man_shrugging: `:man_shrugging:` | :rescue_worker_helmet: `:rescue_worker_helmet:` |
+| :womans_hat: `:womans_hat:` | :bikini: `:bikini:` | :womans_clothes: `:womans_clothes:` |
+| :athletic_shoe: `:athletic_shoe:` |  |  |
 
 
 ### Animals and Nature
@@ -569,5 +568,4 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :finnadie: `:finnadie:` | :goberserk: `:goberserk:` | :godmode: `:godmode:` |
 | :hurtrealbad: `:hurtrealbad:` | :neckbeard: `:neckbeard:` | :octocat: `:octocat:` |
 | :rage1: `:rage1:` | :rage2: `:rage2:` | :rage3: `:rage3:` |
-| :rage4: `:rage4:` | :shipit: `:shipit:` | :squirrel: `:squirrel:` |
-| :suspect: `:suspect:` | :trollface: `:trollface:` |  |
+| :rage4: `:rage4:` | :suspect: `:suspect:` | :trollface: `:trollface:` |
