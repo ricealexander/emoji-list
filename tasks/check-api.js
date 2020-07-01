@@ -23,7 +23,7 @@ module.exports = grunt => {
     if (success) {
       console.info((missingEmojis.length === 0)
         ? 'Up to date with the GitHub Emojis API'
-        : `Missing ${missingEmojis.length} emoji from the GitHub Emojis API`,
+        : `Missing ${missingEmojis.length} emoji from the GitHub Emojis API`
       )
     }
     done()

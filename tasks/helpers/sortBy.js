@@ -8,7 +8,7 @@ function parseKeyTrail (object, string) {
 
   return string
     .split('.')
-    .reduce(followTrail, object)
+    .reduce((level, key) => followTrail(level, key), object)
 }
 
 function parseMultipleArguments (args) {

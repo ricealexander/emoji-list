@@ -19,7 +19,7 @@ module.exports = grunt => {
     if (success) {
       console.info((missingEmojis.length === 0)
         ? 'No missing emoji'
-        : `Missing ${missingEmojis.length} emoji`,
+        : `Missing ${missingEmojis.length} emoji`
       )
     }
   })

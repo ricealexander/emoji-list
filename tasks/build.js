@@ -9,13 +9,15 @@ const categories = require('../categories.json')
 const emojisJSON = require('../emojis.json')
 
 const toSlug = string => string.toLowerCase().replace(/\s+/g, '-')
-const categoryGroups = categories.map(({groups}) => groups).flat()
+const categoryGroups = categories.flatMap(({groups}) => groups)
 
 // emojis may have multiple aliases
 // split these aliases into individual emoji objects
 const expandAliases = emojis => emojis.reduce((list, emoji) => {
   const aliases = toArray(emoji.alias)
-  aliases.forEach(alias => list.push({ ...emoji, alias}))
+  aliases.forEach(alias => {
+    list.push({ ...emoji, alias})
+  })
   return list
 }, [])
 
@@ -34,7 +36,8 @@ function formatEmojisAsMarkdown (_emojis) {
   // build out each section
   const markdownTables = categories
     .map(({header, groups}) => {
-      const emojisInSection = emojis.filter(({category}) => groups.includes(category))
+      const emojisInSection = emojis
+        .filter(({category}) => groups.includes(category))
 
       const codes = emojisInSection
         .sort(by(categoryOrder, 'unicode', 'alias'))
@@ -61,7 +64,7 @@ ${rows}
     .map(({header}) => `[${header}](#${toSlug(header)})\n`)
     .join('<br>')
 
-  return `A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)_, generated with a Grunt script for maintainability ([see repository](https://github.com/ricealexander/emoji-list)).
+  return `A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)_, generated with a Grunt script for maintainability ([see repository](https://github.com/ricealexander/emoji-list)).
 
 
 ### Table of Contents
