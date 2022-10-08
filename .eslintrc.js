@@ -9,5 +9,5 @@ module.exports = {
     node: true,
   },
 
-  'extends': ['webtrinkets'],
+  'extends': 'webtrinkets',
 }
