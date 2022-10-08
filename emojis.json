@@ -76,6 +76,11 @@
     "category": "Symbol"
   },
   {
+    "alias": "accordion",
+    "unicode": "🪗",
+    "category": "Activity"
+  },
+  {
     "alias": "adhesive_bandage",
     "unicode": "🩹",
     "category": "Object"
@@ -144,6 +149,11 @@
     "alias": "amphora",
     "unicode": "🏺",
     "category": "Object"
+  },
+  {
+    "alias": "anatomical_heart",
+    "unicode": "🫀",
+    "category": "Person"
   },
   {
     "alias": "anchor",
@@ -639,6 +649,11 @@
     "category": "Person"
   },
   {
+    "alias": "beaver",
+    "unicode": "🦫",
+    "category": "Animal"
+  },
+  {
     "alias": "bed",
     "unicode": "🛏",
     "category": "Object"
@@ -690,6 +705,11 @@
     "alias": "bell",
     "unicode": "🔔",
     "category": "Object"
+  },
+  {
+    "alias": "bell_pepper",
+    "unicode": "🫑",
+    "category": "Food"
   },
   {
     "alias": "bellhop_bell",
@@ -763,6 +783,16 @@
     "alias": "birthday",
     "unicode": "🎂",
     "category": "Food"
+  },
+  {
+    "alias": "bison",
+    "unicode": "🦬",
+    "category": "Animal"
+  },
+  {
+    "alias": "black_cat",
+    "unicode": "🐈‍⬛",
+    "category": "Animal"
   },
   {
     "alias": "black_circle",
@@ -865,6 +895,11 @@
     "category": "Symbol"
   },
   {
+    "alias": "blueberries",
+    "unicode": "🫐",
+    "category": "Food"
+  },
+  {
     "alias": "blush",
     "unicode": "😊",
     "category": "Smiley"
@@ -927,6 +962,11 @@
     ],
     "unicode": "💥",
     "category": "Nature"
+  },
+  {
+    "alias": "boomerang",
+    "unicode": "🪃",
+    "category": "Object"
   },
   {
     "alias": "boot",
@@ -1095,6 +1135,16 @@
     "alias": "brunei",
     "unicode": "🇧🇳",
     "category": "Country"
+  },
+  {
+    "alias": "bubble_tea",
+    "unicode": "🧋",
+    "category": "Food"
+  },
+  {
+    "alias": "bucket",
+    "unicode": "🪣",
+    "category": "Object"
   },
   {
     "alias": "bug",
@@ -1313,6 +1363,11 @@
     "alias": "carousel_horse",
     "unicode": "🎠",
     "category": "Travel"
+  },
+  {
+    "alias": "carpentry_saw",
+    "unicode": "🪚",
+    "category": "Object"
   },
   {
     "alias": "carrot",
@@ -1730,6 +1785,11 @@
     "category": "Clothing"
   },
   {
+    "alias": "cockroach",
+    "unicode": "🪳",
+    "category": "Animal"
+  },
+  {
     "alias": "cocktail",
     "unicode": "🍸",
     "category": "Food"
@@ -1752,6 +1812,11 @@
   {
     "alias": "coffin",
     "unicode": "⚰️",
+    "category": "Object"
+  },
+  {
+    "alias": "coin",
+    "unicode": "🪙",
     "category": "Object"
   },
   {
@@ -2264,6 +2329,11 @@
     "category": "Smiley"
   },
   {
+    "alias": "disguised_face",
+    "unicode": "🥸",
+    "category": "Smiley"
+  },
+  {
     "alias": "diving_mask",
     "unicode": "🤿",
     "category": "Activity"
@@ -2297,6 +2367,11 @@
     "alias": "do_not_litter",
     "unicode": "🚯",
     "category": "Symbol"
+  },
+  {
+    "alias": "dodo",
+    "unicode": "🦤",
+    "category": "Animal"
   },
   {
     "alias": "dog",
@@ -2507,6 +2582,11 @@
     "category": "Animal"
   },
   {
+    "alias": "elevator",
+    "unicode": "🛗",
+    "category": "Symbol"
+  },
+  {
     "alias": "elf",
     "unicode": "🧝",
     "category": "Person"
@@ -2636,8 +2716,23 @@
     "category": "Person"
   },
   {
+    "alias": "face_exhaling",
+    "unicode": "😮‍💨",
+    "category": "Smiley"
+  },
+  {
+    "alias": "face_in_clouds",
+    "unicode": "😶‍🌫️",
+    "category": "Smiley"
+  },
+  {
     "alias": "face_with_head_bandage",
     "unicode": "🤕",
+    "category": "Smiley"
+  },
+  {
+    "alias": "face_with_spiral_eyes",
+    "unicode": "😵‍💫",
     "category": "Smiley"
   },
   {
@@ -2844,6 +2939,11 @@
     "category": "Smiley"
   },
   {
+    "alias": "feather",
+    "unicode": "🪶",
+    "category": "Nature"
+  },
+  {
     "alias": "feelsgood",
     "unicode": false,
     "category": "Custom"
@@ -3024,6 +3124,11 @@
     "category": "Clothing"
   },
   {
+    "alias": "flatbread",
+    "unicode": "🫓",
+    "category": "Food"
+  },
+  {
     "alias": "fleur_de_lis",
     "unicode": "⚜️",
     "category": "Symbol"
@@ -3054,6 +3159,11 @@
     "category": "Smiley"
   },
   {
+    "alias": "fly",
+    "unicode": "🪰",
+    "category": "Animal"
+  },
+  {
     "alias": "flying_disc",
     "unicode": "🥏",
     "category": "Activity"
@@ -3072,6 +3182,11 @@
     "alias": "foggy",
     "unicode": "🌁",
     "category": "Nature"
+  },
+  {
+    "alias": "fondue",
+    "unicode": "🫕",
+    "category": "Food"
   },
   {
     "alias": "foot",
@@ -3617,6 +3732,11 @@
     "category": "Activity"
   },
   {
+    "alias": "headstone",
+    "unicode": "🪦",
+    "category": "Object"
+  },
+  {
     "alias": "health_worker",
     "unicode": "🧑‍⚕️",
     "category": "Person"
@@ -3650,6 +3770,11 @@
     "alias": "heart_eyes_cat",
     "unicode": "😻",
     "category": "Smiley"
+  },
+  {
+    "alias": "heart_on_fire",
+    "unicode": "❤️‍🔥",
+    "category": "Symbol"
   },
   {
     "alias": "heartbeat",
@@ -3775,6 +3900,11 @@
     "category": "Country"
   },
   {
+    "alias": "hook",
+    "unicode": "🪝",
+    "category": "Object"
+  },
+  {
     "alias": "horse",
     "unicode": "🐴",
     "category": "Animal"
@@ -3858,6 +3988,11 @@
     "alias": "hushed",
     "unicode": "😯",
     "category": "Smiley"
+  },
+  {
+    "alias": "hut",
+    "unicode": "🛖",
+    "category": "Travel"
   },
   {
     "alias": "ice_cream",
@@ -4165,6 +4300,11 @@
     "category": "Person"
   },
   {
+    "alias": "knot",
+    "unicode": "🪢",
+    "category": "Object"
+  },
+  {
     "alias": "koala",
     "unicode": "🐨",
     "category": "Animal"
@@ -4208,6 +4348,16 @@
     "alias": "lacrosse",
     "unicode": "🥍",
     "category": "Activity"
+  },
+  {
+    "alias": "ladder",
+    "unicode": "🪜",
+    "category": "Object"
+  },
+  {
+    "alias": "lady_beetle",
+    "unicode": "🐞",
+    "category": "Animal"
   },
   {
     "alias": [
@@ -4416,6 +4566,11 @@
     "category": "Food"
   },
   {
+    "alias": "long_drum",
+    "unicode": "🪘",
+    "category": "Activity"
+  },
+  {
     "alias": "loop",
     "unicode": "➿",
     "category": "Object"
@@ -4476,6 +4631,11 @@
     "category": "Object"
   },
   {
+    "alias": "lungs",
+    "unicode": "🫁",
+    "category": "Person"
+  },
+  {
     "alias": "luxembourg",
     "unicode": "🇱🇺",
     "category": "Country"
@@ -4529,6 +4689,11 @@
     "alias": "mage_woman",
     "unicode": "🧙‍♀️",
     "category": "Person"
+  },
+  {
+    "alias": "magic_wand",
+    "unicode": "🪄",
+    "category": "Activity"
   },
   {
     "alias": "magnet",
@@ -4599,6 +4764,11 @@
     "category": "Country"
   },
   {
+    "alias": "mammoth",
+    "unicode": "🦣",
+    "category": "Animal"
+  },
+  {
     "alias": "man",
     "unicode": "👨",
     "category": "Person"
@@ -4611,6 +4781,11 @@
   {
     "alias": "man_astronaut",
     "unicode": "👨‍🚀",
+    "category": "Person"
+  },
+  {
+    "alias": "man_beard",
+    "unicode": "🧔‍♂️",
     "category": "Person"
   },
   {
@@ -4641,6 +4816,11 @@
   {
     "alias": "man_farmer",
     "unicode": "👨‍🌾",
+    "category": "Person"
+  },
+  {
+    "alias": "man_feeding_baby",
+    "unicode": "👨‍🍼",
     "category": "Person"
   },
   {
@@ -4746,6 +4926,11 @@
   {
     "alias": "man_with_turban",
     "unicode": "👳",
+    "category": "Person"
+  },
+  {
+    "alias": "man_with_veil",
+    "unicode": "👰‍♂️",
     "category": "Person"
   },
   {
@@ -4880,6 +5065,11 @@
     "category": "Activity"
   },
   {
+    "alias": "mending_heart",
+    "unicode": "❤️‍🩹",
+    "category": "Symbol"
+  },
+  {
     "alias": "menorah",
     "unicode": "🕎",
     "category": "Symbol"
@@ -4948,6 +5138,11 @@
     "category": "Gesture"
   },
   {
+    "alias": "military_helmet",
+    "unicode": "🪖",
+    "category": "Clothing"
+  },
+  {
     "alias": "milk_glass",
     "unicode": "🥛",
     "category": "Food"
@@ -4965,6 +5160,11 @@
   {
     "alias": "minidisc",
     "unicode": "💽",
+    "category": "Object"
+  },
+  {
+    "alias": "mirror",
+    "unicode": "🪞",
     "category": "Object"
   },
   {
@@ -5139,6 +5339,11 @@
     "category": "Animal"
   },
   {
+    "alias": "mouse_trap",
+    "unicode": "🪤",
+    "category": "Object"
+  },
+  {
     "alias": "movie_camera",
     "unicode": "🎥",
     "category": "Object"
@@ -5187,6 +5392,11 @@
     "alias": "mute",
     "unicode": "🔇",
     "category": "Symbol"
+  },
+  {
+    "alias": "mx_claus",
+    "unicode": "🧑‍🎄",
+    "category": "Person"
   },
   {
     "alias": "myanmar",
@@ -5252,6 +5462,11 @@
     "alias": "nerd_face",
     "unicode": "🤓",
     "category": "Smiley"
+  },
+  {
+    "alias": "nesting_dolls",
+    "unicode": "🪆",
+    "category": "Object"
   },
   {
     "alias": "netherlands",
@@ -5332,6 +5547,11 @@
     "alias": "nine",
     "unicode": "9️⃣",
     "category": "Symbol"
+  },
+  {
+    "alias": "ninja",
+    "unicode": "🥷",
+    "category": "Person"
   },
   {
     "alias": "niue",
@@ -5534,6 +5754,11 @@
     "alias": "older_woman",
     "unicode": "👵",
     "category": "Person"
+  },
+  {
+    "alias": "olive",
+    "unicode": "🫒",
+    "category": "Food"
   },
   {
     "alias": "om",
@@ -5851,6 +6076,11 @@
     "category": "Person"
   },
   {
+    "alias": "people_hugging",
+    "unicode": "🫂",
+    "category": "Person"
+  },
+  {
     "alias": "performing_arts",
     "unicode": "🎭",
     "category": "Activity"
@@ -5871,6 +6101,11 @@
     "category": "Person"
   },
   {
+    "alias": "person_feeding_baby",
+    "unicode": "🧑‍🍼",
+    "category": "Person"
+  },
+  {
     "alias": "person_fencing",
     "unicode": "🤺",
     "category": "Activity"
@@ -5883,6 +6118,11 @@
   {
     "alias": "person_in_motorized_wheelchair",
     "unicode": "🧑‍🦼",
+    "category": "Person"
+  },
+  {
+    "alias": "person_in_tuxedo",
+    "unicode": "🤵🏻",
     "category": "Person"
   },
   {
@@ -5903,6 +6143,11 @@
   {
     "alias": "person_with_turban",
     "unicode": "👳",
+    "category": "Person"
+  },
+  {
+    "alias": "person_with_veil",
+    "unicode": "👰",
     "category": "Person"
   },
   {
@@ -5934,6 +6179,11 @@
     "category": "Object"
   },
   {
+    "alias": "pickup_truck",
+    "unicode": "🛻",
+    "category": "Travel"
+  },
+  {
     "alias": "pie",
     "unicode": "🥧",
     "category": "Food"
@@ -5962,6 +6212,16 @@
     "alias": "pilot",
     "unicode": "🧑‍✈️",
     "category": "Person"
+  },
+  {
+    "alias": "pinata",
+    "unicode": "🪅",
+    "category": "Activity"
+  },
+  {
+    "alias": "pinched_fingers",
+    "unicode": "🤌",
+    "category": "Gesture"
   },
   {
     "alias": "pinching_hand",
@@ -5999,6 +6259,11 @@
     "category": "Food"
   },
   {
+    "alias": "placard",
+    "unicode": "🪧",
+    "category": "Object"
+  },
+  {
     "alias": "place_of_worship",
     "unicode": "🛐",
     "category": "Symbol"
@@ -6017,6 +6282,11 @@
     "alias": "pleading_face",
     "unicode": "🥺",
     "category": "Smiley"
+  },
+  {
+    "alias": "plunger",
+    "unicode": "🪠",
+    "category": "Object"
   },
   {
     "alias": "point_down",
@@ -6047,6 +6317,11 @@
     "alias": "poland",
     "unicode": "🇵🇱",
     "category": "Country"
+  },
+  {
+    "alias": "polar_bear",
+    "unicode": "🐻‍❄️",
+    "category": "Animal"
   },
   {
     "alias": "police_car",
@@ -6110,6 +6385,11 @@
     "alias": "potato",
     "unicode": "🥔",
     "category": "Food"
+  },
+  {
+    "alias": "potted_plant",
+    "unicode": "🪴",
+    "category": "Nature"
   },
   {
     "alias": "pouch",
@@ -6523,6 +6803,11 @@
     "category": "Smiley"
   },
   {
+    "alias": "rock",
+    "unicode": "🪨",
+    "category": "Nature"
+  },
+  {
     "alias": "rocket",
     "unicode": "🚀",
     "category": "Travel"
@@ -6546,6 +6831,11 @@
     "alias": "roller_coaster",
     "unicode": "🎢",
     "category": "Travel"
+  },
+  {
+    "alias": "roller_skate",
+    "unicode": "🛼",
+    "category": "Activity"
   },
   {
     "alias": "romania",
@@ -6775,9 +7065,19 @@
     "category": "Smiley"
   },
   {
+    "alias": "screwdriver",
+    "unicode": "🪛",
+    "category": "Object"
+  },
+  {
     "alias": "scroll",
     "unicode": "📜",
     "category": "Object"
+  },
+  {
+    "alias": "seal",
+    "unicode": "🦭",
+    "category": "Animal"
   },
   {
     "alias": "seat",
@@ -6823,6 +7123,11 @@
     "alias": "seven",
     "unicode": "7️⃣",
     "category": "Symbol"
+  },
+  {
+    "alias": "sewing_needle",
+    "unicode": "🪡",
+    "category": "Object"
   },
   {
     "alias": "seychelles",
@@ -7088,6 +7393,11 @@
   {
     "alias": "smiley_cat",
     "unicode": "😺",
+    "category": "Smiley"
+  },
+  {
+    "alias": "smiling_face_with_tear",
+    "unicode": "🥲",
     "category": "Smiley"
   },
   {
@@ -7707,6 +8017,11 @@
     "category": "Food"
   },
   {
+    "alias": "tamale",
+    "unicode": "🫔",
+    "category": "Food"
+  },
+  {
     "alias": "tanabata_tree",
     "unicode": "🎋",
     "category": "Object"
@@ -7744,6 +8059,11 @@
     "alias": "teacher",
     "unicode": "🧑‍🏫",
     "category": "Person"
+  },
+  {
+    "alias": "teapot",
+    "unicode": "🫖",
+    "category": "Food"
   },
   {
     "alias": "technologist",
@@ -7794,6 +8114,11 @@
     "alias": "thinking",
     "unicode": "🤔",
     "category": "Smiley"
+  },
+  {
+    "alias": "thong_sandal",
+    "unicode": "🩴",
+    "category": "Clothing"
   },
   {
     "alias": "thought_balloon",
@@ -7918,6 +8243,11 @@
     "category": "Person"
   },
   {
+    "alias": "toothbrush",
+    "unicode": "🪥",
+    "category": "Object"
+  },
+  {
     "alias": "top",
     "unicode": "🔝",
     "category": "Symbol"
@@ -7966,6 +8296,16 @@
     "alias": "tram",
     "unicode": "🚊",
     "category": "Travel"
+  },
+  {
+    "alias": "transgender_flag",
+    "unicode": "🏳️‍⚧️",
+    "category": "Flag"
+  },
+  {
+    "alias": "transgender_symbol",
+    "unicode": "⚧️",
+    "category": "Symbol"
   },
   {
     "alias": "triangular_flag_on_post",
@@ -8551,6 +8891,11 @@
     "category": "Nature"
   },
   {
+    "alias": "window",
+    "unicode": "🪟",
+    "category": "Travel"
+  },
+  {
     "alias": "wine_glass",
     "unicode": "🍷",
     "category": "Food"
@@ -8578,6 +8923,11 @@
   {
     "alias": "woman_astronaut",
     "unicode": "👩‍🚀",
+    "category": "Person"
+  },
+  {
+    "alias": "woman_beard",
+    "unicode": "🧔‍♀️",
     "category": "Person"
   },
   {
@@ -8611,6 +8961,11 @@
     "category": "Person"
   },
   {
+    "alias": "woman_feeding_baby",
+    "unicode": "👩‍🍼",
+    "category": "Person"
+  },
+  {
     "alias": "woman_firefighter",
     "unicode": "👩‍🚒",
     "category": "Person"
@@ -8628,6 +8983,11 @@
   {
     "alias": "woman_in_motorized_wheelchair",
     "unicode": "👩‍🦼",
+    "category": "Person"
+  },
+  {
+    "alias": "woman_in_tuxedo",
+    "unicode": "🤵‍♀️",
     "category": "Person"
   },
   {
@@ -8711,6 +9071,11 @@
     "category": "Person"
   },
   {
+    "alias": "woman_with_veil",
+    "unicode": "👰‍♀️",
+    "category": "Person"
+  },
+  {
     "alias": "womans_clothes",
     "unicode": "👚",
     "category": "Clothing"
@@ -8731,6 +9096,11 @@
     "category": "Symbol"
   },
   {
+    "alias": "wood",
+    "unicode": "🪵",
+    "category": "Nature"
+  },
+  {
     "alias": "woozy_face",
     "unicode": "🥴",
     "category": "Smiley"
@@ -8739,6 +9109,11 @@
     "alias": "world_map",
     "unicode": "🗺",
     "category": "Travel"
+  },
+  {
+    "alias": "worm",
+    "unicode": "🪱",
+    "category": "Animal"
   },
   {
     "alias": "worried",
