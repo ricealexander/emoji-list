@@ -646,6 +646,13 @@
     "category": "Travel"
   },
   {
+    "alias": [
+      "beans"
+    ],
+    "unicode": "🫘",
+    "category": "Food"
+  },
+  {
     "alias": "bear",
     "unicode": "🐻",
     "category": "Animal"
@@ -794,6 +801,20 @@
   {
     "alias": "bison",
     "unicode": "🦬",
+    "category": "Animal"
+  },
+  {
+    "alias": [
+      "biting_lip"
+    ],
+    "unicode": "🫦",
+    "category": "Smiley"
+  },
+  {
+    "alias": [
+      "black_bird"
+    ],
+    "unicode": "🐦‍⬛",
     "category": "Animal"
   },
   {
@@ -1147,6 +1168,13 @@
     "alias": "bubble_tea",
     "unicode": "🧋",
     "category": "Food"
+  },
+  {
+    "alias": [
+      "bubbles"
+    ],
+    "unicode": "🫧",
+    "category": "Nature"
   },
   {
     "alias": "bucket",
@@ -1957,6 +1985,13 @@
     "category": "Symbol"
   },
   {
+    "alias": [
+      "coral"
+    ],
+    "unicode": "🪸",
+    "category": "Nature"
+  },
+  {
     "alias": "corn",
     "unicode": "🌽",
     "category": "Food"
@@ -2098,6 +2133,13 @@
     "alias": "crown",
     "unicode": "👑",
     "category": "Object"
+  },
+  {
+    "alias": [
+      "crutch"
+    ],
+    "unicode": "🩼",
+    "category": "Travel"
   },
   {
     "alias": "cry",
@@ -2433,9 +2475,23 @@
     "category": "Country"
   },
   {
+    "alias": [
+      "donkey"
+    ],
+    "unicode": "🫏",
+    "category": "Animal"
+  },
+  {
     "alias": "door",
     "unicode": "🚪",
     "category": "Object"
+  },
+  {
+    "alias": [
+      "dotted_line_face"
+    ],
+    "unicode": "🫥",
+    "category": "Smiley"
   },
   {
     "alias": "doughnut",
@@ -2631,6 +2687,13 @@
     "category": "Object"
   },
   {
+    "alias": [
+      "empty_nest"
+    ],
+    "unicode": "🪹",
+    "category": "Nature"
+  },
+  {
     "alias": "end",
     "unicode": "🔚",
     "category": "Symbol"
@@ -2742,13 +2805,41 @@
     "category": "Smiley"
   },
   {
+    "alias": [
+      "face_holding_back_tears"
+    ],
+    "unicode": "🥹",
+    "category": "Smiley"
+  },
+  {
     "alias": "face_in_clouds",
     "unicode": "😶‍🌫️",
     "category": "Smiley"
   },
   {
+    "alias": [
+      "face_with_diagonal_mouth"
+    ],
+    "unicode": "🫤",
+    "category": "Smiley"
+  },
+  {
     "alias": "face_with_head_bandage",
     "unicode": "🤕",
+    "category": "Smiley"
+  },
+  {
+    "alias": [
+      "face_with_open_eyes_and_hand_over_mouth"
+    ],
+    "unicode": "🫢",
+    "category": "Smiley"
+  },
+  {
+    "alias": [
+      "face_with_peeking_eye"
+    ],
+    "unicode": "🫣",
     "category": "Smiley"
   },
   {
@@ -3187,6 +3278,13 @@
     "category": "Smiley"
   },
   {
+    "alias": [
+      "flute"
+    ],
+    "unicode": "🪈",
+    "category": "Activity"
+  },
+  {
     "alias": "fly",
     "unicode": "🪰",
     "category": "Animal"
@@ -3210,6 +3308,13 @@
     "alias": "foggy",
     "unicode": "🌁",
     "category": "Nature"
+  },
+  {
+    "alias": [
+      "folding_hand_fan"
+    ],
+    "unicode": "🪭",
+    "category": "Object"
   },
   {
     "alias": "fondue",
@@ -3450,6 +3555,13 @@
     "category": "Object"
   },
   {
+    "alias": [
+      "ginger_root"
+    ],
+    "unicode": "🫚",
+    "category": "Food"
+  },
+  {
     "alias": "giraffe",
     "unicode": "🦒",
     "category": "Animal"
@@ -3515,6 +3627,13 @@
     "category": "Activity"
   },
   {
+    "alias": [
+      "goose"
+    ],
+    "unicode": "🪿",
+    "category": "Animal"
+  },
+  {
     "alias": "gorilla",
     "unicode": "🦍",
     "category": "Animal"
@@ -3572,6 +3691,13 @@
   {
     "alias": "grey_exclamation",
     "unicode": "❕",
+    "category": "Symbol"
+  },
+  {
+    "alias": [
+      "grey_heart"
+    ],
+    "unicode": "🩶",
     "category": "Symbol"
   },
   {
@@ -3660,6 +3786,13 @@
     "category": "Country"
   },
   {
+    "alias": [
+      "hair_pick"
+    ],
+    "unicode": "🪮",
+    "category": "Object"
+  },
+  {
     "alias": "haircut_man",
     "unicode": "💇‍♂",
     "category": "Person"
@@ -3698,6 +3831,13 @@
     "category": "Object"
   },
   {
+    "alias": [
+      "hamsa"
+    ],
+    "unicode": "🪬",
+    "category": "Object"
+  },
+  {
     "alias": "hamster",
     "unicode": "🐹",
     "category": "Animal"
@@ -3714,6 +3854,13 @@
     "alias": "hand_over_mouth",
     "unicode": "🤭",
     "category": "Smiley"
+  },
+  {
+    "alias": [
+      "hand_with_index_finger_and_thumb_crossed"
+    ],
+    "unicode": "🫰",
+    "category": "Gesture"
   },
   {
     "alias": "handbag",
@@ -3800,6 +3947,13 @@
     "category": "Smiley"
   },
   {
+    "alias": [
+      "heart_hands"
+    ],
+    "unicode": "🫶",
+    "category": "Gesture"
+  },
+  {
     "alias": "heart_on_fire",
     "unicode": "❤️‍🔥",
     "category": "Symbol"
@@ -3832,6 +3986,13 @@
   {
     "alias": "heavy_dollar_sign",
     "unicode": "💲",
+    "category": "Symbol"
+  },
+  {
+    "alias": [
+      "heavy_equals_sign"
+    ],
+    "unicode": "🟰",
     "category": "Symbol"
   },
   {
@@ -4023,6 +4184,13 @@
     "category": "Travel"
   },
   {
+    "alias": [
+      "hyacinth"
+    ],
+    "unicode": "🪻",
+    "category": "Nature"
+  },
+  {
     "alias": "ice_cream",
     "unicode": "🍨",
     "category": "Food"
@@ -4058,6 +4226,13 @@
     "category": "Symbol"
   },
   {
+    "alias": [
+      "identification_card"
+    ],
+    "unicode": "🪪",
+    "category": "Object"
+  },
+  {
     "alias": "ideograph_advantage",
     "unicode": "🉐",
     "category": "Symbol"
@@ -4076,6 +4251,13 @@
     "alias": "incoming_envelope",
     "unicode": "📨",
     "category": "Object"
+  },
+  {
+    "alias": [
+      "index_pointing_at_the_viewer"
+    ],
+    "unicode": "🫵",
+    "category": "Gesture"
   },
   {
     "alias": "india",
@@ -4173,9 +4355,23 @@
     "category": "Person"
   },
   {
+    "alias": [
+      "jar"
+    ],
+    "unicode": "🫙",
+    "category": "Food"
+  },
+  {
     "alias": "jeans",
     "unicode": "👖",
     "category": "Object"
+  },
+  {
+    "alias": [
+      "jellyfish"
+    ],
+    "unicode": "🪼",
+    "category": "Animal"
   },
   {
     "alias": "jersey",
@@ -4255,6 +4451,13 @@
   {
     "alias": "keycap_ten",
     "unicode": "🔟",
+    "category": "Symbol"
+  },
+  {
+    "alias": [
+      "khanda"
+    ],
+    "unicode": "🪯",
     "category": "Symbol"
   },
   {
@@ -4484,6 +4687,20 @@
     "category": "Symbol"
   },
   {
+    "alias": [
+      "leftwards_hand"
+    ],
+    "unicode": "🫲",
+    "category": "Gesture"
+  },
+  {
+    "alias": [
+      "leftwards_pushing_hand"
+    ],
+    "unicode": "🫷",
+    "category": "Gesture"
+  },
+  {
     "alias": "leg",
     "unicode": "🦵",
     "category": "Person"
@@ -4532,6 +4749,13 @@
     "alias": "liechtenstein",
     "unicode": "🇱🇮",
     "category": "Country"
+  },
+  {
+    "alias": [
+      "light_blue_heart"
+    ],
+    "unicode": "🩵",
+    "category": "Symbol"
   },
   {
     "alias": "light_rail",
@@ -4609,6 +4833,13 @@
     "category": "Object"
   },
   {
+    "alias": [
+      "lotus"
+    ],
+    "unicode": "🪷",
+    "category": "Nature"
+  },
+  {
     "alias": "lotus_position",
     "unicode": "🧘",
     "category": "Person"
@@ -4647,6 +4878,13 @@
     "alias": "love_you_gesture",
     "unicode": "🤟",
     "category": "Gesture"
+  },
+  {
+    "alias": [
+      "low_battery"
+    ],
+    "unicode": "🪫",
+    "category": "Object"
   },
   {
     "alias": "low_brightness",
@@ -4982,6 +5220,13 @@
     "category": "Nature"
   },
   {
+    "alias": [
+      "maracas"
+    ],
+    "unicode": "🪇",
+    "category": "Activity"
+  },
+  {
     "alias": "marshall_islands",
     "unicode": "🇲🇭",
     "category": "Country"
@@ -5078,6 +5323,13 @@
     "alias": "melon",
     "unicode": "🍈",
     "category": "Food"
+  },
+  {
+    "alias": [
+      "melting_face"
+    ],
+    "unicode": "🫠",
+    "category": "Smiley"
   },
   {
     "alias": [
@@ -5196,6 +5448,13 @@
     "category": "Object"
   },
   {
+    "alias": [
+      "mirror_ball"
+    ],
+    "unicode": "🪩",
+    "category": "Object"
+  },
+  {
     "alias": "mobile_phone_off",
     "unicode": "📴",
     "category": "Symbol"
@@ -5272,6 +5531,13 @@
     "alias": "moon_cake",
     "unicode": "🥮",
     "category": "Food"
+  },
+  {
+    "alias": [
+      "moose"
+    ],
+    "unicode": "🫎",
+    "category": "Animal"
   },
   {
     "alias": "morocco",
@@ -5490,6 +5756,13 @@
     "alias": "nerd_face",
     "unicode": "🤓",
     "category": "Smiley"
+  },
+  {
+    "alias": [
+      "nest_with_eggs"
+    ],
+    "unicode": "🪺",
+    "category": "Nature"
   },
   {
     "alias": "nesting_dolls",
@@ -5959,9 +6232,23 @@
     "category": "Country"
   },
   {
+    "alias": [
+      "palm_down_hand"
+    ],
+    "unicode": "🫳",
+    "category": "Gesture"
+  },
+  {
     "alias": "palm_tree",
     "unicode": "🌴",
     "category": "Nature"
+  },
+  {
+    "alias": [
+      "palm_up_hand"
+    ],
+    "unicode": "🫴",
+    "category": "Gesture"
   },
   {
     "alias": "palms_up_together",
@@ -6052,6 +6339,13 @@
     "alias": "pause_button",
     "unicode": "⏸",
     "category": "Symbol"
+  },
+  {
+    "alias": [
+      "pea_pod"
+    ],
+    "unicode": "🫛",
+    "category": "Food"
   },
   {
     "alias": "peace_symbol",
@@ -6164,6 +6458,13 @@
     "category": "Person"
   },
   {
+    "alias": [
+      "person_with_crown"
+    ],
+    "unicode": "🫅",
+    "category": "Person"
+  },
+  {
     "alias": "person_with_probing_cane",
     "unicode": "🧑‍🦯",
     "category": "Person"
@@ -6267,6 +6568,13 @@
     "category": "Activity"
   },
   {
+    "alias": [
+      "pink_heart"
+    ],
+    "unicode": "🩷",
+    "category": "Symbol"
+  },
+  {
     "alias": "pirate_flag",
     "unicode": "🏴‍☠️",
     "category": "Flag"
@@ -6305,6 +6613,13 @@
     "alias": "play_or_pause_button",
     "unicode": "⏯",
     "category": "Symbol"
+  },
+  {
+    "alias": [
+      "playground_slide"
+    ],
+    "unicode": "🛝",
+    "category": "Activity"
   },
   {
     "alias": "pleading_face",
@@ -6435,6 +6750,13 @@
     "category": "Object"
   },
   {
+    "alias": [
+      "pouring_liquid"
+    ],
+    "unicode": "🫗",
+    "category": "Food"
+  },
+  {
     "alias": "pouting_cat",
     "unicode": "😾",
     "category": "Smiley"
@@ -6463,6 +6785,20 @@
     "alias": "prayer_beads",
     "unicode": "📿",
     "category": "Object"
+  },
+  {
+    "alias": [
+      "pregnant_man"
+    ],
+    "unicode": "🫃",
+    "category": "Person"
+  },
+  {
+    "alias": [
+      "pregnant_person"
+    ],
+    "unicode": "🫄",
+    "category": "Person"
   },
   {
     "alias": "pregnant_woman",
@@ -6816,9 +7152,30 @@
     "category": "Symbol"
   },
   {
+    "alias": [
+      "rightwards_hand"
+    ],
+    "unicode": "🫱",
+    "category": "Gesture"
+  },
+  {
+    "alias": [
+      "rightwards_pushing_hand"
+    ],
+    "unicode": "🫸",
+    "category": "Gesture"
+  },
+  {
     "alias": "ring",
     "unicode": "💍",
     "category": "Object"
+  },
+  {
+    "alias": [
+      "ring_buoy"
+    ],
+    "unicode": "🛟",
+    "category": "Travel"
   },
   {
     "alias": "ringed_planet",
@@ -6971,6 +7328,13 @@
     "alias": "salt",
     "unicode": "🧂",
     "category": "Food"
+  },
+  {
+    "alias": [
+      "saluting_face"
+    ],
+    "unicode": "🫡",
+    "category": "Smiley"
   },
   {
     "alias": "samoa",
@@ -7161,6 +7525,13 @@
     "alias": "seychelles",
     "unicode": "🇸🇨",
     "category": "Country"
+  },
+  {
+    "alias": [
+      "shaking_face"
+    ],
+    "unicode": "🫨",
+    "category": "Smiley"
   },
   {
     "alias": "shallow_pan_of_food",
@@ -8366,6 +8737,13 @@
     "category": "Smiley"
   },
   {
+    "alias": [
+      "troll"
+    ],
+    "unicode": "🧌",
+    "category": "Person"
+  },
+  {
     "alias": "trolleybus",
     "unicode": "🚎",
     "category": "Travel"
@@ -8834,6 +9212,13 @@
     "category": "Animal"
   },
   {
+    "alias": [
+      "wheel"
+    ],
+    "unicode": "🛞",
+    "category": "Travel"
+  },
+  {
     "alias": "wheel_of_dharma",
     "unicode": "☸️",
     "category": "Symbol"
@@ -8929,9 +9314,23 @@
     "category": "Food"
   },
   {
+    "alias": [
+      "wing"
+    ],
+    "unicode": "🪽",
+    "category": "Animal"
+  },
+  {
     "alias": "wink",
     "unicode": "😉",
     "category": "Smiley"
+  },
+  {
+    "alias": [
+      "wireless"
+    ],
+    "unicode": "🛜",
+    "category": "Symbol"
   },
   {
     "alias": "wolf",
@@ -9167,6 +9566,13 @@
     "alias": "x",
     "unicode": "❌",
     "category": "Symbol"
+  },
+  {
+    "alias": [
+      "x_ray"
+    ],
+    "unicode": "🩻",
+    "category": "Object"
   },
   {
     "alias": "yarn",

@@ -53,7 +53,10 @@ A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of githu
 | :vomiting_face: `:vomiting_face:` | :exploding_head: `:exploding_head:` | :smiling_face_with_three_hearts: `:smiling_face_with_three_hearts:` |
 | :yawning_face: `:yawning_face:` | :smiling_face_with_tear: `:smiling_face_with_tear:` | :partying_face: `:partying_face:` |
 | :woozy_face: `:woozy_face:` | :hot_face: `:hot_face:` | :cold_face: `:cold_face:` |
-| :disguised_face: `:disguised_face:` | :pleading_face: `:pleading_face:` | :monocle_face: `:monocle_face:` |
+| :disguised_face: `:disguised_face:` | :face_holding_back_tears: `:face_holding_back_tears:` | :pleading_face: `:pleading_face:` |
+| :monocle_face: `:monocle_face:` | :melting_face: `:melting_face:` | :saluting_face: `:saluting_face:` |
+| :face_with_open_eyes_and_hand_over_mouth: `:face_with_open_eyes_and_hand_over_mouth:` | :face_with_peeking_eye: `:face_with_peeking_eye:` | :face_with_diagonal_mouth: `:face_with_diagonal_mouth:` |
+| :dotted_line_face: `:dotted_line_face:` | :biting_lip: `:biting_lip:` | :shaking_face: `:shaking_face:` |
 | :point_up: `:point_up:` | :fist: `:fist:` | :fist_raised: `:fist_raised:` |
 | :hand: `:hand:` | :raised_hand: `:raised_hand:` | :v: `:v:` |
 | :writing_hand: `:writing_hand:` | :point_up_2: `:point_up_2:` | :point_down: `:point_down:` |
@@ -67,6 +70,9 @@ A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of githu
 | :metal: `:metal:` | :call_me_hand: `:call_me_hand:` | :raised_back_of_hand: `:raised_back_of_hand:` |
 | :fist_left: `:fist_left:` | :fist_right: `:fist_right:` | :handshake: `:handshake:` |
 | :crossed_fingers: `:crossed_fingers:` | :love_you_gesture: `:love_you_gesture:` | :palms_up_together: `:palms_up_together:` |
+| :hand_with_index_finger_and_thumb_crossed: `:hand_with_index_finger_and_thumb_crossed:` | :rightwards_hand: `:rightwards_hand:` | :leftwards_hand: `:leftwards_hand:` |
+| :palm_down_hand: `:palm_down_hand:` | :palm_up_hand: `:palm_up_hand:` | :index_pointing_at_the_viewer: `:index_pointing_at_the_viewer:` |
+| :heart_hands: `:heart_hands:` | :leftwards_pushing_hand: `:leftwards_pushing_hand:` | :rightwards_pushing_hand: `:rightwards_pushing_hand:` |
 | :skull_and_crossbones: `:skull_and_crossbones:` | :bouncing_ball_person: `:bouncing_ball_person:` | :bouncing_ball_woman: `:bouncing_ball_woman:` |
 | :bouncing_ball_man: `:bouncing_ball_man:` | :jack_o_lantern: `:jack_o_lantern:` | :runner: `:runner:` |
 | :running: `:running:` | :running_man: `:running_man:` | :running_woman: `:running_woman:` |
@@ -139,37 +145,39 @@ A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of githu
 | :foot: `:foot:` | :tooth: `:tooth:` | :superhero: `:superhero:` |
 | :superhero_woman: `:superhero_woman:` | :superhero_man: `:superhero_man:` | :supervillain: `:supervillain:` |
 | :supervillain_woman: `:supervillain_woman:` | :supervillain_man: `:supervillain_man:` | :ear_with_hearing_aid: `:ear_with_hearing_aid:` |
-| :standing_person: `:standing_person:` | :standing_woman: `:standing_woman:` | :standing_man: `:standing_man:` |
-| :kneeling_person: `:kneeling_person:` | :kneeling_woman: `:kneeling_woman:` | :kneeling_man: `:kneeling_man:` |
-| :deaf_person: `:deaf_person:` | :deaf_woman: `:deaf_woman:` | :deaf_man: `:deaf_man:` |
-| :adult: `:adult:` | :health_worker: `:health_worker:` | :judge: `:judge:` |
-| :pilot: `:pilot:` | :farmer: `:farmer:` | :cook: `:cook:` |
-| :person_feeding_baby: `:person_feeding_baby:` | :mx_claus: `:mx_claus:` | :student: `:student:` |
-| :singer: `:singer:` | :artist: `:artist:` | :teacher: `:teacher:` |
-| :factory_worker: `:factory_worker:` | :technologist: `:technologist:` | :office_worker: `:office_worker:` |
-| :mechanic: `:mechanic:` | :scientist: `:scientist:` | :astronaut: `:astronaut:` |
-| :firefighter: `:firefighter:` | :people_holding_hands: `:people_holding_hands:` | :person_with_probing_cane: `:person_with_probing_cane:` |
-| :person_red_hair: `:person_red_hair:` | :person_curly_hair: `:person_curly_hair:` | :person_bald: `:person_bald:` |
-| :person_white_hair: `:person_white_hair:` | :person_in_motorized_wheelchair: `:person_in_motorized_wheelchair:` | :person_in_manual_wheelchair: `:person_in_manual_wheelchair:` |
-| :child: `:child:` | :older_adult: `:older_adult:` | :bearded_person: `:bearded_person:` |
-| :woman_beard: `:woman_beard:` | :man_beard: `:man_beard:` | :woman_with_headscarf: `:woman_with_headscarf:` |
-| :sauna_person: `:sauna_person:` | :sauna_woman: `:sauna_woman:` | :sauna_man: `:sauna_man:` |
-| :climbing: `:climbing:` | :climbing_woman: `:climbing_woman:` | :climbing_man: `:climbing_man:` |
-| :lotus_position: `:lotus_position:` | :lotus_position_woman: `:lotus_position_woman:` | :lotus_position_man: `:lotus_position_man:` |
-| :mage: `:mage:` | :mage_woman: `:mage_woman:` | :mage_man: `:mage_man:` |
-| :fairy: `:fairy:` | :fairy_woman: `:fairy_woman:` | :fairy_man: `:fairy_man:` |
-| :vampire: `:vampire:` | :vampire_woman: `:vampire_woman:` | :vampire_man: `:vampire_man:` |
-| :merperson: `:merperson:` | :mermaid: `:mermaid:` | :merman: `:merman:` |
-| :elf: `:elf:` | :elf_woman: `:elf_woman:` | :elf_man: `:elf_man:` |
-| :genie: `:genie:` | :genie_woman: `:genie_woman:` | :genie_man: `:genie_man:` |
-| :zombie: `:zombie:` | :zombie_woman: `:zombie_woman:` | :zombie_man: `:zombie_man:` |
-| :brain: `:brain:` | :anatomical_heart: `:anatomical_heart:` | :lungs: `:lungs:` |
-| :people_hugging: `:people_hugging:` | :rescue_worker_helmet: `:rescue_worker_helmet:` | :womans_hat: `:womans_hat:` |
-| :bikini: `:bikini:` | :womans_clothes: `:womans_clothes:` | :athletic_shoe: `:athletic_shoe:` |
-| :sari: `:sari:` | :lab_coat: `:lab_coat:` | :hiking_boot: `:hiking_boot:` |
-| :flat_shoe: `:flat_shoe:` | :safety_vest: `:safety_vest:` | :billed_cap: `:billed_cap:` |
-| :scarf: `:scarf:` | :gloves: `:gloves:` | :coat: `:coat:` |
-| :socks: `:socks:` | :thong_sandal: `:thong_sandal:` | :military_helmet: `:military_helmet:` |
+| :troll: `:troll:` | :standing_person: `:standing_person:` | :standing_woman: `:standing_woman:` |
+| :standing_man: `:standing_man:` | :kneeling_person: `:kneeling_person:` | :kneeling_woman: `:kneeling_woman:` |
+| :kneeling_man: `:kneeling_man:` | :deaf_person: `:deaf_person:` | :deaf_woman: `:deaf_woman:` |
+| :deaf_man: `:deaf_man:` | :adult: `:adult:` | :health_worker: `:health_worker:` |
+| :judge: `:judge:` | :pilot: `:pilot:` | :farmer: `:farmer:` |
+| :cook: `:cook:` | :person_feeding_baby: `:person_feeding_baby:` | :mx_claus: `:mx_claus:` |
+| :student: `:student:` | :singer: `:singer:` | :artist: `:artist:` |
+| :teacher: `:teacher:` | :factory_worker: `:factory_worker:` | :technologist: `:technologist:` |
+| :office_worker: `:office_worker:` | :mechanic: `:mechanic:` | :scientist: `:scientist:` |
+| :astronaut: `:astronaut:` | :firefighter: `:firefighter:` | :people_holding_hands: `:people_holding_hands:` |
+| :person_with_probing_cane: `:person_with_probing_cane:` | :person_red_hair: `:person_red_hair:` | :person_curly_hair: `:person_curly_hair:` |
+| :person_bald: `:person_bald:` | :person_white_hair: `:person_white_hair:` | :person_in_motorized_wheelchair: `:person_in_motorized_wheelchair:` |
+| :person_in_manual_wheelchair: `:person_in_manual_wheelchair:` | :child: `:child:` | :older_adult: `:older_adult:` |
+| :bearded_person: `:bearded_person:` | :woman_beard: `:woman_beard:` | :man_beard: `:man_beard:` |
+| :woman_with_headscarf: `:woman_with_headscarf:` | :sauna_person: `:sauna_person:` | :sauna_woman: `:sauna_woman:` |
+| :sauna_man: `:sauna_man:` | :climbing: `:climbing:` | :climbing_woman: `:climbing_woman:` |
+| :climbing_man: `:climbing_man:` | :lotus_position: `:lotus_position:` | :lotus_position_woman: `:lotus_position_woman:` |
+| :lotus_position_man: `:lotus_position_man:` | :mage: `:mage:` | :mage_woman: `:mage_woman:` |
+| :mage_man: `:mage_man:` | :fairy: `:fairy:` | :fairy_woman: `:fairy_woman:` |
+| :fairy_man: `:fairy_man:` | :vampire: `:vampire:` | :vampire_woman: `:vampire_woman:` |
+| :vampire_man: `:vampire_man:` | :merperson: `:merperson:` | :mermaid: `:mermaid:` |
+| :merman: `:merman:` | :elf: `:elf:` | :elf_woman: `:elf_woman:` |
+| :elf_man: `:elf_man:` | :genie: `:genie:` | :genie_woman: `:genie_woman:` |
+| :genie_man: `:genie_man:` | :zombie: `:zombie:` | :zombie_woman: `:zombie_woman:` |
+| :zombie_man: `:zombie_man:` | :brain: `:brain:` | :anatomical_heart: `:anatomical_heart:` |
+| :lungs: `:lungs:` | :people_hugging: `:people_hugging:` | :pregnant_man: `:pregnant_man:` |
+| :pregnant_person: `:pregnant_person:` | :person_with_crown: `:person_with_crown:` | :rescue_worker_helmet: `:rescue_worker_helmet:` |
+| :womans_hat: `:womans_hat:` | :bikini: `:bikini:` | :womans_clothes: `:womans_clothes:` |
+| :athletic_shoe: `:athletic_shoe:` | :sari: `:sari:` | :lab_coat: `:lab_coat:` |
+| :hiking_boot: `:hiking_boot:` | :flat_shoe: `:flat_shoe:` | :safety_vest: `:safety_vest:` |
+| :billed_cap: `:billed_cap:` | :scarf: `:scarf:` | :gloves: `:gloves:` |
+| :coat: `:coat:` | :socks: `:socks:` | :thong_sandal: `:thong_sandal:` |
+| :military_helmet: `:military_helmet:` |  |  |
 
 
 ### Animals and Nature
@@ -190,33 +198,35 @@ A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of githu
 | :lady_beetle: `:lady_beetle:` | :fish: `:fish:` | :tropical_fish: `:tropical_fish:` |
 | :blowfish: `:blowfish:` | :turtle: `:turtle:` | :hatching_chick: `:hatching_chick:` |
 | :baby_chick: `:baby_chick:` | :hatched_chick: `:hatched_chick:` | :bird: `:bird:` |
-| :penguin: `:penguin:` | :koala: `:koala:` | :poodle: `:poodle:` |
-| :dromedary_camel: `:dromedary_camel:` | :camel: `:camel:` | :dolphin: `:dolphin:` |
-| :flipper: `:flipper:` | :mouse: `:mouse:` | :cow: `:cow:` |
-| :tiger: `:tiger:` | :rabbit: `:rabbit:` | :cat: `:cat:` |
-| :dragon_face: `:dragon_face:` | :whale: `:whale:` | :horse: `:horse:` |
-| :monkey_face: `:monkey_face:` | :dog: `:dog:` | :pig: `:pig:` |
-| :frog: `:frog:` | :hamster: `:hamster:` | :wolf: `:wolf:` |
-| :bear: `:bear:` | :polar_bear: `:polar_bear:` | :panda_face: `:panda_face:` |
-| :pig_nose: `:pig_nose:` | :feet: `:feet:` | :paw_prints: `:paw_prints:` |
-| :chipmunk: `:chipmunk:` | :dove: `:dove:` | :spider: `:spider:` |
-| :hear_no_evil: `:hear_no_evil:` | :speak_no_evil: `:speak_no_evil:` | :crab: `:crab:` |
-| :lion: `:lion:` | :scorpion: `:scorpion:` | :turkey: `:turkey:` |
-| :unicorn: `:unicorn:` | :eagle: `:eagle:` | :duck: `:duck:` |
-| :bat: `:bat:` | :shark: `:shark:` | :owl: `:owl:` |
-| :fox_face: `:fox_face:` | :butterfly: `:butterfly:` | :deer: `:deer:` |
-| :gorilla: `:gorilla:` | :lizard: `:lizard:` | :rhinoceros: `:rhinoceros:` |
-| :shrimp: `:shrimp:` | :squid: `:squid:` | :giraffe: `:giraffe:` |
-| :zebra: `:zebra:` | :hedgehog: `:hedgehog:` | :sauropod: `:sauropod:` |
-| :t-rex: `:t-rex:` | :cricket: `:cricket:` | :kangaroo: `:kangaroo:` |
-| :llama: `:llama:` | :peacock: `:peacock:` | :hippopotamus: `:hippopotamus:` |
-| :parrot: `:parrot:` | :raccoon: `:raccoon:` | :lobster: `:lobster:` |
-| :mosquito: `:mosquito:` | :microbe: `:microbe:` | :badger: `:badger:` |
-| :swan: `:swan:` | :mammoth: `:mammoth:` | :dodo: `:dodo:` |
-| :sloth: `:sloth:` | :otter: `:otter:` | :orangutan: `:orangutan:` |
-| :skunk: `:skunk:` | :oyster: `:oyster:` | :beaver: `:beaver:` |
-| :bison: `:bison:` | :seal: `:seal:` | :guide_dog: `:guide_dog:` |
-| :fly: `:fly:` | :worm: `:worm:` | :cockroach: `:cockroach:` |
+| :black_bird: `:black_bird:` | :penguin: `:penguin:` | :koala: `:koala:` |
+| :poodle: `:poodle:` | :dromedary_camel: `:dromedary_camel:` | :camel: `:camel:` |
+| :dolphin: `:dolphin:` | :flipper: `:flipper:` | :mouse: `:mouse:` |
+| :cow: `:cow:` | :tiger: `:tiger:` | :rabbit: `:rabbit:` |
+| :cat: `:cat:` | :dragon_face: `:dragon_face:` | :whale: `:whale:` |
+| :horse: `:horse:` | :monkey_face: `:monkey_face:` | :dog: `:dog:` |
+| :pig: `:pig:` | :frog: `:frog:` | :hamster: `:hamster:` |
+| :wolf: `:wolf:` | :bear: `:bear:` | :polar_bear: `:polar_bear:` |
+| :panda_face: `:panda_face:` | :pig_nose: `:pig_nose:` | :feet: `:feet:` |
+| :paw_prints: `:paw_prints:` | :chipmunk: `:chipmunk:` | :dove: `:dove:` |
+| :spider: `:spider:` | :hear_no_evil: `:hear_no_evil:` | :speak_no_evil: `:speak_no_evil:` |
+| :crab: `:crab:` | :lion: `:lion:` | :scorpion: `:scorpion:` |
+| :turkey: `:turkey:` | :unicorn: `:unicorn:` | :eagle: `:eagle:` |
+| :duck: `:duck:` | :bat: `:bat:` | :shark: `:shark:` |
+| :owl: `:owl:` | :fox_face: `:fox_face:` | :butterfly: `:butterfly:` |
+| :deer: `:deer:` | :gorilla: `:gorilla:` | :lizard: `:lizard:` |
+| :rhinoceros: `:rhinoceros:` | :shrimp: `:shrimp:` | :squid: `:squid:` |
+| :giraffe: `:giraffe:` | :zebra: `:zebra:` | :hedgehog: `:hedgehog:` |
+| :sauropod: `:sauropod:` | :t-rex: `:t-rex:` | :cricket: `:cricket:` |
+| :kangaroo: `:kangaroo:` | :llama: `:llama:` | :peacock: `:peacock:` |
+| :hippopotamus: `:hippopotamus:` | :parrot: `:parrot:` | :raccoon: `:raccoon:` |
+| :lobster: `:lobster:` | :mosquito: `:mosquito:` | :microbe: `:microbe:` |
+| :badger: `:badger:` | :swan: `:swan:` | :mammoth: `:mammoth:` |
+| :dodo: `:dodo:` | :sloth: `:sloth:` | :otter: `:otter:` |
+| :orangutan: `:orangutan:` | :skunk: `:skunk:` | :oyster: `:oyster:` |
+| :beaver: `:beaver:` | :bison: `:bison:` | :seal: `:seal:` |
+| :guide_dog: `:guide_dog:` | :fly: `:fly:` | :worm: `:worm:` |
+| :cockroach: `:cockroach:` | :jellyfish: `:jellyfish:` | :wing: `:wing:` |
+| :goose: `:goose:` | :moose: `:moose:` | :donkey: `:donkey:` |
 | :sunny: `:sunny:` | :cloud: `:cloud:` | :snowman_with_snow: `:snowman_with_snow:` |
 | :comet: `:comet:` | :umbrella: `:umbrella:` | :shamrock: `:shamrock:` |
 | :zap: `:zap:` | :snowman: `:snowman:` | :partly_sunny: `:partly_sunny:` |
@@ -243,7 +253,9 @@ A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of githu
 | :sweat_drops: `:sweat_drops:` | :droplet: `:droplet:` | :dash: `:dash:` |
 | :dizzy: `:dizzy:` | :fire: `:fire:` | :wilted_flower: `:wilted_flower:` |
 | :ringed_planet: `:ringed_planet:` | :rock: `:rock:` | :potted_plant: `:potted_plant:` |
-| :wood: `:wood:` | :feather: `:feather:` |  |
+| :wood: `:wood:` | :feather: `:feather:` | :lotus: `:lotus:` |
+| :coral: `:coral:` | :empty_nest: `:empty_nest:` | :nest_with_eggs: `:nest_with_eggs:` |
+| :hyacinth: `:hyacinth:` | :bubbles: `:bubbles:` |  |
 
 
 ### Food and Drink
@@ -290,7 +302,9 @@ A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of githu
 | :butter: `:butter:` | :mate: `:mate:` | :ice_cube: `:ice_cube:` |
 | :bubble_tea: `:bubble_tea:` | :blueberries: `:blueberries:` | :bell_pepper: `:bell_pepper:` |
 | :olive: `:olive:` | :flatbread: `:flatbread:` | :tamale: `:tamale:` |
-| :fondue: `:fondue:` | :teapot: `:teapot:` |  |
+| :fondue: `:fondue:` | :teapot: `:teapot:` | :pouring_liquid: `:pouring_liquid:` |
+| :beans: `:beans:` | :jar: `:jar:` | :ginger_root: `:ginger_root:` |
+| :pea_pod: `:pea_pod:` |  |  |
 
 
 ### Activity
@@ -320,19 +334,20 @@ A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of githu
 | :rowboat: `:rowboat:` | :rowing_man: `:rowing_man:` | :rowing_woman: `:rowing_woman:` |
 | :bicyclist: `:bicyclist:` | :biking_man: `:biking_man:` | :biking_woman: `:biking_woman:` |
 | :mountain_bicyclist: `:mountain_bicyclist:` | :mountain_biking_man: `:mountain_biking_man:` | :mountain_biking_woman: `:mountain_biking_woman:` |
-| :sled: `:sled:` | :skateboard: `:skateboard:` | :roller_skate: `:roller_skate:` |
-| :cartwheeling: `:cartwheeling:` | :woman_cartwheeling: `:woman_cartwheeling:` | :man_cartwheeling: `:man_cartwheeling:` |
-| :woman_juggling: `:woman_juggling:` | :man_juggling: `:man_juggling:` | :person_fencing: `:person_fencing:` |
-| :wrestling: `:wrestling:` | :women_wrestling: `:women_wrestling:` | :men_wrestling: `:men_wrestling:` |
-| :water_polo: `:water_polo:` | :woman_playing_water_polo: `:woman_playing_water_polo:` | :man_playing_water_polo: `:man_playing_water_polo:` |
-| :handball_person: `:handball_person:` | :woman_playing_handball: `:woman_playing_handball:` | :man_playing_handball: `:man_playing_handball:` |
-| :diving_mask: `:diving_mask:` | :drum: `:drum:` | :goal_net: `:goal_net:` |
-| :1st_place_medal: `:1st_place_medal:` | :2nd_place_medal: `:2nd_place_medal:` | :3rd_place_medal: `:3rd_place_medal:` |
-| :boxing_glove: `:boxing_glove:` | :martial_arts_uniform: `:martial_arts_uniform:` | :curling_stone: `:curling_stone:` |
-| :lacrosse: `:lacrosse:` | :softball: `:softball:` | :flying_disc: `:flying_disc:` |
-| :goggles: `:goggles:` | :ballet_shoes: `:ballet_shoes:` | :one_piece_swimsuit: `:one_piece_swimsuit:` |
-| :swim_brief: `:swim_brief:` | :shorts: `:shorts:` | :yo_yo: `:yo_yo:` |
-| :magic_wand: `:magic_wand:` | :pinata: `:pinata:` | :accordion: `:accordion:` |
+| :playground_slide: `:playground_slide:` | :sled: `:sled:` | :skateboard: `:skateboard:` |
+| :roller_skate: `:roller_skate:` | :cartwheeling: `:cartwheeling:` | :woman_cartwheeling: `:woman_cartwheeling:` |
+| :man_cartwheeling: `:man_cartwheeling:` | :woman_juggling: `:woman_juggling:` | :man_juggling: `:man_juggling:` |
+| :person_fencing: `:person_fencing:` | :wrestling: `:wrestling:` | :women_wrestling: `:women_wrestling:` |
+| :men_wrestling: `:men_wrestling:` | :water_polo: `:water_polo:` | :woman_playing_water_polo: `:woman_playing_water_polo:` |
+| :man_playing_water_polo: `:man_playing_water_polo:` | :handball_person: `:handball_person:` | :woman_playing_handball: `:woman_playing_handball:` |
+| :man_playing_handball: `:man_playing_handball:` | :diving_mask: `:diving_mask:` | :drum: `:drum:` |
+| :goal_net: `:goal_net:` | :1st_place_medal: `:1st_place_medal:` | :2nd_place_medal: `:2nd_place_medal:` |
+| :3rd_place_medal: `:3rd_place_medal:` | :boxing_glove: `:boxing_glove:` | :martial_arts_uniform: `:martial_arts_uniform:` |
+| :curling_stone: `:curling_stone:` | :lacrosse: `:lacrosse:` | :softball: `:softball:` |
+| :flying_disc: `:flying_disc:` | :goggles: `:goggles:` | :ballet_shoes: `:ballet_shoes:` |
+| :one_piece_swimsuit: `:one_piece_swimsuit:` | :swim_brief: `:swim_brief:` | :shorts: `:shorts:` |
+| :yo_yo: `:yo_yo:` | :magic_wand: `:magic_wand:` | :pinata: `:pinata:` |
+| :maracas: `:maracas:` | :flute: `:flute:` | :accordion: `:accordion:` |
 | :long_drum: `:long_drum:` |  |  |
 
 
@@ -376,11 +391,12 @@ A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of githu
 | :aerial_tramway: `:aerial_tramway:` | :ship: `:ship:` | :speedboat: `:speedboat:` |
 | :traffic_light: `:traffic_light:` | :vertical_traffic_light: `:vertical_traffic_light:` | :construction: `:construction:` |
 | :rotating_light: `:rotating_light:` | :bike: `:bike:` | :hindu_temple: `:hindu_temple:` |
-| :hut: `:hut:` | :motorway: `:motorway:` | :railway_track: `:railway_track:` |
-| :motor_boat: `:motor_boat:` | :small_airplane: `:small_airplane:` | :flight_departure: `:flight_departure:` |
-| :flight_arrival: `:flight_arrival:` | :passenger_ship: `:passenger_ship:` | :kick_scooter: `:kick_scooter:` |
-| :motor_scooter: `:motor_scooter:` | :canoe: `:canoe:` | :auto_rickshaw: `:auto_rickshaw:` |
-| :pickup_truck: `:pickup_truck:` | :window: `:window:` |  |
+| :hut: `:hut:` | :wheel: `:wheel:` | :ring_buoy: `:ring_buoy:` |
+| :motorway: `:motorway:` | :railway_track: `:railway_track:` | :motor_boat: `:motor_boat:` |
+| :small_airplane: `:small_airplane:` | :flight_departure: `:flight_departure:` | :flight_arrival: `:flight_arrival:` |
+| :passenger_ship: `:passenger_ship:` | :kick_scooter: `:kick_scooter:` | :motor_scooter: `:motor_scooter:` |
+| :canoe: `:canoe:` | :auto_rickshaw: `:auto_rickshaw:` | :pickup_truck: `:pickup_truck:` |
+| :crutch: `:crutch:` | :window: `:window:` |  |
 
 
 ### Objects
@@ -474,14 +490,16 @@ A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of githu
 | :broom: `:broom:` | :basket: `:basket:` | :roll_of_paper: `:roll_of_paper:` |
 | :soap: `:soap:` | :sponge: `:sponge:` | :receipt: `:receipt:` |
 | :drop_of_blood: `:drop_of_blood:` | :adhesive_bandage: `:adhesive_bandage:` | :stethoscope: `:stethoscope:` |
-| :kite: `:kite:` | :parachute: `:parachute:` | :boomerang: `:boomerang:` |
-| :nesting_dolls: `:nesting_dolls:` | :chair: `:chair:` | :razor: `:razor:` |
-| :axe: `:axe:` | :diya_lamp: `:diya_lamp:` | :banjo: `:banjo:` |
-| :coin: `:coin:` | :carpentry_saw: `:carpentry_saw:` | :screwdriver: `:screwdriver:` |
-| :ladder: `:ladder:` | :hook: `:hook:` | :mirror: `:mirror:` |
-| :plunger: `:plunger:` | :sewing_needle: `:sewing_needle:` | :knot: `:knot:` |
-| :bucket: `:bucket:` | :mouse_trap: `:mouse_trap:` | :toothbrush: `:toothbrush:` |
-| :headstone: `:headstone:` | :placard: `:placard:` |  |
+| :x_ray: `:x_ray:` | :kite: `:kite:` | :parachute: `:parachute:` |
+| :boomerang: `:boomerang:` | :nesting_dolls: `:nesting_dolls:` | :chair: `:chair:` |
+| :razor: `:razor:` | :axe: `:axe:` | :diya_lamp: `:diya_lamp:` |
+| :banjo: `:banjo:` | :coin: `:coin:` | :carpentry_saw: `:carpentry_saw:` |
+| :screwdriver: `:screwdriver:` | :ladder: `:ladder:` | :hook: `:hook:` |
+| :mirror: `:mirror:` | :plunger: `:plunger:` | :sewing_needle: `:sewing_needle:` |
+| :knot: `:knot:` | :bucket: `:bucket:` | :mouse_trap: `:mouse_trap:` |
+| :toothbrush: `:toothbrush:` | :headstone: `:headstone:` | :placard: `:placard:` |
+| :mirror_ball: `:mirror_ball:` | :identification_card: `:identification_card:` | :low_battery: `:low_battery:` |
+| :hamsa: `:hamsa:` | :folding_hand_fan: `:folding_hand_fan:` | :hair_pick: `:hair_pick:` |
 
 
 ### Symbols
@@ -577,12 +595,14 @@ A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of githu
 | :womens: `:womens:` | :restroom: `:restroom:` | :baby_symbol: `:baby_symbol:` |
 | :wc: `:wc:` | :passport_control: `:passport_control:` | :customs: `:customs:` |
 | :baggage_claim: `:baggage_claim:` | :left_luggage: `:left_luggage:` | :place_of_worship: `:place_of_worship:` |
-| :stop_sign: `:stop_sign:` | :elevator: `:elevator:` | :orange_circle: `:orange_circle:` |
-| :yellow_circle: `:yellow_circle:` | :green_circle: `:green_circle:` | :purple_circle: `:purple_circle:` |
-| :brown_circle: `:brown_circle:` | :red_square: `:red_square:` | :blue_square: `:blue_square:` |
-| :orange_square: `:orange_square:` | :yellow_square: `:yellow_square:` | :green_square: `:green_square:` |
-| :purple_square: `:purple_square:` | :brown_square: `:brown_square:` | :white_heart: `:white_heart:` |
-| :brown_heart: `:brown_heart:` | :orange_heart: `:orange_heart:` | :nazar_amulet: `:nazar_amulet:` |
+| :stop_sign: `:stop_sign:` | :elevator: `:elevator:` | :wireless: `:wireless:` |
+| :orange_circle: `:orange_circle:` | :yellow_circle: `:yellow_circle:` | :green_circle: `:green_circle:` |
+| :purple_circle: `:purple_circle:` | :brown_circle: `:brown_circle:` | :red_square: `:red_square:` |
+| :blue_square: `:blue_square:` | :orange_square: `:orange_square:` | :yellow_square: `:yellow_square:` |
+| :green_square: `:green_square:` | :purple_square: `:purple_square:` | :brown_square: `:brown_square:` |
+| :heavy_equals_sign: `:heavy_equals_sign:` | :white_heart: `:white_heart:` | :brown_heart: `:brown_heart:` |
+| :orange_heart: `:orange_heart:` | :nazar_amulet: `:nazar_amulet:` | :light_blue_heart: `:light_blue_heart:` |
+| :grey_heart: `:grey_heart:` | :pink_heart: `:pink_heart:` | :khanda: `:khanda:` |
 
 
 ### Flags and Countries
