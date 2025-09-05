@@ -76,6 +76,13 @@
     "category": "Symbol"
   },
   {
+    "alias": [
+      "accessibility"
+    ],
+    "unicode": false,
+    "category": "Custom"
+  },
+  {
     "alias": "accordion",
     "unicode": "🪗",
     "category": "Activity"
@@ -1938,6 +1945,13 @@
     "category": "Symbol"
   },
   {
+    "alias": [
+      "copilot"
+    ],
+    "unicode": false,
+    "category": "Custom"
+  },
+  {
     "alias": "copyright",
     "unicode": "©️",
     "category": "Symbol"
@@ -2282,6 +2296,13 @@
     "alias": "department_store",
     "unicode": "🏬",
     "category": "Travel"
+  },
+  {
+    "alias": [
+      "dependabot"
+    ],
+    "unicode": false,
+    "category": "Custom"
   },
   {
     "alias": "derelict_house",
@@ -3070,6 +3091,13 @@
     "alias": "fishing_pole_and_fish",
     "unicode": "🎣",
     "category": "Activity"
+  },
+  {
+    "alias": [
+      "fishsticks"
+    ],
+    "unicode": false,
+    "category": "Custom"
   },
   {
     "alias": "fist_left",

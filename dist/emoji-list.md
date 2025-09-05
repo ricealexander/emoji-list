@@ -686,10 +686,11 @@ A list of GitHub emoji markup, adapted from rxavier’s _[Complete list of githu
 
 | | | |
 |---|---|---|
-| :atom: `:atom:` | :basecamp: `:basecamp:` | :basecampy: `:basecampy:` |
-| :bowtie: `:bowtie:` | :electron: `:electron:` | :feelsgood: `:feelsgood:` |
-| :finnadie: `:finnadie:` | :goberserk: `:goberserk:` | :godmode: `:godmode:` |
-| :hurtrealbad: `:hurtrealbad:` | :neckbeard: `:neckbeard:` | :octocat: `:octocat:` |
-| :rage1: `:rage1:` | :rage2: `:rage2:` | :rage3: `:rage3:` |
-| :rage4: `:rage4:` | :shipit: `:shipit:` | :suspect: `:suspect:` |
-| :trollface: `:trollface:` |  |  |
+| :accessibility: `:accessibility:` | :atom: `:atom:` | :basecamp: `:basecamp:` |
+| :basecampy: `:basecampy:` | :bowtie: `:bowtie:` | :copilot: `:copilot:` |
+| :dependabot: `:dependabot:` | :electron: `:electron:` | :feelsgood: `:feelsgood:` |
+| :finnadie: `:finnadie:` | :fishsticks: `:fishsticks:` | :goberserk: `:goberserk:` |
+| :godmode: `:godmode:` | :hurtrealbad: `:hurtrealbad:` | :neckbeard: `:neckbeard:` |
+| :octocat: `:octocat:` | :rage1: `:rage1:` | :rage2: `:rage2:` |
+| :rage3: `:rage3:` | :rage4: `:rage4:` | :shipit: `:shipit:` |
+| :suspect: `:suspect:` | :trollface: `:trollface:` |  |
